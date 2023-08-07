@@ -21,7 +21,11 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 [PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood)
 
+# Surveys
 
+[Generalized Out-of-Distribution Detection: A Survey](https://arxiv.org/pdf/2110.11334.pdf) by Yang et al
+
+[A Unified Survey on Anomaly, Novelty, Open-Set, and Out of-Distribution Detection: Solutions and Future Challenges](https://arxiv.org/pdf/2110.14051.pdf) by Salehi et al.
 
 # Papers
 
