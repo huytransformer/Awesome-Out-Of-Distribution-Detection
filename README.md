@@ -1,3 +1,17 @@
+# Articles
+
+[(2020) Out-of-Distribution Detection in Deep Neural Networks](https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044) by Neeraj Varshney
+
+
+# Talks
+
+[(2022) Reliable Open-World Learning Against Out-of-distribution Data](https://www.youtube.com/watch?v=zaXiHljOl9Y&t=22s) by Sharon Yixuan Li
+
+[(2022) Challenges and Opportunities in Out-of-distribution Detection](https://www.youtube.com/watch?v=X8XTOiNin0I&t=523s) by Sharon Yixuan Li
+
+[(2022) Exploring the limits of out-of-distribution detection in vision and biomedical applications](https://www.youtube.com/watch?v=cSkBcqBhKVY) by Jie Ren
+
+[(2020) Uncertainty and Out-of-Distribution Robustness in Deep Learning](https://www.youtube.com/watch?v=ssD7jNDIL2c&t=2293s) by Balaji Lakshminarayanan, Dustin Tran, and Jasper Snoek
 
 # Papers
 
