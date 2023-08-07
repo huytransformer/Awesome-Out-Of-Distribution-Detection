@@ -71,6 +71,18 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (ICML 2023) [In or Out? Fixing ImageNet Out-of-Distribution Detection Evaluation](https://arxiv.org/pdf/2306.00826.pdf) by Bitterwolf et al.
 
+(AAAI 2023) [READ: Aggregating Reconstruction Error into Out-of-Distribution Detection](https://arxiv.org/pdf/2206.07459.pdf) by Jiang et al.
+
+(AAAI 2023) [On the Connection between Invariant Learning and Adversarial Training for Out-of-Distribution Generalization](https://ojs.aaai.org/index.php/AAAI/article/view/26250/26022) by Xin et al.
+
+(AAAI 2023) [Certifiable Out-of-Distribution Generalization](Certifiable Out-of-Distribution Generalization) by Ye et al.
+
+(AAAI 2023) [Bayesian Cross-Modal Alignment Learning for Few-Shot Out-of-Distribution Generalization](https://ojs.aaai.org/index.php/AAAI/article/view/26355/26127) by Zhu et al.
+
+(AAAI 2023) [Towards In-Distribution Compatible Out-of-Distribution Detection](https://ojs.aaai.org/index.php/AAAI/article/view/26230/26002) by Wu et al.
+
+(AAAI 2023) [Out-of-Distribution Generalization by Neural-Symbolic Joint Training](https://ojs.aaai.org/index.php/AAAI/article/view/26444/26216) by Liu et al.
+
 (TMLR 2022) [Linking Neural Collapse and L2 Normalization with Improved Out-of-Distribution Detection in Deep Neural Networks](https://openreview.net/pdf?id=fjkN5Ur2d6) by Haas et al.
 
 (TMLR 2022) [The Evolution of Out-of-Distribution Robustness Throughout Fine-Tuning](https://openreview.net/pdf?id=Qs3EfpieOh) by Andreassen et al.
