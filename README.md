@@ -1,6 +1,10 @@
 This repo aims to provide a comprehensive resource for OOD detection, robustness, and generalization. If you spot errors or omissions, please open an issue or contact me at continuousml@gmail.com.
 
-[![Contributing][contributing-image]][contributing-url]
+<a href="https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=continuousml/Awesome-Out-Of-Distribution-Detection" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 # Articles
 
