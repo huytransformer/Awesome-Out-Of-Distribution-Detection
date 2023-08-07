@@ -127,6 +127,28 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (ICML 2022) [Scaling Out-of-Distribution Detection for Real-World Settings](https://arxiv.org/pdf/1911.11132.pdf) by Hendrycks et al.
 
+(ICML 2022) [Certifying Out-of-Domain Generalization for Blackbox Functions](https://proceedings.mlr.press/v162/weber22a/weber22a.pdf) by Weber et al.
+
+(ICML 2022) [Open-Sampling: Exploring Out-of-Distribution data for Re-balancing Long-tailed datasets](https://proceedings.mlr.press/v162/wei22c/wei22c.pdf) by Wei et al.
+
+(ICML 2022) [Model Agnostic Sample Reweighting for Out-of-Distribution Learning](https://proceedings.mlr.press/v162/hendrycks22a/hendrycks22a.pdf](https://proceedings.mlr.press/v162/zhou22d/zhou22d.pdf) by Zhou et al.
+
+(ICML 2022) [Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition](https://proceedings.mlr.press/v162/wang22aq/wang22aq.pdf) by Wang et al.
+
+(ICML 2022) [Fishr: Invariant Gradient Variances for Out-of-Distribution Generalization](https://proceedings.mlr.press/v162/rame22a/rame22a.pdf) by Ramé et al.
+
+(ICML 2022) [Breaking Down Out-of-Distribution Detection: Many Methods Based on OOD Training Data Estimate a Combination of the Same Core Quantities](https://proceedings.mlr.press/v162/bitterwolf22a/bitterwolf22a.pdf) by Bitterwolf et al.
+
+(ICML 2022) [Predicting Out-of-Distribution Error with the Projection Norm](https://proceedings.mlr.press/v162/yu22i/yu22i.pdf) by Yu et al.
+
+(ICML 2022) [POEM: Out-of-Distribution Detection with Posterior Sampling](https://proceedings.mlr.press/v162/ming22a/ming22a.pdf) by Ming et al.
+
+(ICML 2022) [(kNN) Out-of-Distribution Detection with Deep Nearest Neighbors](https://arxiv.org/pdf/2204.06507.pdf) by Sun et al.
+
+(ICML 2022) [Improving Out-of-Distribution Robustness via Selective Augmentation](https://proceedings.mlr.press/v162/yao22b/yao22b.pdf) by Yao et al.
+
+(ICML 2022) [Training OOD Detectors in their Natural Habitats](https://proceedings.mlr.press/v162/katz-samuels22a/katz-samuels22a.pdf) by Katz-Samuels et al.
+
 (ICLR 2022) [Extremely Simple Activation Shaping for Out-of-Distribution Detection](https://arxiv.org/pdf/2209.09858.pdf) by Djurisic et al.
 
 (ICLR 2022) [Revisiting flow generative models for Out-of-distribution detection](https://openreview.net/pdf?id=6y2KBh-0Fd9) by Jiang et al.
@@ -146,8 +168,6 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 (ICLR 2022) [How to Exploit Hyperspherical Embeddings for Out-of-Distribution Detection?](https://arxiv.org/pdf/2203.04450.pdf) by Ming et al.
 
 (ICLR 2022) [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/pdf/2202.01197.pdf) by Du et al.
-
-(ICLR 2022) [(kNN) Out-of-Distribution Detection with Deep Nearest Neighbors](https://arxiv.org/pdf/2204.06507.pdf) by Sun et al.
 
 (AAAI 2022) [On the Impact of Spurious Correlation for Out-of-distribution Detection](https://arxiv.org/pdf/2109.05642.pdf) by Ming et al.
 
@@ -210,6 +230,16 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 (ICLR 2021) [Removing Undesirable Feature Contributions Using Out-of-Distribution Data](https://openreview.net/pdf?id=eIHYL6fpbkA) by Lee et al.
 
 (ICLR 2021) [In-N-Out: Pre-Training and Self-Training using Auxiliary Information for Out-of-Distribution Robustness](https://openreview.net/pdf?id=jznizqvr15J) by Xie et al.
+
+(ICML 2021) [Understanding Failures in Out-of-Distribution Detection with Deep Generative Models](http://proceedings.mlr.press/v139/zhang21g/zhang21g.pdf) by Zhang et al.
+
+(ICML 2021) [Accuracy on the Line: on the Strong Correlation Between Out-of-Distribution and In-Distribution Generalization](http://proceedings.mlr.press/v139/miller21b/miller21b.pdf) by Miller et al.
+
+(ICML 2021) [Out-of-Distribution Generalization via Risk Extrapolation (REx)](http://proceedings.mlr.press/v139/krueger21a/krueger21a.pdf) by Krueger et al.
+
+(ICML 2021) [Can Subnetwork Structure Be the Key to Out-of-Distribution Generalization?](http://proceedings.mlr.press/v139/zhang21a/zhang21a.pdf) by Zhang et al.
+
+(ICML 2021) [Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization](http://proceedings.mlr.press/v139/baranwal21a/baranwal21a.pdf) by Baranwal et al.
 
 (ICCV 2021) [Semantically Coherent Out-of-Distribution Detection](https://arxiv.org/pdf/2108.11941.pdf) by Yang et al.
 
