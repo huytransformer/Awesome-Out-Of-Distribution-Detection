@@ -1,5 +1,7 @@
 This repo aims to provide a comprehensive resource for OOD detection, robustness, and generalization. If you spot errors or omissions, please open an issue or contact me at continuousml@gmail.com.
 
+[![Contributing][contributing-image]][contributing-url]
+
 # Articles
 
 [(2020) Out-of-Distribution Detection in Deep Neural Networks](https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044) by Neeraj Varshney
