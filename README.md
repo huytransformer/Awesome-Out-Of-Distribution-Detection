@@ -9,6 +9,14 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 [(2020) Out-of-Distribution Detection in Deep Neural Networks](https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044) by Neeraj Varshney
 
+# Researchers
+
+- Dan Hendrycks [[Twitter]](https://twitter.com/DanHendrycks) [[Scholar]](https://scholar.google.com/citations?user=czyretsAAAAJ&hl=en)
+
+- Sharon Y. Li [[Twitter]](https://twitter.com/SharonYixuanLi) [[Scholar]](https://scholar.google.com/citations?user=QSTd1oUAAAAJ)
+
+- Yiyou Sun [[Twitter]](https://twitter.com/YiyouSun) [[Scholar]](https://scholar.google.com/citations?user=IKqlQo4AAAAJ)
+  
 
 # Talks
 
