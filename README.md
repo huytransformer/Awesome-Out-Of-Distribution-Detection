@@ -1,11 +1,61 @@
 
 # Papers
 
+(CVPR 2023) [LINe: Out-of-Distribution Detection by Leveraging Important Neurons](https://openaccess.thecvf.com/content/CVPR2023/papers/Ahn_LINe_Out-of-Distribution_Detection_by_Leveraging_Important_Neurons_CVPR_2023_paper.pdf) by Ahn et al.
+
+(ICLR 2023) [Non-Parametric Outlier Synthesis](https://arxiv.org/pdf/2303.02966.pdf) by Tao et al.
+
+(ICLR 2023) [Out-of-distribution Detection with Implicit Outlier Transformation](https://arxiv.org/pdf/2303.05033.pdf) by Wang et al.
+
+(CVPR 2022) [ViM: Out-Of-Distribution with Virtual-logit Matching](https://arxiv.org/pdf/2203.10807.pdf) by Wang et al.
+
+(CVPR 2022) [Unknown-Aware Object Detection: Learning What You Don't Know from Videos in the Wild](https://arxiv.org/pdf/2203.03800.pdf) by Du et al.
+
+(NeurIPS 2022) [OpenOOD: Benchmarking Generalized Out-of-Distribution Detection](https://arxiv.org/pdf/2210.07242.pdf) by Yang et al.
+
+(NeurIPS 2022) [Boosting Out-of-distribution Detection with Typical Features](https://arxiv.org/pdf/2210.04200.pdf) by Zhu et al.
+
+(NeurIPS 2022) [Delving into Out-of-Distribution Detection with Vision-Language Representations](https://arxiv.org/pdf/2211.13445.pdf) by Ming et al.
+
+(ICML 2022) [Mitigating Neural Network Overconfidence with Logit Normalization](https://arxiv.org/pdf/2205.09310.pdf) by Hsu et al.
+
+(ICML 2022) [Scaling Out-of-Distribution Detection for Real-World Settings](https://arxiv.org/pdf/1911.11132.pdf) by Hendrycks et al.
+
+(ICLR 2022) [Extremely Simple Activation Shaping for Out-of-Distribution Detection](https://arxiv.org/pdf/2209.09858.pdf) by Djurisic et al.
+
+(ICLR 2022) [Igeood: An Information Geometry Approach to Out-of-Distribution Detection](https://arxiv.org/pdf/2203.07798.pdf) by Gomes et al.
+
+(ICLR 2022) [How to Exploit Hyperspherical Embeddings for Out-of-Distribution Detection?](https://arxiv.org/pdf/2203.04450.pdf) by Ming et al.
+
+(ICLR 2022) [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/pdf/2202.01197.pdf) by Du et al.
+
+(ICLR 2022) [(kNN) Out-of-Distribution Detection with Deep Nearest Neighbors](https://arxiv.org/pdf/2204.06507.pdf) by Sun et al.
+
+(NeurIPS 2021) [RankFeat: Rank-1 Feature Removal for Out-of-distribution Detection](https://arxiv.org/pdf/2209.08590.pdf) by Song et al.
+
 (NeurIPS 2021) [ReAct: Out-of-distribution Detection With Rectified Activations](https://arxiv.org/pdf/2111.12797.pdf) by Sun et al.
+
+(NeurIPS 2021) [(GradNorm) On the Importance of Gradients for Detecting Distributional Shifts in the Wild](https://arxiv.org/pdf/2110.00218.pdf) by Huang et al.
+
+(NeurIPS 2021) [Watermarking for Out-of-distribution Detection](https://arxiv.org/pdf/2210.15198.pdf) by Wang et al.
+
+(NeurIPS 2021) [Can multi-label classification networks know what they don't know?](https://arxiv.org/pdf/2109.14162.pdf) by Wang et al.
 
 (CVPR 2021) [MOOD: Multi-level Out-of-distribution Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_MOOD_Multi-Level_Out-of-Distribution_Detection_CVPR_2021_paper.pdf) by Lin et al.
 
 (CVPR 2021) [MOS: Towards Scaling Out-of-distribution Detection for Large Semantic Space](https://arxiv.org/pdf/2105.01879.pdf) by Huang and Li
+
+(ICLR 2021) [SSD: A Unified Framework for Self-Supervised Outlier Detection](https://arxiv.org/pdf/2103.12051.pdf) by Sehwag et al.
+
+(ICCV 2021) [Semantically Coherent Out-of-Distribution Detection](https://arxiv.org/pdf/2108.11941.pdf) by Yang et al.
+
+(ICCV 2021) [CODEs: Chamfer Out-of-Distribution Examples against Overconfidence Issue](https://arxiv.org/pdf/2108.06024.pdf) by Tang et al.
+
+(ECCV 2021) [DICE: Leveraging Sparsification for Out-of-Distribution Detection](https://arxiv.org/pdf/2111.09805.pdf) by Sun and Li
+
+(AAAI 2021) [Provable Guarantees for Understanding Out-of-distribution Detection](https://arxiv.org/pdf/2112.00787.pdf) by Morteza and Li
+
+(AAAI 2021) [On the Impact of Spurious Correlation for Out-of-distribution Detection](https://arxiv.org/pdf/2109.05642.pdf) by Ming et al.
 
 (CVPR 2020) [Deep Residual Flow for Out of Distribution Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zisselman_Deep_Residual_Flow_for_Out_of_Distribution_Detection_CVPR_2020_paper.pdf) by Zisselman and Tamar
 
