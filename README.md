@@ -4,7 +4,9 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
   <img src="https://contrib.rocks/image?repo=continuousml/Awesome-Out-Of-Distribution-Detection" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+<a href="https://discord.gg/WEzyEx36">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 
 # Articles
 
