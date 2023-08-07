@@ -45,6 +45,24 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (ICLR 2023) [Out-of-distribution Detection with Implicit Outlier Transformation](https://arxiv.org/pdf/2303.05033.pdf) by Wang et al.
 
+(ICML 2023) [Unsupervised Out-of-Distribution Detection with Diffusion Inpainting](https://openreview.net/pdf?id=HiX1ybkFMl) by Liu et al.
+
+(ICML 2023) [Feed Two Birds with One Scone: Exploiting Wild Data for Both Out-of-Distribution Generalization and Detection](https://arxiv.org/pdf/2306.09158.pdf) by Bai et al.
+
+(ICML 2023) [Concept-based Explanations for Out-of-Distribution Detectors](https://openreview.net/pdf?id=a33IYBCFey) by Choi et al.
+
+(ICML 2023) [Hybrid Energy Based Model in the Feature Space for Out-of-Distribution Detection](https://openreview.net/pdf?id=61MLtEM-3gw) by Lafon et al.
+
+(ICML 2023) [Detecting Out-of-distribution Data through In-distribution Class Prior](https://openreview.net/pdf?id=charggEv8v) by Jiang et al.
+
+(ICML 2023) [Learning Unforeseen Robustness from Out-of-distribution Data Using Equivariant Domain Translator](https://proceedings.mlr.press/v202/zhu23a/zhu23a.pdf) by Zhu et al.
+
+(ICML 2023) [Unleashing Mask: Explore the Intrinsic Out-of-Distribution Detection Capability](https://arxiv.org/pdf/2306.03715.pdf) by Zhu et al
+
+(ICML 2023) [Out-of-Domain Robustness via Targeted Augmentations](https://arxiv.org/pdf/2302.11861.pdf) [Code](https://github.com/i-gao/targeted-augs) by Gao et al.
+
+(ICML 2023) [In or Out? Fixing ImageNet Out-of-Distribution Detection Evaluation](https://arxiv.org/pdf/2306.00826.pdf) by Bitterwolf et al.
+
 (CVPR 2022) [ViM: Out-Of-Distribution with Virtual-logit Matching](https://arxiv.org/pdf/2203.10807.pdf) by Wang et al.
 
 (CVPR 2022) [Out-of-Distribution Generalization With Causal Invariant Transformations](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Out-of-Distribution_Generalization_With_Causal_Invariant_Transformations_CVPR_2022_paper.pdf) by Wang et al.
