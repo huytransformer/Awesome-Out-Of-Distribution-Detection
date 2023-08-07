@@ -131,7 +131,7 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (ICML 2022) [Open-Sampling: Exploring Out-of-Distribution data for Re-balancing Long-tailed datasets](https://proceedings.mlr.press/v162/wei22c/wei22c.pdf) by Wei et al.
 
-(ICML 2022) [Model Agnostic Sample Reweighting for Out-of-Distribution Learning] (https://proceedings.mlr.press/v162/hendrycks22a/hendrycks22a.pdf](https://proceedings.mlr.press/v162/zhou22d/zhou22d.pdf) by Zhou et al.
+(ICML 2022) [Model Agnostic Sample Reweighting for Out-of-Distribution Learning](https://proceedings.mlr.press/v162/zhou22d/zhou22d.pdf) by Zhou et al.
 
 (ICML 2022) [Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition](https://proceedings.mlr.press/v162/wang22aq/wang22aq.pdf) by Wang et al.
 
