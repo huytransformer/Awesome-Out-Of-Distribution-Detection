@@ -1,3 +1,5 @@
+This repo aims to provide a comprehensive resource for OOD detection, robustness, and generalization. If you spot errors or omissions, please open an issue or contact me at continuousml@gmail.com.
+
 # Articles
 
 [(2020) Out-of-Distribution Detection in Deep Neural Networks](https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044) by Neeraj Varshney
@@ -12,6 +14,14 @@
 [(2022) Exploring the limits of out-of-distribution detection in vision and biomedical applications](https://www.youtube.com/watch?v=cSkBcqBhKVY) by Jie Ren
 
 [(2020) Uncertainty and Out-of-Distribution Robustness in Deep Learning](https://www.youtube.com/watch?v=ssD7jNDIL2c&t=2293s) by Balaji Lakshminarayanan, Dustin Tran, and Jasper Snoek
+
+# Benchmarks, libraries etc
+
+[OpenOOD: Benchmarking Generalized OOD Detection](https://github.com/Jingkang50/OpenOOD)
+
+[PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood)
+
+
 
 # Papers
 
@@ -101,6 +111,18 @@
 
 (ICLR 2022) [Extremely Simple Activation Shaping for Out-of-Distribution Detection](https://arxiv.org/pdf/2209.09858.pdf) by Djurisic et al.
 
+(ICLR 2022) [Revisiting flow generative models for Out-of-distribution detection](https://openreview.net/pdf?id=6y2KBh-0Fd9) by Jiang et al.
+
+(ICLR 2022) [Out-of-distribution Generalization in the Presence of Nuisance-Induced Spurious Correlations](https://openreview.net/pdf?id=12RoR2o32T) by Puli et al.
+
+(ICLR 2022) [PI3NN: Out-of-distribution-aware Prediction Intervals from Three Neural Networks] (https://openreview.net/pdf?id=NoB8YgRuoFU) by Liu et al.
+
+(ICLR 2022) [Uncertainty Modeling for Out-of-Distribution Generalization](https://openreview.net/pdf?id=6HN7LHyzGgC) by Li et al.
+
+(ICLR 2022) [(ATC) Leveraging unlabeled data to predict out-of-distribution performance](https://openreview.net/pdf?id=o_HsiMPYh_x) by Garg et al.
+
+(ICLR 2022) [Invariant Causal Representation Learning for Out-of-Distribution Generalization](https://openreview.net/pdf?id=-e4EXDWXnSn) by Lu et al.
+
 (ICLR 2022) [Igeood: An Information Geometry Approach to Out-of-Distribution Detection](https://arxiv.org/pdf/2203.07798.pdf) by Gomes et al.
 
 (ICLR 2022) [How to Exploit Hyperspherical Embeddings for Out-of-Distribution Detection?](https://arxiv.org/pdf/2203.04450.pdf) by Ming et al.
@@ -108,6 +130,18 @@
 (ICLR 2022) [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/pdf/2202.01197.pdf) by Du et al.
 
 (ICLR 2022) [(kNN) Out-of-Distribution Detection with Deep Nearest Neighbors](https://arxiv.org/pdf/2204.06507.pdf) by Sun et al.
+
+(AAAI 2022) [On the Impact of Spurious Correlation for Out-of-distribution Detection](https://arxiv.org/pdf/2109.05642.pdf) by Ming et al.
+
+(AAAI 2022) [iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection](https://www.aaai.org/AAAI22Papers/AAAI-12912.KaurR.pdf) by Kaur et al.
+
+(AAAI 2022) [Provable Guarantees for Understanding Out-of-distribution Detection](https://arxiv.org/pdf/2112.00787.pdf) by Morteza and Li
+
+(AAAI 2022) [VITA: A Multi-Source Vicinal Transfer Augmentation Method for Out-of-Distribution Generalization](https://www.aaai.org/AAAI22Papers/AAAI-733.ChenM.pdf) by Chen et al.
+
+(AAAI 2022) [Learning Modular Structures That Generalize Out-of-Distribution (Student Abstract)](https://www.aaai.org/AAAI22Papers/SA-00398-AshokA.pdf) by Ashok et al.
+
+(AAAI 2022) [Exploiting Mixed Unlabeled Data for Detecting Samples of Seen and Unseen Out-of-Distribution Classes](https://www.aaai.org/AAAI22Papers/AAAI-6640.SunY.pdf) by Sun and Wang
 
 (CVPR 2021) [Deep Stable Learning for Out-of-Distribution Generalization](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Deep_Stable_Learning_for_Out-of-Distribution_Generalization_CVPR_2021_paper.pdf) by Zhang et al.
 
@@ -117,9 +151,31 @@
 
 (CVPR 2021) [MOS: Towards Scaling Out-of-distribution Detection for Large Semantic Space](https://arxiv.org/pdf/2105.01879.pdf) by Huang and Li
 
+(NeurIPS 2021) [Single Layer Predictive Normalized Maximum Likelihood for Out-of-Distribution Detection](https://arxiv.org/pdf/2110.09246.pdf) by Bibas et al.
+
+(NeurIPS 2021) [A Winning Hand: Compressing Deep Networks Can Improve Out-of-Distribution Robustness](https://openreview.net/pdf?id=YygA0yppTR) by Diffenderfer et al.
+
+(NeurIPS 2021) [STEP: Out-of-Distribution Detection in the Presence of Limited In-Distribution Labeled Data](https://openreview.net/pdf?id=p9dySshcS0q) by Zhou et al.
+
+(NeurIPS 2021) [Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization](https://openreview.net/pdf?id=jlchsFOLfeF) by Ahuja et al.
+
+(NeurIPS 2021) [Exploring the Limits of Out-of-Distribution Detection](https://openreview.net/pdf?id=j5NrN8ffXC) by Fort et al.
+
+(NeurIPS 2021) [Learning Causal Semantic Representation for Out-of-Distribution Prediction](https://openreview.net/pdf?id=-msETI57gCH) by Liu et al.
+
+(NeurIPS 2021) [Towards a Theoretical Framework of Out-of-Distribution Generalization](https://openreview.net/pdf?id=kFJoj7zuDVi) by Ye et al.
+
+(NeurIPS 2021) [Out-of-Distribution Generalization in Kernel Regression](https://openreview.net/pdf?id=-h6Ldc0MO-) by Canatar et al.
+
+(NeurIPS 2021) [Towards optimally abstaining from prediction with OOD test examples](https://openreview.net/pdf?id=P9_gOq5w7Eb) by Kalai and Kanade
+
+(NeurIPS 2021) [Locally Most Powerful Bayesian Test for Out-of-Distribution Detection using Deep Generative Models](https://openreview.net/pdf?id=-nLW4nhdkO) by Kim et al.
+
 (NeurIPS 2021) [RankFeat: Rank-1 Feature Removal for Out-of-distribution Detection](https://arxiv.org/pdf/2209.08590.pdf) by Song et al.
 
 (NeurIPS 2021) [ReAct: Out-of-distribution Detection With Rectified Activations](https://arxiv.org/pdf/2111.12797.pdf) by Sun et al.
+
+(NeurIPS 2021) [Characterizing Generalization under Out-Of-Distribution Shifts in Deep Metric Learning](https://openreview.net/pdf?id=_KqWSCu566) by Millbich et al.
 
 (NeurIPS 2021) [(GradNorm) On the Importance of Gradients for Detecting Distributional Shifts in the Wild](https://arxiv.org/pdf/2110.00218.pdf) by Huang et al.
 
@@ -127,17 +183,21 @@
 
 (NeurIPS 2021) [Can multi-label classification networks know what they don't know?](https://arxiv.org/pdf/2109.14162.pdf) by Wang et al.
 
+(ICLR 2021) [Understanding the failure modes of out-of-distribution generalization](https://openreview.net/pdf?id=fSTD6NFIW_b) by Nagarajan et al.
+
 (ICLR 2021) [SSD: A Unified Framework for Self-Supervised Outlier Detection](https://arxiv.org/pdf/2103.12051.pdf) by Sehwag et al.
+
+(ICLR 2021) [Multiscale Score Matching for Out-of-Distribution Detection](https://openreview.net/pdf?id=xoHdgbQJohv) by Mahmood et al.
+
+(ICLR 2021) [Removing Undesirable Feature Contributions Using Out-of-Distribution Data](https://openreview.net/pdf?id=eIHYL6fpbkA) by Lee et al.
+
+(ICLR 2021) [In-N-Out: Pre-Training and Self-Training using Auxiliary Information for Out-of-Distribution Robustness](https://openreview.net/pdf?id=jznizqvr15J) by Xie et al.
 
 (ICCV 2021) [Semantically Coherent Out-of-Distribution Detection](https://arxiv.org/pdf/2108.11941.pdf) by Yang et al.
 
 (ICCV 2021) [CODEs: Chamfer Out-of-Distribution Examples against Overconfidence Issue](https://arxiv.org/pdf/2108.06024.pdf) by Tang et al.
 
 (ECCV 2021) [DICE: Leveraging Sparsification for Out-of-Distribution Detection](https://arxiv.org/pdf/2111.09805.pdf) by Sun and Li
-
-(AAAI 2021) [Provable Guarantees for Understanding Out-of-distribution Detection](https://arxiv.org/pdf/2112.00787.pdf) by Morteza and Li
-
-(AAAI 2021) [On the Impact of Spurious Correlation for Out-of-distribution Detection](https://arxiv.org/pdf/2109.05642.pdf) by Ming et al.
 
 (CVPR 2020) [Deep Residual Flow for Out of Distribution Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zisselman_Deep_Residual_Flow_for_Out_of_Distribution_Detection_CVPR_2020_paper.pdf) by Zisselman and Tamar
 
@@ -146,6 +206,16 @@
 (NeurIPS 2020) [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://arxiv.org/pdf/2007.08176.pdf) by Tack et al.
 
 (NeurIPS 2020) [Energy-based Out-of-distribution Detection](https://arxiv.org/pdf/2010.03759.pdf) by Liu et al.
+
+(NeurIPS 2020) [Certifiably Adversarially Robust Detection of Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/file/b90c46963248e6d7aab1e0f429743ca0-Paper.pdf) by Bitterwolf et al.
+
+(NeurIPS 2020) [OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification](https://proceedings.neurips.cc/paper/2020/file/28e209b61a52482a0ae1cb9f5959c792-Paper.pdf) by Jeong and Kim
+
+(NeurIPS 2020) [Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples](https://proceedings.neurips.cc/paper/2020/file/68d3743587f71fbaa5062152985aff40-Paper.pdf) by Nandy et al.
+
+(NeurIPS 2020) [Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder](https://proceedings.neurips.cc/paper/2020/file/eddea82ad2755b24c4e168c5fc2ebd40-Paper.pdf) by Xiao et al.
+
+(NeurIPS 2020) [Why Normalizing Flows Fail to Detect Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/file/ecb9fe2fbb99c31f567e9823e884dbec-Paper.pdf) by Kirichenko et al.
 
 (ICML 2020) [Detecting Out-of-Distribution Examples with Gram Matrices](http://proceedings.mlr.press/v119/sastry20a/sastry20a.pdf) by Sastry and Oore
 
@@ -169,7 +239,7 @@
 
 (ICLR 2018) [Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples](https://arxiv.org/pdf/1711.09325.pdf) by Lee et al.
 
-(ECCV 2018) [Out-of-Distribution Detection Using an Ensemble of Self Supervised Leave-out Classifiers](https://arxiv.org/pdf/1809.03576.pdf) by Vyas et al.
+(ECCV 2018) [Out-of-Distribution Detection Using an Ensemble of Self-Supervised Leave-out Classifiers](https://arxiv.org/pdf/1809.03576.pdf) by Vyas et al.
 
 (ArXiv 2018) [Learning Confidence for Out-of-Distribution Detection in Neural Networks](https://arxiv.org/pdf/1802.04865.pdf) by DeVries and Taylor
 
