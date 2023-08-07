@@ -77,7 +77,7 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (CVPR 2022) [Unknown-Aware Object Detection: Learning What You Don't Know from Videos in the Wild](https://arxiv.org/pdf/2203.03800.pdf) by Du et al.
 
-(NeurIPS 2022) [OpenOOD: Benchmarking Generalized Out-of-Distribution Detection](https://arxiv.org/pdf/2210.07242.pdf) by Yang et al.
+(NeurIPS 2022) ⭐⭐⭐⭐⭐ [OpenOOD: Benchmarking Generalized Out-of-Distribution Detection](https://arxiv.org/pdf/2210.07242.pdf) by Yang et al.
 
 (NeurIPS 2022) [Boosting Out-of-distribution Detection with Typical Features](https://arxiv.org/pdf/2210.04200.pdf) by Zhu et al.
 
@@ -109,7 +109,7 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (NeurIPS 2022) [Provably Adversarially Robust Detection of Out-of-Distribution Data (Almost) for Free](https://proceedings.neurips.cc/paper_files/paper/2022/file/c2c62117283dda155db754e54dbe8d71-Paper-Conference.pdf) by Meinke et al.
 
-(NeurIPS 2022) [Is Out-of-Distribution Detection Learnable?](https://proceedings.neurips.cc/paper_files/paper/2022/file/f0e91b1314fa5eabf1d7ef6d1561ecec-Paper-Conference.pdf) by Fang et al.
+(NeurIPS 2022) ⭐⭐⭐⭐⭐ [Is Out-of-Distribution Detection Learnable?](https://proceedings.neurips.cc/paper_files/paper/2022/file/f0e91b1314fa5eabf1d7ef6d1561ecec-Paper-Conference.pdf) by Fang et al.
 
 (NeurIPS 2022) [ZooD: Exploiting Model Zoo for Out-of-Distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2022/file/cd305fdee96836d5cc1de94577d71b61-Paper-Conference.pdf) by Dong et al.
 
@@ -211,11 +211,11 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (NeurIPS 2021) [RankFeat: Rank-1 Feature Removal for Out-of-distribution Detection](https://arxiv.org/pdf/2209.08590.pdf) by Song et al.
 
-(NeurIPS 2021) [ReAct: Out-of-distribution Detection With Rectified Activations](https://arxiv.org/pdf/2111.12797.pdf) by Sun et al.
+(NeurIPS 2021) ⭐⭐⭐⭐⭐ [ReAct: Out-of-distribution Detection With Rectified Activations](https://arxiv.org/pdf/2111.12797.pdf) by Sun et al.
 
 (NeurIPS 2021) [Characterizing Generalization under Out-Of-Distribution Shifts in Deep Metric Learning](https://openreview.net/pdf?id=_KqWSCu566) by Millbich et al.
 
-(NeurIPS 2021) [(GradNorm) On the Importance of Gradients for Detecting Distributional Shifts in the Wild](https://arxiv.org/pdf/2110.00218.pdf) by Huang et al.
+(NeurIPS 2021) ⭐⭐⭐⭐⭐ [(GradNorm) On the Importance of Gradients for Detecting Distributional Shifts in the Wild](https://arxiv.org/pdf/2110.00218.pdf) by Huang et al.
 
 (NeurIPS 2021) [Watermarking for Out-of-distribution Detection](https://arxiv.org/pdf/2210.15198.pdf) by Wang et al.
 
@@ -253,7 +253,7 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (NeurIPS 2020) [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://arxiv.org/pdf/2007.08176.pdf) by Tack et al.
 
-(NeurIPS 2020) [Energy-based Out-of-distribution Detection](https://arxiv.org/pdf/2010.03759.pdf) by Liu et al.
+(NeurIPS 2020) ⭐⭐⭐⭐⭐ [Energy-based Out-of-distribution Detection](https://arxiv.org/pdf/2010.03759.pdf) by Liu et al.
 
 (NeurIPS 2020) [Certifiably Adversarially Robust Detection of Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/file/b90c46963248e6d7aab1e0f429743ca0-Paper.pdf) by Bitterwolf et al.
 
@@ -263,7 +263,7 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (NeurIPS 2020) [Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder](https://proceedings.neurips.cc/paper/2020/file/eddea82ad2755b24c4e168c5fc2ebd40-Paper.pdf) by Xiao et al.
 
-(NeurIPS 2020) [Why Normalizing Flows Fail to Detect Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/file/ecb9fe2fbb99c31f567e9823e884dbec-Paper.pdf) by Kirichenko et al.
+(NeurIPS 2020) ⭐⭐⭐⭐⭐ [Why Normalizing Flows Fail to Detect Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/file/ecb9fe2fbb99c31f567e9823e884dbec-Paper.pdf) by Kirichenko et al.
 
 (ICML 2020) [Detecting Out-of-Distribution Examples with Gram Matrices](http://proceedings.mlr.press/v119/sastry20a/sastry20a.pdf) by Sastry and Oore
 
@@ -273,7 +273,7 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (ICCV 2019) [Unsupervised Out-of-Distribution Detection by Maximum Classifier Discrepancy](https://arxiv.org/pdf/1908.04951.pdf) by Yu and Aizawa
 
-(NeurIPS 2018) [(Mahalanobis) A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://arxiv.org/pdf/1807.03888.pdf) by Lee et al.
+(NeurIPS 2018) ⭐⭐⭐⭐⭐ [(Mahalanobis) A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://arxiv.org/pdf/1807.03888.pdf) by Lee et al.
 
 (NeurIPS 2018) [Out-of-Distribution Detection using Multiple Semantic Label Representations](https://arxiv.org/pdf/1808.06664.pdf) by Shalev et al.
 
@@ -281,9 +281,9 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (ICLR 2018) [Do Deep Generative Models Know What They Don't Know?](https://arxiv.org/pdf/1810.09136.pdf) by Nalisnick et al.
 
-(ICLR 2018) [(OE) Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/pdf/1812.04606.pdf) by Hendrycks et al.
+(ICLR 2018) ⭐⭐⭐⭐⭐ [(OE) Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/pdf/1812.04606.pdf) by Hendrycks et al.
 
-(ICLR 2018) [(ODIN) Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks](https://arxiv.org/pdf/1706.02690.pdf) by Liang et al.
+(ICLR 2018) ⭐⭐⭐⭐⭐ [(ODIN) Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks](https://arxiv.org/pdf/1706.02690.pdf) by Liang et al.
 
 (ICLR 2018) [Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples](https://arxiv.org/pdf/1711.09325.pdf) by Lee et al.
 
@@ -291,5 +291,5 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (ArXiv 2018) [Learning Confidence for Out-of-Distribution Detection in Neural Networks](https://arxiv.org/pdf/1802.04865.pdf) by DeVries and Taylor
 
-(ICLR 2017) [A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/pdf/1610.02136.pdf) by Hendrycks and Gimpel
+(ICLR 2017) ⭐⭐⭐⭐⭐ [A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/pdf/1610.02136.pdf) by Hendrycks and Gimpel
 
