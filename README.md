@@ -67,6 +67,10 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (ICML 2023) [In or Out? Fixing ImageNet Out-of-Distribution Detection Evaluation](https://arxiv.org/pdf/2306.00826.pdf) by Bitterwolf et al.
 
+(TMLR 2022) [Linking Neural Collapse and L2 Normalization with Improved Out-of-Distribution Detection in Deep Neural Networks](https://openreview.net/pdf?id=fjkN5Ur2d6) by Haas et al.
+
+(TMLR 2022) [The Evolution of Out-of-Distribution Robustness Throughout Fine-Tuning](https://openreview.net/pdf?id=Qs3EfpieOh) by Andreassen et al.
+
 (CVPR 2022) [ViM: Out-Of-Distribution with Virtual-logit Matching](https://arxiv.org/pdf/2203.10807.pdf) by Wang et al.
 
 (CVPR 2022) [Out-of-Distribution Generalization With Causal Invariant Transformations](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Out-of-Distribution_Generalization_With_Causal_Invariant_Transformations_CVPR_2022_paper.pdf) by Wang et al.
