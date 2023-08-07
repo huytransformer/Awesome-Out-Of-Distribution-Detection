@@ -7,6 +7,8 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 # Talks
 
+[(2022) Anomaly detection for OOD and novel category detection](https://www.youtube.com/watch?v=jFQUW2n8gpA&t=888s) by Thomas G. Dietterich
+
 [(2022) Reliable Open-World Learning Against Out-of-distribution Data](https://www.youtube.com/watch?v=zaXiHljOl9Y&t=22s) by Sharon Yixuan Li
 
 [(2022) Challenges and Opportunities in Out-of-distribution Detection](https://www.youtube.com/watch?v=X8XTOiNin0I&t=523s) by Sharon Yixuan Li
@@ -28,6 +30,8 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 [A Unified Survey on Anomaly, Novelty, Open-Set, and Out of-Distribution Detection: Solutions and Future Challenges](https://arxiv.org/pdf/2110.14051.pdf) by Salehi et al.
 
 # Papers
+
+(ArXiv 2023) [Characterizing Out-of-Distribution Error via Optimal Transport](https://arxiv.org/pdf/2305.15640.pdf) by Lu et al.
 
 (CVPR 2023) [Distribution Shift Inversion for Out-of-Distribution Prediction](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Distribution_Shift_Inversion_for_Out-of-Distribution_Prediction_CVPR_2023_paper.pdf) by Yu et al.
 
