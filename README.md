@@ -59,7 +59,7 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (ICML 2023) [Unleashing Mask: Explore the Intrinsic Out-of-Distribution Detection Capability](https://arxiv.org/pdf/2306.03715.pdf) by Zhu et al
 
-(ICML 2023) [Out-of-Domain Robustness via Targeted Augmentations](https://arxiv.org/pdf/2302.11861.pdf) [Code](https://github.com/i-gao/targeted-augs) by Gao et al.
+(ICML 2023) [Out-of-Domain Robustness via Targeted Augmentations](https://arxiv.org/pdf/2302.11861.pdf) [[Code]](https://github.com/i-gao/targeted-augs) by Gao et al.
 
 (ICML 2023) [In or Out? Fixing ImageNet Out-of-Distribution Detection Evaluation](https://arxiv.org/pdf/2306.00826.pdf) by Bitterwolf et al.
 
@@ -133,7 +133,7 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (ICLR 2022) [Out-of-distribution Generalization in the Presence of Nuisance-Induced Spurious Correlations](https://openreview.net/pdf?id=12RoR2o32T) by Puli et al.
 
-(ICLR 2022) [PI3NN: Out-of-distribution-aware Prediction Intervals from Three Neural Networks] (https://openreview.net/pdf?id=NoB8YgRuoFU) by Liu et al.
+(ICLR 2022) [PI3NN: Out-of-distribution-aware Prediction Intervals from Three Neural Networks](https://openreview.net/pdf?id=NoB8YgRuoFU) by Liu et al.
 
 (ICLR 2022) [Uncertainty Modeling for Out-of-Distribution Generalization](https://openreview.net/pdf?id=6HN7LHyzGgC) by Li et al.
 
