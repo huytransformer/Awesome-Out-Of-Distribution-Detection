@@ -75,7 +75,7 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (AAAI 2023) [On the Connection between Invariant Learning and Adversarial Training for Out-of-Distribution Generalization](https://ojs.aaai.org/index.php/AAAI/article/view/26250/26022) by Xin et al.
 
-(AAAI 2023) [Certifiable Out-of-Distribution Generalization](Certifiable Out-of-Distribution Generalization) by Ye et al.
+(AAAI 2023) [Certifiable Out-of-Distribution Generalization](https://ojs.aaai.org/index.php/AAAI/article/view/26295/26067) by Ye et al.
 
 (AAAI 2023) [Bayesian Cross-Modal Alignment Learning for Few-Shot Out-of-Distribution Generalization](https://ojs.aaai.org/index.php/AAAI/article/view/26355/26127) by Zhu et al.
 
