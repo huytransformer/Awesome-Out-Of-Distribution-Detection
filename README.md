@@ -11,7 +11,7 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 - [Researchers](#introduction)
 - [Articles](#installation)
 - [Talks](#usage)
-- [Benchmarks, Libraries,...](#license)
+- [Benchmarks, libraries, etc](#benchmarks-libraries-etc)
 - [Surveys](#surveys)
 - [Papers](#papers)
   - [OOD Detection](#ood-detection)
