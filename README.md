@@ -62,6 +62,8 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 # Papers
 
+> "Know thy literature"
+
 ## OOD Detection
 
 (ArXiv 2023) [Characterizing Out-of-Distribution Error via Optimal Transport](https://arxiv.org/pdf/2305.15640.pdf) by Lu et al.
