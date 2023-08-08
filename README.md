@@ -1,3 +1,8 @@
+# OOD Detection, Robustness, and Generalization
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
+
+
+
 This repo aims to provide a comprehensive resource for OOD detection, robustness, and generalization. If you spot errors or omissions, please open an issue or contact me at continuousml@gmail.com.
 
 
