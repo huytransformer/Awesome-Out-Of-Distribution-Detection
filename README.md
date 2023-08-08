@@ -1,14 +1,13 @@
-# OOD Detection, Robustness, and Generalization
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
+# OOD Detection, Robustness, and Generalization [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
 
 
+https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white
 
 This repo aims to provide the most comprehensive, up-to-date, high-quality resource for **OOD detection, robustness, and generalization** in Deep Learning. If you spot errors or omissions, please open an issue or contact me at continuousml@gmail.com.
 
 
-<a href="https://discord.gg/WEzyEx36">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/WEzyEx36)
+
 
 ---
 
@@ -22,6 +21,7 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
   - [OOD Detection](#ood-detection)
   - [OOD Robustness](#ood-robustness)
   - [OOD Generalization](#ood-generalization)
+  - [OOD Everything else](#ood-everything-else)
 
 ---
 
@@ -91,11 +91,29 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 (CVPR 2023) [LINe: Out-of-Distribution Detection by Leveraging Important Neurons](https://openaccess.thecvf.com/content/CVPR2023/papers/Ahn_LINe_Out-of-Distribution_Detection_by_Leveraging_Important_Neurons_CVPR_2023_paper.pdf) [[Code]](https://github.com/YongHyun-Ahn/LINe-Out-of-Distribution-Detection-by-Leveraging-Important-Neurons) by Ahn et al.
 
+(ICLR 2023) ⭐⭐⭐⭐⭐ [A framework for benchmarking Class-out-of-distribution detection and its application to ImageNet](https://openreview.net/pdf?id=Iuubb9W6Jtk) [[Code]](https://github.com/mdabbah/COOD_benchmarking) by Galil et al.
+
+(ICLR 2023) [Energy-based Out-of-Distribution Detection for Graph Neural Networks](https://openreview.net/pdf?id=zoz7Ze4STUL) [[Code]](https://github.com/qitianwu/GraphOOD-GNNSafe) by Wu et al.
+
+(ICLR 2023) [The Tilted Variational Autoencoder: Improving Out-of-Distribution Detection](https://openreview.net/pdf?id=YlGsTZODyjz) [[Code]](https://github.com/anonconfsubaccount/tilted_prior) by Floto et al.
+
+(ICLR 2023) [Out-of-Distribution Detection based on In-Distribution Data Patterns Memorization with Modern Hopfield Energy](https://openreview.net/pdf?id=KkazG4lgKL) by Zhang et al.
+
+(ICLR 2023) [Out-of-Distribution Detection and Selective Generation for Conditional Language Models](https://openreview.net/pdf?id=kJUS5nD0vPB) by Ren et al.
+
+(ICLR 2023) [Turning the Curse of Heterogeneity in Federated Learning into a Blessing for Out-of-Distribution Detection](https://openreview.net/pdf?id=mMNimwRb7Gr) by Yu et al.
+
 (ICLR 2023) [Non-Parametric Outlier Synthesis](https://arxiv.org/pdf/2303.02966.pdf) [[Code]](https://github.com/deeplearning-wisc/npos) by Tao et al.
 
 (ICLR 2023) [Out-of-distribution Detection with Implicit Outlier Transformation](https://arxiv.org/pdf/2303.05033.pdf) by Wang et al.
 
 (ICML 2023) [Unsupervised Out-of-Distribution Detection with Diffusion Inpainting](https://openreview.net/pdf?id=HiX1ybkFMl) by Liu et al.
+
+(ICML 2023) [Generative Causal Representation Learning for Out-of-Distribution Motion Forecasting](https://openreview.net/pdf?id=Kw90j2pNSt) by Bagi et al.
+
+(ICML 2023) [Model Ratatouille: Recycling Diverse Models for Out-of-Distribution Generalization](https://openreview.net/pdf?id=6x15tarUo9) [[Code]](https://github.com/facebookresearch/ModelRatatouille) by Ramé et al.
+
+(ICML 2023) [Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships](https://proceedings.mlr.press/v202/guo23b/guo23b.pdf) by Guo et al.
 
 (ICML 2023) [Feed Two Birds with One Scone: Exploiting Wild Data for Both Out-of-Distribution Generalization and Detection](https://arxiv.org/pdf/2306.09158.pdf) [[Video]](https://www.youtube.com/watch?v=4qMY-pLe638) by Bai et al.
 
@@ -146,6 +164,8 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 (NeurIPS 2022) [Delving into Out-of-Distribution Detection with Vision-Language Representations](https://arxiv.org/pdf/2211.13445.pdf) [[Video]](https://www.youtube.com/watch?v=ZZlxBgGalVA) [[Code]](https://github.com/deeplearning-wisc/MCM) by Ming et al.
 
 (NeurIPS 2022) [Beyond Mahalanobis Distance for Textual OOD Detection](https://proceedings.neurips.cc/paper_files/paper/2022/file/70fa5df8e3300dc30bf19bee44a56155-Paper-Conference.pdf) by Colombo et al.
+
+(NeurIPS 2022) [Density-driven Regularization for Out-of-distribution Detection](https://proceedings.neurips.cc/paper_files/paper/2022/file/05b69cc4c8ff6e24c5de1ecd27223d37-Paper-Conference.pdf) by Huang et al.
 
 (NeurIPS 2022) [SIREN: Shaping Representations for Detecting Out-of-Distribution Objects](https://proceedings.neurips.cc/paper_files/paper/2022/file/804dbf8d3b8eee1ef875c6857efc64eb-Paper-Conference.pdf) [[Code]](https://github.com/deeplearning-wisc/siren) by Du et al.
 
@@ -225,8 +245,6 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 (ICLR 2021) [Multiscale Score Matching for Out-of-Distribution Detection](https://openreview.net/pdf?id=xoHdgbQJohv) [[Code]](https://github.com/ahsanMah/msma) by Mahmood et al.
 
-(ICLR 2021) [Removing Undesirable Feature Contributions Using Out-of-Distribution Data](https://openreview.net/pdf?id=eIHYL6fpbkA) by Lee et al.
-
 (ICML 2021) [Understanding Failures in Out-of-Distribution Detection with Deep Generative Models](http://proceedings.mlr.press/v139/zhang21g/zhang21g.pdf) by Zhang et al.
 
 (ICCV 2021) [Semantically Coherent Out-of-Distribution Detection](https://arxiv.org/pdf/2108.11941.pdf) [[Project Page]](https://jingkang50.github.io/projects/scood) [[Code]](https://github.com/jingkang50/ICCV21_SCOOD) by Yang et al.
@@ -281,6 +299,8 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 ## OOD Robustness
 
+(ICLR 2023) [Diversify and Disambiguate: Out-of-Distribution Robustness via Disagreement](https://openreview.net/pdf?id=RVTOp3MwT3n) by Lee et al.
+
 (ICML 2023) [Learning Unforeseen Robustness from Out-of-distribution Data Using Equivariant Domain Translator](https://proceedings.mlr.press/v202/zhu23a/zhu23a.pdf) by Zhu et al.
 
 (ICML 2023) [Out-of-Domain Robustness via Targeted Augmentations](https://arxiv.org/pdf/2302.11861.pdf) [[Code]](https://github.com/i-gao/targeted-augs) by Gao et al.
@@ -300,6 +320,12 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 (NeurIPS 2020) [Certifiably Adversarially Robust Detection of Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/file/b90c46963248e6d7aab1e0f429743ca0-Paper.pdf) [[Code]](https://github.com/j-cb/GOOD) by Bitterwolf et al.
 
 ## OOD Generalization
+
+(ICLR 2023) [Improving Out-of-distribution Generalization with Indirection Representations](https://openreview.net/pdf?id=0f-0I6RFAch) by Pham et al.
+
+(ICLR 2023) [Topology-aware Robust Optimization for Out-of-Distribution Generalization](https://openreview.net/pdf?id=ylMq8MBnAp) [[Code]](https://github.com/joffery/TRO) by Qiao and Peng
+
+(ICLR 2023) ⭐⭐⭐⭐⭐[Modeling the Data-Generating Process is Necessary for Out-of-Distribution Generalization](https://openreview.net/pdf?id=uyqks-LILZX) by Kaur et al.
 
 (ICML 2023) [Feed Two Birds with One Scone: Exploiting Wild Data for Both Out-of-Distribution Generalization and Detection](https://arxiv.org/pdf/2306.09158.pdf) [[Video]](https://www.youtube.com/watch?v=4qMY-pLe638) by Bai et al.
 
@@ -349,6 +375,10 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 (NeurIPS 2021) [Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization](https://openreview.net/pdf?id=jlchsFOLfeF) [[Video]](https://www.youtube.com/watch?v=g7SkcvMjVeI) by Ahuja et al.
 
+(NeurIPS 2021) [On the Out-of-distribution Generalization of Probabilistic Image Modelling](https://openreview.net/pdf?id=q1yLPNF0UFV) by Zhang et al.
+
+(NeurIPS 2021) [On Calibration and Out-of-Domain Generalization](https://openreview.net/pdf?id=XWYJ25-yTRS) [[Video]](https://www.youtube.com/watch?v=MidtYmDEhoA) by Wald et al.
+
 (NeurIPS 2021) [Towards a Theoretical Framework of Out-of-Distribution Generalization](https://openreview.net/pdf?id=kFJoj7zuDVi) [[Slides]](https://haotianye.com/files/NeurIPS21/slides_NeurIPS21_OOD.pdf) by Ye et al.
 
 (NeurIPS 2021) [Out-of-Distribution Generalization in Kernel Regression](https://openreview.net/pdf?id=-h6Ldc0MO-) by Canatar et al.
@@ -364,3 +394,39 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 (ICML 2021) [Can Subnetwork Structure Be the Key to Out-of-Distribution Generalization?](http://proceedings.mlr.press/v139/zhang21a/zhang21a.pdf) [[Slides]](https://zdhnarsil.github.io/files/icml2021_invsubnet_slides.pdf) by Zhang et al.
 
 (ICML 2021) [Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization](http://proceedings.mlr.press/v139/baranwal21a/baranwal21a.pdf) [[Code]](https://github.com/opallab/Graph-Convolution-for-Semi-Supervised-Classification-Improved-Linear-Separability-and-OoD-Gen.) by Baranwal et al.
+
+## OOD Everything else
+
+(ICLR 2023) [Harnessing Out-Of-Distribution Examples via Augmenting Content and Style](https://openreview.net/pdf?id=boNyg20-JDm) by Huang et al.
+
+(ICLR 2023) [Pareto Invariant Risk Minimization: Towards Mitigating the Optimization Dilemma in Out-of-Distribution Generalization](https://openreview.net/pdf?id=esFxSb_0pSL) [[Code]](https://github.com/LFhase/PAIR) by Chen et al.
+
+(ICLR 2023) [On the Effectiveness of Out-of-Distribution Data in Self-Supervised Long-Tail Learning](https://openreview.net/pdf?id=v8JIQdiN9Sh) by Bai et al.
+
+(ICLR 2023) [Out-of-distribution Representation Learning for Time Series Classification](https://openreview.net/pdf?id=gUZWOE42l6Q) by Lu et al.
+
+(ICML 2023) [Exploring Chemical Space with Score-based Out-of-distribution Generation](https://openreview.net/pdf?id=45TeQUJw9tn) [[Code]](https://github.com/SeulLee05/MOOD) by Lee et al.
+
+(ICML 2023) [The Value of Out-of-Distribution Data](https://proceedings.mlr.press/v202/de-silva23a/de-silva23a.pdf) by Silva et al.
+
+(ICML 2023) [CLIPood: Generalizing CLIP to Out-of-Distributions](https://proceedings.mlr.press/v202/shu23a/shu23a.pdf) by Shu et al.
+
+(NeurIPS 2022) [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](https://arxiv.org/pdf/2205.07211.pdf) [[Code]](https://github.com/Rongjiehuang/GenerSpeech) by Huang et al.
+
+(NeurIPS 2022) [Learning Substructure Invariance for Out-of-Distribution Molecular Representations](https://openreview.net/pdf?id=2nWUNTnFijm) [[Code]](https://github.com/yangnianzu0515/MoleOOD) by Yang et al.
+
+(NeurIPS 2022) [Evaluating Out-of-Distribution Performance on Document Image Classifiers](https://openreview.net/pdf?id=uDlkiCI5N7Y) by Larson et al.
+
+(NeurIPS 2022) [OOD Link Prediction Generalization Capabilities of Message-Passing GNNs in Larger Test Graphs](https://openreview.net/pdf?id=q_AeTuxv02D) by Zhou et al.
+
+(ICLR 2022) [Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution](https://arxiv.org/pdf/2202.10054.pdf) by Kumar et al.
+
+(ICML 2022) [Improved StyleGAN-v2 based Inversion for Out-of-Distribution Images](https://proceedings.mlr.press/v162/subramanyam22a/subramanyam22a.pdf) by Subramanyam et al.
+
+(NeurIPS 2021) [The Out-of-Distribution Problem in Explainability and Search Methods for Feature Importance Explanations](https://openreview.net/pdf?id=HCrp4pdk2i) [[Slides]](https://peterbhase.github.io/files/OODProblemAndSearchUberAI.pdf) by Hase et al.
+
+(NeurIPS 2021) [POODLE: Improving Few-shot Learning via Penalizing Out-of-Distribution Samples](https://proceedings.neurips.cc/paper/2021/file/c91591a8d461c2869b9f535ded3e213e-Paper.pdf) [[Code]](https://github.com/lehduong/poodle) by Le et al.
+
+(NeurIPS 2021) [Task-Agnostic Undesirable Feature Deactivation Using Out-of-Distribution Data](https://proceedings.neurips.cc/paper_files/paper/2021/file/21186d7b1482412ab14f0332b8aee119-Paper.pdf) [[Code]](https://github.com/kaist-dmlab/TAUFE) by Park et al.
+
+(ICLR 2021) [Removing Undesirable Feature Contributions Using Out-of-Distribution Data](https://openreview.net/pdf?id=eIHYL6fpbkA) by Lee et al.
