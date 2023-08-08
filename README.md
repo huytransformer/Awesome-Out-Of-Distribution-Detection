@@ -3,7 +3,7 @@
 
 
 
-This repo aims to provide a comprehensive resource for OOD detection, robustness, and generalization. If you spot errors or omissions, please open an issue or contact me at continuousml@gmail.com.
+This repo aims to provide the most comprehensive, high-quality resource for OOD detection, robustness, and generalization. If you spot errors or omissions, please open an issue or contact me at continuousml@gmail.com.
 
 
 <a href="https://discord.gg/WEzyEx36">
