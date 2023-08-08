@@ -268,7 +268,7 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (ECCV 2018) [Out-of-Distribution Detection Using an Ensemble of Self-Supervised Leave-out Classifiers](https://arxiv.org/pdf/1809.03576.pdf) [[Code]](https://github.com/YU1ut/Ensemble-of-Leave-out-Classifiers) by Vyas et al.
 
-(ArXiv 2018) [Learning Confidence for Out-of-Distribution Detection in Neural Networks](https://arxiv.org/pdf/1802.04865.pdf) [[https://github.com/uoguelph-mlrg/confidence_estimation]](https://github.com/uoguelph-mlrg/confidence_estimation) by DeVries and Taylor
+(ArXiv 2018) [Learning Confidence for Out-of-Distribution Detection in Neural Networks](https://arxiv.org/pdf/1802.04865.pdf) [[Code]](https://github.com/uoguelph-mlrg/confidence_estimation) by DeVries and Taylor
 
 (ICLR 2017) ⭐⭐⭐⭐⭐ [A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/pdf/1610.02136.pdf) [[Code]](https://github.com/hendrycks/error-detection) by Hendrycks and Gimpel
 
