@@ -66,6 +66,8 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 ## OOD Detection
 
+(ArXiv 2023) [Neuron Activation Coverage: Rethinking Out-of-distribution Detection and Generalization](https://arxiv.org/pdf/2306.02879.pdf) by Liu et al.
+
 (ArXiv 2023) [Characterizing Out-of-Distribution Error via Optimal Transport](https://arxiv.org/pdf/2305.15640.pdf) by Lu et al.
 
 (CVPR 2023) [Distribution Shift Inversion for Out-of-Distribution Prediction](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Distribution_Shift_Inversion_for_Out-of-Distribution_Prediction_CVPR_2023_paper.pdf) [[Code]](https://github.com/yu-rp/Distribution-Shift-Iverson) by Yu et al.
