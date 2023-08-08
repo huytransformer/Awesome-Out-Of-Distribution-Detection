@@ -14,8 +14,9 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 - [Benchmarks, Libraries,...](#license)
 - [Surveys](#surveys)
 - [Papers](#papers)
-  - [OOD Generalization](#ood-generalization)
   - [OOD Detection](#ood-detection)
+  - [OOD Robustness](#ood-robustness)
+  - [OOD Generalization](#ood-generalization)
 
 ---
 
@@ -95,11 +96,7 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (ICML 2023) [Detecting Out-of-distribution Data through In-distribution Class Prior](https://openreview.net/pdf?id=charggEv8v) by Jiang et al.
 
-(ICML 2023) [Learning Unforeseen Robustness from Out-of-distribution Data Using Equivariant Domain Translator](https://proceedings.mlr.press/v202/zhu23a/zhu23a.pdf) by Zhu et al.
-
 (ICML 2023) [Unleashing Mask: Explore the Intrinsic Out-of-Distribution Detection Capability](https://arxiv.org/pdf/2306.03715.pdf) [[Code]](https://github.com/ZFancy/Unleashing-Mask) by Zhu et al
-
-(ICML 2023) [Out-of-Domain Robustness via Targeted Augmentations](https://arxiv.org/pdf/2302.11861.pdf) [[Code]](https://github.com/i-gao/targeted-augs) by Gao et al.
 
 (ICML 2023) [In or Out? Fixing ImageNet Out-of-Distribution Detection Evaluation](https://arxiv.org/pdf/2306.00826.pdf) [[Code]](https://github.com/j-cb/NINCO) by Bitterwolf et al.
 
@@ -108,8 +105,6 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 (AAAI 2023) [Towards In-Distribution Compatible Out-of-Distribution Detection](https://ojs.aaai.org/index.php/AAAI/article/view/26230/26002) by Wu et al.
 
 (TMLR 2022) [Linking Neural Collapse and L2 Normalization with Improved Out-of-Distribution Detection in Deep Neural Networks](https://openreview.net/pdf?id=fjkN5Ur2d6) by Haas et al.
-
-(TMLR 2022) [The Evolution of Out-of-Distribution Robustness Throughout Fine-Tuning](https://openreview.net/pdf?id=Qs3EfpieOh) by Andreassen et al.
 
 (CVPR 2022) [ViM: Out-Of-Distribution with Virtual-logit Matching](https://arxiv.org/pdf/2203.10807.pdf) [[Project Page]](https://ooddetection.github.io/#comp-l0p561in) by Wang et al.
 
@@ -134,10 +129,6 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 (NeurIPS 2022) [Out-of-Distribution Detection with An Adaptive Likelihood Ratio on Informative Hierarchical VAE](https://proceedings.neurips.cc/paper_files/paper/2022/file/3066f60a91d652f4dc690637ac3a2f8c-Paper-Conference.pdf) by Li et al.
 
 (NeurIPS 2022) [GOOD: A Graph Out-of-Distribution Benchmark](https://proceedings.neurips.cc/paper_files/paper/2022/file/0dc91de822b71c66a7f54fa121d8cbb9-Paper-Datasets_and_Benchmarks.pdf) [[Code]](https://github.com/divelab/GOOD) by Gui et al.
-
-(NeurIPS 2022) [Using Mixup as a Regularizer Can Surprisingly Improve Accuracy & Out-of-Distribution Robustness](https://proceedings.neurips.cc/paper_files/paper/2022/file/5ddcfaad1cb72ce6f1a365e8f1ecf791-Paper-Conference.pdf) by Pinto et al.
-
-(NeurIPS 2022) [Provably Adversarially Robust Detection of Out-of-Distribution Data (Almost) for Free](https://proceedings.neurips.cc/paper_files/paper/2022/file/c2c62117283dda155db754e54dbe8d71-Paper-Conference.pdf) [[Code]](https://github.com/AlexMeinke/Provable-OOD-Detection) by Meinke et al.
 
 (NeurIPS 2022) ⭐⭐⭐⭐⭐ [Is Out-of-Distribution Detection Learnable?](https://proceedings.neurips.cc/paper_files/paper/2022/file/f0e91b1314fa5eabf1d7ef6d1561ecec-Paper-Conference.pdf) by Fang et al.
 
@@ -166,8 +157,6 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 (ICML 2022) [POEM: Out-of-Distribution Detection with Posterior Sampling](https://proceedings.mlr.press/v162/ming22a/ming22a.pdf) [[Code]](https://github.com/deeplearning-wisc/poem) by Ming et al.
 
 (ICML 2022) [(kNN) Out-of-Distribution Detection with Deep Nearest Neighbors](https://arxiv.org/pdf/2204.06507.pdf) [[Code]](https://github.com/deeplearning-wisc/knn-ood) by Sun et al.
-
-(ICML 2022) [Improving Out-of-Distribution Robustness via Selective Augmentation](https://proceedings.mlr.press/v162/yao22b/yao22b.pdf) [[Video]](https://www.youtube.com/watch?v=jaLkGVoun_4) [[Code]](https://github.com/huaxiuyao/LISA) by Yao et al.
 
 (ICML 2022) [Training OOD Detectors in their Natural Habitats](https://proceedings.mlr.press/v162/katz-samuels22a/katz-samuels22a.pdf) by Katz-Samuels et al.
 
@@ -203,8 +192,6 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (NeurIPS 2021) [Single Layer Predictive Normalized Maximum Likelihood for Out-of-Distribution Detection](https://arxiv.org/pdf/2110.09246.pdf) [[Code]](https://github.com/kobybibas/pnml_ood_detection) by Bibas et al.
 
-(NeurIPS 2021) [A Winning Hand: Compressing Deep Networks Can Improve Out-of-Distribution Robustness](https://openreview.net/pdf?id=YygA0yppTR) by Diffenderfer et al.
-
 (NeurIPS 2021) [STEP: Out-of-Distribution Detection in the Presence of Limited In-Distribution Labeled Data](https://openreview.net/pdf?id=p9dySshcS0q) by Zhou et al.
 
 (NeurIPS 2021) [Exploring the Limits of Out-of-Distribution Detection](https://openreview.net/pdf?id=j5NrN8ffXC) [[Code]](https://github.com/stanislavfort/exploring_the_limits_of_OOD_detection) by Fort et al.
@@ -231,8 +218,6 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (ICLR 2021) [Removing Undesirable Feature Contributions Using Out-of-Distribution Data](https://openreview.net/pdf?id=eIHYL6fpbkA) by Lee et al.
 
-(ICLR 2021) [In-N-Out: Pre-Training and Self-Training using Auxiliary Information for Out-of-Distribution Robustness](https://openreview.net/pdf?id=jznizqvr15J) [[Code]](https://github.com/p-lambda/in-n-out) by Xie et al.
-
 (ICML 2021) [Understanding Failures in Out-of-Distribution Detection with Deep Generative Models](http://proceedings.mlr.press/v139/zhang21g/zhang21g.pdf) by Zhang et al.
 
 (ICCV 2021) [Semantically Coherent Out-of-Distribution Detection](https://arxiv.org/pdf/2108.11941.pdf) [[Project Page]](https://jingkang50.github.io/projects/scood) [[Code]](https://github.com/jingkang50/ICCV21_SCOOD) by Yang et al.
@@ -248,8 +233,6 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 (NeurIPS 2020) [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://arxiv.org/pdf/2007.08176.pdf) [[Code]](https://github.com/alinlab/CSI) by Tack et al.
 
 (NeurIPS 2020) ⭐⭐⭐⭐⭐ [Energy-based Out-of-distribution Detection](https://arxiv.org/pdf/2010.03759.pdf) [[Code]](https://github.com/wetliu/energy_ood) by Liu et al.
-
-(NeurIPS 2020) [Certifiably Adversarially Robust Detection of Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/file/b90c46963248e6d7aab1e0f429743ca0-Paper.pdf) [[Code]](https://github.com/j-cb/GOOD) by Bitterwolf et al.
 
 (NeurIPS 2020) [OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification](https://proceedings.neurips.cc/paper/2020/file/28e209b61a52482a0ae1cb9f5959c792-Paper.pdf) [[Video]](https://slideslive.com/38935997/oodmaml-metalearning-for-fewshot-outofdistribution-detection-and-classification) by Jeong and Kim
 
@@ -286,6 +269,26 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 (ArXiv 2018) [Learning Confidence for Out-of-Distribution Detection in Neural Networks](https://arxiv.org/pdf/1802.04865.pdf) [[https://github.com/uoguelph-mlrg/confidence_estimation]](https://github.com/uoguelph-mlrg/confidence_estimation) by DeVries and Taylor
 
 (ICLR 2017) ⭐⭐⭐⭐⭐ [A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/pdf/1610.02136.pdf) [[Code]](https://github.com/hendrycks/error-detection) by Hendrycks and Gimpel
+
+## OOD Robustness
+
+(ICML 2023) [Learning Unforeseen Robustness from Out-of-distribution Data Using Equivariant Domain Translator](https://proceedings.mlr.press/v202/zhu23a/zhu23a.pdf) by Zhu et al.
+
+(ICML 2023) [Out-of-Domain Robustness via Targeted Augmentations](https://arxiv.org/pdf/2302.11861.pdf) [[Code]](https://github.com/i-gao/targeted-augs) by Gao et al.
+
+(TMLR 2022) [The Evolution of Out-of-Distribution Robustness Throughout Fine-Tuning](https://openreview.net/pdf?id=Qs3EfpieOh) by Andreassen et al.
+
+(NeurIPS 2022) [Using Mixup as a Regularizer Can Surprisingly Improve Accuracy & Out-of-Distribution Robustness](https://proceedings.neurips.cc/paper_files/paper/2022/file/5ddcfaad1cb72ce6f1a365e8f1ecf791-Paper-Conference.pdf) by Pinto et al.
+
+(NeurIPS 2022) [Provably Adversarially Robust Detection of Out-of-Distribution Data (Almost) for Free](https://proceedings.neurips.cc/paper_files/paper/2022/file/c2c62117283dda155db754e54dbe8d71-Paper-Conference.pdf) [[Code]](https://github.com/AlexMeinke/Provable-OOD-Detection) by Meinke et al.
+
+(ICML 2022) [Improving Out-of-Distribution Robustness via Selective Augmentation](https://proceedings.mlr.press/v162/yao22b/yao22b.pdf) [[Video]](https://www.youtube.com/watch?v=jaLkGVoun_4) [[Code]](https://github.com/huaxiuyao/LISA) by Yao et al.
+
+(NeurIPS 2021) [A Winning Hand: Compressing Deep Networks Can Improve Out-of-Distribution Robustness](https://openreview.net/pdf?id=YygA0yppTR) by Diffenderfer et al.
+
+(ICLR 2021) [In-N-Out: Pre-Training and Self-Training using Auxiliary Information for Out-of-Distribution Robustness](https://openreview.net/pdf?id=jznizqvr15J) [[Code]](https://github.com/p-lambda/in-n-out) by Xie et al.
+
+(NeurIPS 2020) [Certifiably Adversarially Robust Detection of Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/file/b90c46963248e6d7aab1e0f429743ca0-Paper.pdf) [[Code]](https://github.com/j-cb/GOOD) by Bitterwolf et al.
 
 ## OOD Generalization
 
