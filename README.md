@@ -5,9 +5,19 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
-# Articles
+---
 
-[(2020) Out-of-Distribution Detection in Deep Neural Networks](https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044) by Neeraj Varshney
+## Table of Contents
+- [Researchers](#introduction)
+- [Articles](#installation)
+- [Talks](#usage)
+- [Benchmarks, Libraries,...](#license)
+- [Surveys](#surveys)
+- [Papers](#papers)
+  - [OOD Generalization](#ood-generalization)
+  - [OOD Detection](#ood-detection)
+
+---
 
 # Researchers
 
@@ -17,6 +27,11 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 - Yiyou Sun [[Twitter]](https://twitter.com/YiyouSun) [[Scholar]](https://scholar.google.com/citations?user=IKqlQo4AAAAJ)
   
+
+# Articles
+
+[(2020) Out-of-Distribution Detection in Deep Neural Networks](https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044) by Neeraj Varshney
+
 
 # Talks
 
@@ -45,6 +60,8 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 [A Unified Survey on Anomaly, Novelty, Open-Set, and Out of-Distribution Detection: Solutions and Future Challenges](https://arxiv.org/pdf/2110.14051.pdf) by Salehi et al.
 
 # Papers
+
+## OOD Detection
 
 (ArXiv 2023) [Characterizing Out-of-Distribution Error via Optimal Transport](https://arxiv.org/pdf/2305.15640.pdf) by Lu et al.
 
@@ -88,25 +105,13 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (AAAI 2023) [READ: Aggregating Reconstruction Error into Out-of-Distribution Detection](https://arxiv.org/pdf/2206.07459.pdf) by Jiang et al.
 
-(AAAI 2023) [On the Connection between Invariant Learning and Adversarial Training for Out-of-Distribution Generalization](https://ojs.aaai.org/index.php/AAAI/article/view/26250/26022) by Xin et al.
-
-(AAAI 2023) [Certifiable Out-of-Distribution Generalization](https://ojs.aaai.org/index.php/AAAI/article/view/26295/26067) by Ye et al.
-
-(AAAI 2023) [Bayesian Cross-Modal Alignment Learning for Few-Shot Out-of-Distribution Generalization](https://ojs.aaai.org/index.php/AAAI/article/view/26355/26127) by Zhu et al.
-
 (AAAI 2023) [Towards In-Distribution Compatible Out-of-Distribution Detection](https://ojs.aaai.org/index.php/AAAI/article/view/26230/26002) by Wu et al.
-
-(AAAI 2023) [Out-of-Distribution Generalization by Neural-Symbolic Joint Training](https://ojs.aaai.org/index.php/AAAI/article/view/26444/26216) by Liu et al.
 
 (TMLR 2022) [Linking Neural Collapse and L2 Normalization with Improved Out-of-Distribution Detection in Deep Neural Networks](https://openreview.net/pdf?id=fjkN5Ur2d6) by Haas et al.
 
 (TMLR 2022) [The Evolution of Out-of-Distribution Robustness Throughout Fine-Tuning](https://openreview.net/pdf?id=Qs3EfpieOh) by Andreassen et al.
 
 (CVPR 2022) [ViM: Out-Of-Distribution with Virtual-logit Matching](https://arxiv.org/pdf/2203.10807.pdf) [[Project Page]](https://ooddetection.github.io/#comp-l0p561in) by Wang et al.
-
-(CVPR 2022) [Out-of-Distribution Generalization With Causal Invariant Transformations](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Out-of-Distribution_Generalization_With_Causal_Invariant_Transformations_CVPR_2022_paper.pdf) by Wang et al.
-
-(CVPR 2022) [OoD-Bench: Quantifying and Understanding Two Dimensions of Out-of-Distribution Generalization](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_OoD-Bench_Quantifying_and_Understanding_Two_Dimensions_of_Out-of-Distribution_Generalization_CVPR_2022_paper.pdf) [[Video]](https://www.youtube.com/watch?v=txwI9f5Bfio) [[Code]](https://github.com/ynysjtu/ood_bench) by Ye et al.
 
 (CVPR 2022) [Neural Mean Discrepancy for Efficient Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Neural_Mean_Discrepancy_for_Efficient_Out-of-Distribution_Detection_CVPR_2022_paper.pdf) by Dong et al.
 
@@ -120,23 +125,11 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (NeurIPS 2022) [Boosting Out-of-distribution Detection with Typical Features](https://arxiv.org/pdf/2210.04200.pdf) by Zhu et al.
 
-(NeurIPS 2022) [Learning Invariant Graph Representations for Out-of-Distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2022/file/4d4e0ab9d8ff180bf5b95c258842d16e-Paper-Conference.pdf) by Li et al.
-
-(NeurIPS 2022) [Improving Out-of-Distribution Generalization by Adversarial Training with Structured Priors](https://proceedings.neurips.cc/paper_files/paper/2022/file/adc98a266f45005c403b8311ca7e8bd7-Paper-Conference.pdf) by Wang et al.
-
-(NeurIPS 2022) [Functional Indirection Neural Estimator for Better Out-of-distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2022/file/13b8d8fb8d05369480c2c344f2ce3f25-Paper-Conference.pdf) by Pham et al.
-
 (NeurIPS 2022) [GraphDE: A Generative Framework for Debiased Learning and Out-of-Distribution Detection on Graphs](https://proceedings.neurips.cc/paper_files/paper/2022/file/c34262c35aa5f8c1a091822cbb2020c2-Paper-Conference.pdf) [[Code]](https://github.com/Emiyalzn/GraphDE) by Li et al.
-
-(NeurIPS 2022) [Multi-Instance Causal Representation Learning for Instance Label Prediction and Out-of-Distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2022/file/e261e92e1cfb820da930ad8c38d0aead-Paper-Conference.pdf) [[Code]](https://github.com/weijiazhang24/causalmil) by Zhang et al.
 
 (NeurIPS 2022) [Out-of-Distribution Detection via Conditional Kernel Independence Model](https://proceedings.neurips.cc/paper_files/paper/2022/file/ec14daa5c50745f83fb27f685f8dfc22-Paper-Conference.pdf) by Wang et al.
 
 (NeurIPS 2022) [Your Out-of-Distribution Detection Method is Not Robust!](https://proceedings.neurips.cc/paper_files/paper/2022/file/1f6591cc41be737e9ba4cc487ac8082d-Paper-Conference.pdf) [[Code]](https://github.com/rohban-lab/ATD) by Azizmalayeri et al.
-
-(NeurIPS 2022) [Assaying Out-Of-Distribution Generalization in Transfer Learning](https://proceedings.neurips.cc/paper_files/paper/2022/file/2f5acc925919209370a3af4eac5cad4a-Paper-Conference.pdf) [[Code]](https://github.com/amazon-science/assaying-ood) by Wenzel et al.
-
-(NeurIPS 2022) [Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs](https://proceedings.neurips.cc/paper_files/paper/2022/file/8b21a7ea42cbcd1c29a7a88c444cce45-Paper-Conference.pdf) [[Code]](https://github.com/LFhase/CIGA) by Chen et al.
 
 (NeurIPS 2022) [Out-of-Distribution Detection with An Adaptive Likelihood Ratio on Informative Hierarchical VAE](https://proceedings.neurips.cc/paper_files/paper/2022/file/3066f60a91d652f4dc690637ac3a2f8c-Paper-Conference.pdf) by Li et al.
 
@@ -144,13 +137,9 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (NeurIPS 2022) [Using Mixup as a Regularizer Can Surprisingly Improve Accuracy & Out-of-Distribution Robustness](https://proceedings.neurips.cc/paper_files/paper/2022/file/5ddcfaad1cb72ce6f1a365e8f1ecf791-Paper-Conference.pdf) by Pinto et al.
 
-(NeurIPS 2022) [Diverse Weight Averaging for Out-of-Distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2022/file/46108d807b50ad4144eb353b5d0e8851-Paper-Conference.pdf) [[Code]](https://github.com/alexrame/diwa) by Ramé et al.
-
 (NeurIPS 2022) [Provably Adversarially Robust Detection of Out-of-Distribution Data (Almost) for Free](https://proceedings.neurips.cc/paper_files/paper/2022/file/c2c62117283dda155db754e54dbe8d71-Paper-Conference.pdf) [[Code]](https://github.com/AlexMeinke/Provable-OOD-Detection) by Meinke et al.
 
 (NeurIPS 2022) ⭐⭐⭐⭐⭐ [Is Out-of-Distribution Detection Learnable?](https://proceedings.neurips.cc/paper_files/paper/2022/file/f0e91b1314fa5eabf1d7ef6d1561ecec-Paper-Conference.pdf) by Fang et al.
-
-(NeurIPS 2022) [ZooD: Exploiting Model Zoo for Out-of-Distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2022/file/cd305fdee96836d5cc1de94577d71b61-Paper-Conference.pdf) by Dong et al.
 
 (NeurIPS 2022) [Towards Out-of-Distribution Sequential Event Prediction: A Causal Treatment](https://proceedings.neurips.cc/paper_files/paper/2022/file/8e69a97cbdd91ac0808603fa589d6c17-Paper-Conference.pdf) by Yang et al.
 
@@ -158,23 +147,17 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (NeurIPS 2022) [Beyond Mahalanobis Distance for Textual OOD Detection](https://proceedings.neurips.cc/paper_files/paper/2022/file/70fa5df8e3300dc30bf19bee44a56155-Paper-Conference.pdf) by Colombo et al.
 
-(NeurIPS 2022) [LOG: Active Model Adaptation for Label-Efficient OOD Generalization](https://proceedings.neurips.cc/paper_files/paper/2022/file/4757094e8ccc17e3e25b40efaf06c746-Paper-Conference.pdf) by Shao et al.
-
 (NeurIPS 2022) [SIREN: Shaping Representations for Detecting Out-of-Distribution Objects](https://proceedings.neurips.cc/paper_files/paper/2022/file/804dbf8d3b8eee1ef875c6857efc64eb-Paper-Conference.pdf) [[Code]](https://github.com/deeplearning-wisc/siren) by Du et al.
 
 (ICML 2022) [Mitigating Neural Network Overconfidence with Logit Normalization](https://arxiv.org/pdf/2205.09310.pdf) [[Code]](https://github.com/hongxin001/logitnorm_ood) by Hsu et al.
 
 (ICML 2022) [Scaling Out-of-Distribution Detection for Real-World Settings](https://arxiv.org/pdf/1911.11132.pdf) [[Code]](https://github.com/hendrycks/anomaly-seg) by Hendrycks et al.
 
-(ICML 2022) [Certifying Out-of-Domain Generalization for Blackbox Functions](https://proceedings.mlr.press/v162/weber22a/weber22a.pdf) [[Code]](https://github.com/DS3Lab/certified-generalization) by Weber et al.
-
 (ICML 2022) [Open-Sampling: Exploring Out-of-Distribution data for Re-balancing Long-tailed datasets](https://proceedings.mlr.press/v162/wei22c/wei22c.pdf) by Wei et al.
 
 (ICML 2022) [Model Agnostic Sample Reweighting for Out-of-Distribution Learning](https://proceedings.mlr.press/v162/zhou22d/zhou22d.pdf) [[Code]](https://github.com/x-zho14/MAPLE) by Zhou et al.
 
 (ICML 2022) [Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition](https://proceedings.mlr.press/v162/wang22aq/wang22aq.pdf) [[Code]](https://github.com/amazon-science/long-tailed-ood-detection) by Wang et al.
-
-(ICML 2022) [Fishr: Invariant Gradient Variances for Out-of-Distribution Generalization](https://proceedings.mlr.press/v162/rame22a/rame22a.pdf) [[Code]](https://github.com/alexrame/fishr) by Ramé et al.
 
 (ICML 2022) [Breaking Down Out-of-Distribution Detection: Many Methods Based on OOD Training Data Estimate a Combination of the Same Core Quantities](https://proceedings.mlr.press/v162/bitterwolf22a/bitterwolf22a.pdf) [[Code]](https://github.com/j-cb/Breaking_Down_OOD_Detection) by Bitterwolf et al.
 
@@ -192,15 +175,9 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (ICLR 2022) [Revisiting flow generative models for Out-of-distribution detection](https://openreview.net/pdf?id=6y2KBh-0Fd9) by Jiang et al.
 
-(ICLR 2022) [Out-of-distribution Generalization in the Presence of Nuisance-Induced Spurious Correlations](https://openreview.net/pdf?id=12RoR2o32T) [[Code]](https://github.com/rajesh-lab/nurd-code-public) by Puli et al.
-
 (ICLR 2022) [PI3NN: Out-of-distribution-aware Prediction Intervals from Three Neural Networks](https://openreview.net/pdf?id=NoB8YgRuoFU) [[Code]](https://github.com/liusiyan/UQnet) by Liu et al.
 
-(ICLR 2022) [Uncertainty Modeling for Out-of-Distribution Generalization](https://openreview.net/pdf?id=6HN7LHyzGgC) [[Code]](https://github.com/lixiaotong97/DSU) by Li et al.
-
 (ICLR 2022) [(ATC) Leveraging unlabeled data to predict out-of-distribution performance](https://openreview.net/pdf?id=o_HsiMPYh_x) by Garg et al.
-
-(ICLR 2022) [Invariant Causal Representation Learning for Out-of-Distribution Generalization](https://openreview.net/pdf?id=-e4EXDWXnSn) by Lu et al.
 
 (ICLR 2022) [Igeood: An Information Geometry Approach to Out-of-Distribution Detection](https://arxiv.org/pdf/2203.07798.pdf) [[Code]](https://github.com/igeood/Igeood) by Gomes et al.
 
@@ -214,13 +191,9 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (AAAI 2022) [Provable Guarantees for Understanding Out-of-distribution Detection](https://arxiv.org/pdf/2112.00787.pdf) [[Code]](https://github.com/AlexMeinke/Provable-OOD-Detection) by Morteza and Li
 
-(AAAI 2022) [VITA: A Multi-Source Vicinal Transfer Augmentation Method for Out-of-Distribution Generalization](https://www.aaai.org/AAAI22Papers/AAAI-733.ChenM.pdf) by Chen et al.
-
 (AAAI 2022) [Learning Modular Structures That Generalize Out-of-Distribution (Student Abstract)](https://www.aaai.org/AAAI22Papers/SA-00398-AshokA.pdf) by Ashok et al.
 
 (AAAI 2022) [Exploiting Mixed Unlabeled Data for Detecting Samples of Seen and Unseen Out-of-Distribution Classes](https://www.aaai.org/AAAI22Papers/AAAI-6640.SunY.pdf) by Sun and Wang
-
-(CVPR 2021) [Deep Stable Learning for Out-of-Distribution Generalization](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Deep_Stable_Learning_for_Out-of-Distribution_Generalization_CVPR_2021_paper.pdf) by Zhang et al.
 
 (CVPR 2021) [Out-of-Distribution Detection Using Union of 1-Dimensional Subspaces](https://openaccess.thecvf.com/content/CVPR2021/papers/Zaeemzadeh_Out-of-Distribution_Detection_Using_Union_of_1-Dimensional_Subspaces_CVPR_2021_paper.pdf) [[Code]](https://github.com/zaeemzadeh/OOD) by Zaeemzadeh et al.
 
@@ -234,15 +207,9 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (NeurIPS 2021) [STEP: Out-of-Distribution Detection in the Presence of Limited In-Distribution Labeled Data](https://openreview.net/pdf?id=p9dySshcS0q) by Zhou et al.
 
-(NeurIPS 2021) [Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization](https://openreview.net/pdf?id=jlchsFOLfeF) [[Video]](https://www.youtube.com/watch?v=g7SkcvMjVeI) by Ahuja et al.
-
 (NeurIPS 2021) [Exploring the Limits of Out-of-Distribution Detection](https://openreview.net/pdf?id=j5NrN8ffXC) [[Code]](https://github.com/stanislavfort/exploring_the_limits_of_OOD_detection) by Fort et al.
 
 (NeurIPS 2021) [Learning Causal Semantic Representation for Out-of-Distribution Prediction](https://openreview.net/pdf?id=-msETI57gCH) [[Code]](https://github.com/changliu00/causal-semantic-generative-model) by Liu et al.
-
-(NeurIPS 2021) [Towards a Theoretical Framework of Out-of-Distribution Generalization](https://openreview.net/pdf?id=kFJoj7zuDVi) [[Slides]](https://haotianye.com/files/NeurIPS21/slides_NeurIPS21_OOD.pdf) by Ye et al.
-
-(NeurIPS 2021) [Out-of-Distribution Generalization in Kernel Regression](https://openreview.net/pdf?id=-h6Ldc0MO-) by Canatar et al.
 
 (NeurIPS 2021) [Towards optimally abstaining from prediction with OOD test examples](https://openreview.net/pdf?id=P9_gOq5w7Eb) by Kalai and Kanade
 
@@ -252,15 +219,11 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (NeurIPS 2021) ⭐⭐⭐⭐⭐ [ReAct: Out-of-distribution Detection With Rectified Activations](https://arxiv.org/pdf/2111.12797.pdf) [[Code]](https://github.com/deeplearning-wisc/react) by Sun et al.
 
-(NeurIPS 2021) [Characterizing Generalization under Out-Of-Distribution Shifts in Deep Metric Learning](https://openreview.net/pdf?id=_KqWSCu566) [[Code]](https://github.com/Confusezius/Characterizing_Generalization_in_DeepMetricLearning) by Millbich et al.
-
 (NeurIPS 2021) ⭐⭐⭐⭐⭐ [(GradNorm) On the Importance of Gradients for Detecting Distributional Shifts in the Wild](https://arxiv.org/pdf/2110.00218.pdf) [[Code]](https://github.com/deeplearning-wisc/gradnorm_ood) by Huang et al.
 
 (NeurIPS 2021) [Watermarking for Out-of-distribution Detection](https://arxiv.org/pdf/2210.15198.pdf) by Wang et al.
 
 (NeurIPS 2021) [Can multi-label classification networks know what they don't know?](https://arxiv.org/pdf/2109.14162.pdf) [[Code]](https://github.com/deeplearning-wisc/multi-label-ood) by Wang et al.
-
-(ICLR 2021) [Understanding the failure modes of out-of-distribution generalization](https://openreview.net/pdf?id=fSTD6NFIW_b) [[Video]](https://www.youtube.com/watch?v=DhPMq_550OE) by Nagarajan et al.
 
 (ICLR 2021) [SSD: A Unified Framework for Self-Supervised Outlier Detection](https://arxiv.org/pdf/2103.12051.pdf) [[Code]](https://github.com/inspire-group/SSD) by Sehwag et al.
 
@@ -271,14 +234,6 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 (ICLR 2021) [In-N-Out: Pre-Training and Self-Training using Auxiliary Information for Out-of-Distribution Robustness](https://openreview.net/pdf?id=jznizqvr15J) [[Code]](https://github.com/p-lambda/in-n-out) by Xie et al.
 
 (ICML 2021) [Understanding Failures in Out-of-Distribution Detection with Deep Generative Models](http://proceedings.mlr.press/v139/zhang21g/zhang21g.pdf) by Zhang et al.
-
-(ICML 2021) [Accuracy on the Line: on the Strong Correlation Between Out-of-Distribution and In-Distribution Generalization](http://proceedings.mlr.press/v139/miller21b/miller21b.pdf) [[Code]](https://github.com/millerjohnp/linearfits_app) by Miller et al.
-
-(ICML 2021) [Out-of-Distribution Generalization via Risk Extrapolation (REx)](http://proceedings.mlr.press/v139/krueger21a/krueger21a.pdf) by Krueger et al.
-
-(ICML 2021) [Can Subnetwork Structure Be the Key to Out-of-Distribution Generalization?](http://proceedings.mlr.press/v139/zhang21a/zhang21a.pdf) [[Slides]](https://zdhnarsil.github.io/files/icml2021_invsubnet_slides.pdf) by Zhang et al.
-
-(ICML 2021) [Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization](http://proceedings.mlr.press/v139/baranwal21a/baranwal21a.pdf) [[Code]](https://github.com/opallab/Graph-Convolution-for-Semi-Supervised-Classification-Improved-Linear-Separability-and-OoD-Gen.) by Baranwal et al.
 
 (ICCV 2021) [Semantically Coherent Out-of-Distribution Detection](https://arxiv.org/pdf/2108.11941.pdf) [[Project Page]](https://jingkang50.github.io/projects/scood) [[Code]](https://github.com/jingkang50/ICCV21_SCOOD) by Yang et al.
 
@@ -332,3 +287,68 @@ This repo aims to provide a comprehensive resource for OOD detection, robustness
 
 (ICLR 2017) ⭐⭐⭐⭐⭐ [A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/pdf/1610.02136.pdf) [[Code]](https://github.com/hendrycks/error-detection) by Hendrycks and Gimpel
 
+## OOD Generalization
+
+(ICML 2023) [Feed Two Birds with One Scone: Exploiting Wild Data for Both Out-of-Distribution Generalization and Detection](https://arxiv.org/pdf/2306.09158.pdf) [[Video]](https://www.youtube.com/watch?v=4qMY-pLe638) by Bai et al.
+
+(AAAI 2023) [On the Connection between Invariant Learning and Adversarial Training for Out-of-Distribution Generalization](https://ojs.aaai.org/index.php/AAAI/article/view/26250/26022) by Xin et al.
+
+(AAAI 2023) [Certifiable Out-of-Distribution Generalization](https://ojs.aaai.org/index.php/AAAI/article/view/26295/26067) by Ye et al.
+
+(AAAI 2023) [Bayesian Cross-Modal Alignment Learning for Few-Shot Out-of-Distribution Generalization](https://ojs.aaai.org/index.php/AAAI/article/view/26355/26127) by Zhu et al.
+
+(AAAI 2023) [Out-of-Distribution Generalization by Neural-Symbolic Joint Training](https://ojs.aaai.org/index.php/AAAI/article/view/26444/26216) by Liu et al.
+
+(CVPR 2022) [Out-of-Distribution Generalization With Causal Invariant Transformations](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Out-of-Distribution_Generalization_With_Causal_Invariant_Transformations_CVPR_2022_paper.pdf) by Wang et al.
+
+(CVPR 2022) [OoD-Bench: Quantifying and Understanding Two Dimensions of Out-of-Distribution Generalization](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_OoD-Bench_Quantifying_and_Understanding_Two_Dimensions_of_Out-of-Distribution_Generalization_CVPR_2022_paper.pdf) [[Video]](https://www.youtube.com/watch?v=txwI9f5Bfio) [[Code]](https://github.com/ynysjtu/ood_bench) by Ye et al.
+
+(NeurIPS 2022) [Learning Invariant Graph Representations for Out-of-Distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2022/file/4d4e0ab9d8ff180bf5b95c258842d16e-Paper-Conference.pdf) by Li et al.
+
+(NeurIPS 2022) [Improving Out-of-Distribution Generalization by Adversarial Training with Structured Priors](https://proceedings.neurips.cc/paper_files/paper/2022/file/adc98a266f45005c403b8311ca7e8bd7-Paper-Conference.pdf) by Wang et al.
+
+(NeurIPS 2022) [Functional Indirection Neural Estimator for Better Out-of-distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2022/file/13b8d8fb8d05369480c2c344f2ce3f25-Paper-Conference.pdf) by Pham et al.
+
+(NeurIPS 2022) [Multi-Instance Causal Representation Learning for Instance Label Prediction and Out-of-Distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2022/file/e261e92e1cfb820da930ad8c38d0aead-Paper-Conference.pdf) [[Code]](https://github.com/weijiazhang24/causalmil) by Zhang et al.
+
+(NeurIPS 2022) [Assaying Out-Of-Distribution Generalization in Transfer Learning](https://proceedings.neurips.cc/paper_files/paper/2022/file/2f5acc925919209370a3af4eac5cad4a-Paper-Conference.pdf) [[Code]](https://github.com/amazon-science/assaying-ood) by Wenzel et al.
+
+(NeurIPS 2022) [Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs](https://proceedings.neurips.cc/paper_files/paper/2022/file/8b21a7ea42cbcd1c29a7a88c444cce45-Paper-Conference.pdf) [[Code]](https://github.com/LFhase/CIGA) by Chen et al.
+
+(NeurIPS 2022) [Diverse Weight Averaging for Out-of-Distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2022/file/46108d807b50ad4144eb353b5d0e8851-Paper-Conference.pdf) [[Code]](https://github.com/alexrame/diwa) by Ramé et al.
+
+(NeurIPS 2022) [ZooD: Exploiting Model Zoo for Out-of-Distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2022/file/cd305fdee96836d5cc1de94577d71b61-Paper-Conference.pdf) by Dong et al.
+
+(ICML 2022) [Certifying Out-of-Domain Generalization for Blackbox Functions](https://proceedings.mlr.press/v162/weber22a/weber22a.pdf) [[Code]](https://github.com/DS3Lab/certified-generalization) by Weber et al.
+
+(NeurIPS 2022) [LOG: Active Model Adaptation for Label-Efficient OOD Generalization](https://proceedings.neurips.cc/paper_files/paper/2022/file/4757094e8ccc17e3e25b40efaf06c746-Paper-Conference.pdf) by Shao et al.
+
+(ICML 2022) [Fishr: Invariant Gradient Variances for Out-of-Distribution Generalization](https://proceedings.mlr.press/v162/rame22a/rame22a.pdf) [[Code]](https://github.com/alexrame/fishr) by Ramé et al.
+
+(ICLR 2022) [Out-of-distribution Generalization in the Presence of Nuisance-Induced Spurious Correlations](https://openreview.net/pdf?id=12RoR2o32T) [[Code]](https://github.com/rajesh-lab/nurd-code-public) by Puli et al.
+
+(ICLR 2022) [Uncertainty Modeling for Out-of-Distribution Generalization](https://openreview.net/pdf?id=6HN7LHyzGgC) [[Code]](https://github.com/lixiaotong97/DSU) by Li et al.
+
+(ICLR 2022) [Invariant Causal Representation Learning for Out-of-Distribution Generalization](https://openreview.net/pdf?id=-e4EXDWXnSn) by Lu et al.
+
+(AAAI 2022) [VITA: A Multi-Source Vicinal Transfer Augmentation Method for Out-of-Distribution Generalization](https://www.aaai.org/AAAI22Papers/AAAI-733.ChenM.pdf) by Chen et al.
+
+(CVPR 2021) [Deep Stable Learning for Out-of-Distribution Generalization](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Deep_Stable_Learning_for_Out-of-Distribution_Generalization_CVPR_2021_paper.pdf) by Zhang et al.
+
+(NeurIPS 2021) [Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization](https://openreview.net/pdf?id=jlchsFOLfeF) [[Video]](https://www.youtube.com/watch?v=g7SkcvMjVeI) by Ahuja et al.
+
+(NeurIPS 2021) [Towards a Theoretical Framework of Out-of-Distribution Generalization](https://openreview.net/pdf?id=kFJoj7zuDVi) [[Slides]](https://haotianye.com/files/NeurIPS21/slides_NeurIPS21_OOD.pdf) by Ye et al.
+
+(NeurIPS 2021) [Out-of-Distribution Generalization in Kernel Regression](https://openreview.net/pdf?id=-h6Ldc0MO-) by Canatar et al.
+
+(NeurIPS 2021) [Characterizing Generalization under Out-Of-Distribution Shifts in Deep Metric Learning](https://openreview.net/pdf?id=_KqWSCu566) [[Code]](https://github.com/Confusezius/Characterizing_Generalization_in_DeepMetricLearning) by Millbich et al.
+
+(ICLR 2021) [Understanding the failure modes of out-of-distribution generalization](https://openreview.net/pdf?id=fSTD6NFIW_b) [[Video]](https://www.youtube.com/watch?v=DhPMq_550OE) by Nagarajan et al.
+
+(ICML 2021) [Accuracy on the Line: on the Strong Correlation Between Out-of-Distribution and In-Distribution Generalization](http://proceedings.mlr.press/v139/miller21b/miller21b.pdf) [[Code]](https://github.com/millerjohnp/linearfits_app) by Miller et al.
+
+(ICML 2021) [Out-of-Distribution Generalization via Risk Extrapolation (REx)](http://proceedings.mlr.press/v139/krueger21a/krueger21a.pdf) by Krueger et al.
+
+(ICML 2021) [Can Subnetwork Structure Be the Key to Out-of-Distribution Generalization?](http://proceedings.mlr.press/v139/zhang21a/zhang21a.pdf) [[Slides]](https://zdhnarsil.github.io/files/icml2021_invsubnet_slides.pdf) by Zhang et al.
+
+(ICML 2021) [Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization](http://proceedings.mlr.press/v139/baranwal21a/baranwal21a.pdf) [[Code]](https://github.com/opallab/Graph-Convolution-for-Semi-Supervised-Classification-Improved-Linear-Separability-and-OoD-Gen.) by Baranwal et al.
