@@ -1,8 +1,7 @@
 # OOD Detection, Robustness, and Generalization [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
 
 
-This repo aims to provide the most comprehensive, up-to-date, high-quality resource for **OOD detection, robustness, and generalization** in Deep Learning. If you spot errors or omissions, please open an issue or contact me at continuousml@gmail.com.
-
+This repo aims to provide the most comprehensive, up-to-date, high-quality resource for **OOD detection, robustness, and generalization** in Deep Learning. Your one-stop shop for everything OOD is here. If you spot errors or omissions, please open an issue or contact me at continuousml@gmail.com.
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/WEzyEx36)
 
@@ -408,6 +407,8 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 (ICML 2023) [The Value of Out-of-Distribution Data](https://proceedings.mlr.press/v202/de-silva23a/de-silva23a.pdf) by Silva et al.
 
 (ICML 2023) [CLIPood: Generalizing CLIP to Out-of-Distributions](https://proceedings.mlr.press/v202/shu23a/shu23a.pdf) by Shu et al.
+
+(ICRA 2023) [Unsupervised Road Anomaly Detection with Language Anchors](https://ieeexplore.ieee.org/document/10160470) by Tian et al.
 
 (NeurIPS 2022) [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](https://arxiv.org/pdf/2205.07211.pdf) [[Code]](https://github.com/Rongjiehuang/GenerSpeech) by Huang et al.
 
