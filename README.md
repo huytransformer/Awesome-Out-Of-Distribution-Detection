@@ -14,6 +14,7 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 - [Talks](#usage)
 - [Benchmarks, libraries, datasets, etc](#benchmarks-libraries-datasets-etc)
 - [Surveys](#surveys)
+- [Theses](#theses)
 - [Papers](#papers)
   - [OOD Detection](#ood-detection)
   - [OOD Robustness](#ood-robustness)
@@ -25,6 +26,8 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 # Researchers
 
 - Dan Hendrycks [[Twitter]](https://twitter.com/DanHendrycks) [[Scholar]](https://scholar.google.com/citations?user=czyretsAAAAJ&hl=en)
+
+- Mathias Hein [[Scholar]](https://scholar.google.de/citations?user=0ZAb3tsAAAAJ&hl=en)
 
 - Sharon Y. Li [[Twitter]](https://twitter.com/SharonYixuanLi) [[Scholar]](https://scholar.google.com/citations?user=QSTd1oUAAAAJ)
 
@@ -71,6 +74,10 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 [Generalized Out-of-Distribution Detection: A Survey](https://arxiv.org/pdf/2110.11334.pdf) by Yang et al
 
 [A Unified Survey on Anomaly, Novelty, Open-Set, and Out of-Distribution Detection: Solutions and Future Challenges](https://arxiv.org/pdf/2110.14051.pdf) by Salehi et al.
+
+# Theses
+
+[Robust Out-of-Distribution Detection in Deep Classifiers](https://ub01.uni-tuebingen.de/xmlui/bitstream/handle/10900/141438/Dissertation.pdf?sequence=2&isAllowed=y) by Alexander Meinke
 
 # Papers
 
@@ -277,6 +284,8 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 (NeurIPS 2020) [Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder](https://proceedings.neurips.cc/paper/2020/file/eddea82ad2755b24c4e168c5fc2ebd40-Paper.pdf) [[Code]](https://github.com/XavierXiao/Likelihood-Regret) by Xiao et al.
 
 (NeurIPS 2020) ⭐⭐⭐⭐⭐ [Why Normalizing Flows Fail to Detect Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/file/ecb9fe2fbb99c31f567e9823e884dbec-Paper.pdf) [[Code]](https://github.com/PolinaKirichenko/flows_ood) by Kirichenko et al.
+
+(ICLR 2020) [Towards Neural Networks That Provably Know When They Don't Know](https://openreview.net/pdf?id=ByxGkySKwH) by Meinke et al.
 
 (ICML 2020) [Detecting Out-of-Distribution Examples with Gram Matrices](http://proceedings.mlr.press/v119/sastry20a/sastry20a.pdf) [[Code]](https://github.com/VectorInstitute/gram-ood-detection) by Sastry and Oore
 
