@@ -138,6 +138,8 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 (AAAI 2023) [Towards In-Distribution Compatible Out-of-Distribution Detection](https://ojs.aaai.org/index.php/AAAI/article/view/26230/26002) by Wu et al.
 
+(MIDL 2023) [Know Your Space: Inlier and Outlier Construction for Calibrating Medical OOD Detectors](https://openreview.net/pdf?id=RU7fr0-M8N) [[Project Page]](https://software.llnl.gov/OODmedic/) by Narayanaswamy, Mubarka et al.
+
 (TMLR 2022) [Linking Neural Collapse and L2 Normalization with Improved Out-of-Distribution Detection in Deep Neural Networks](https://openreview.net/pdf?id=fjkN5Ur2d6) by Haas et al.
 
 (CVPR 2022) [ViM: Out-Of-Distribution with Virtual-logit Matching](https://arxiv.org/pdf/2203.10807.pdf) [[Project Page]](https://ooddetection.github.io/#comp-l0p561in) by Wang et al.
