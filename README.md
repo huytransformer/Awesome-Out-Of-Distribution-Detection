@@ -285,7 +285,7 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 (NeurIPS 2020) ⭐⭐⭐⭐⭐ [Why Normalizing Flows Fail to Detect Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/file/ecb9fe2fbb99c31f567e9823e884dbec-Paper.pdf) [[Code]](https://github.com/PolinaKirichenko/flows_ood) by Kirichenko et al.
 
-(ICLR 2020) [Towards Neural Networks That Provably Know When They Don't Know](https://openreview.net/pdf?id=ByxGkySKwH) by Meinke et al.
+(ICLR 2020) [Towards Neural Networks That Provably Know When They Don't Know](https://openreview.net/pdf?id=ByxGkySKwH) [[Code]](https://github.com/AlexMeinke/certified-certain-uncertainty) by Meinke et al.
 
 (ICML 2020) [Detecting Out-of-Distribution Examples with Gram Matrices](http://proceedings.mlr.press/v119/sastry20a/sastry20a.pdf) [[Code]](https://github.com/VectorInstitute/gram-ood-detection) by Sastry and Oore
 
