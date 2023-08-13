@@ -6,12 +6,13 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/WEzyEx36)
 
 ---
-# Your Neural Network Doesn't Know What It Doesn't Know
+# Primer: Your Neural Network Doesn't Know What It Doesn't Know
 
 ![gif](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection/assets/110962703/f462693a-851a-41d6-9301-eba19446fcdc)
 
+OOD Detection represents an emerging trend in deep learning research, focusing on a critical deficiency that often limits the deployment of neural networks in real-world scenarios. Despite the tremendous success, deep learning is usually founded on an important assumption: the data a model encounters during deployment must be 'similar' to what it was trained on, or in other words, in-distribution. Regrettably, our world is neither static nor predictable, and so is the data we feed into our models.
 
-OOD Detection is an emerging trend in deep learning research aiming to address one of the current deficiencies that limit the deployment of neural networks in practice. Despite the tremendous success, deep learning often rests on one important assumption, that whatever data the model sees during deployment should be 'similar' to what it was trained on (aka in-distribution). Unfortunately, the real world is not static and constantly evolving, and so is the data we feed into the model. Equipping the model with the ability to say 'no' when it is not familiar with the input is very important, especially when it comes to safety-critical applications.
+Equipping a neural network with the ability to say 'no' when faced with unfamiliar input is not merely a convenience; it's an urgent necessity, particularly in safety-critical applications. Understanding and implementing OOD Detection not only strengthens the integrity of a model but also provides a layer of security, ensuring that the vast and unpredictable landscape of real-world data does not become an Achilles' heel for otherwise powerful and sophisticated deep learning systems.
 
 ---
 
