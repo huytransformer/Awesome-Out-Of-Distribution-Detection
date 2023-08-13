@@ -8,6 +8,9 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 ---
 ## But what is OOD detection?
 
+![gif](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection/assets/110962703/f462693a-851a-41d6-9301-eba19446fcdc)
+
+
 OOD Detection is an emerging trend in deep learning research aiming to address one of the current deficiencies that limit the deployment of neural networks in practice. Despite the tremendous success, deep learning often rests on one important assumption, that whatever data the model sees during deployment should be 'similar' to what it was trained on (aka in-distribution). Unfortunately, the real world is not static and constantly evolving, and so is the data we feed into the model. Equipping the model with the ability to say 'no' when it is not familiar with the input is very important, especially when it comes to safety-critical applications.
 
 ---
