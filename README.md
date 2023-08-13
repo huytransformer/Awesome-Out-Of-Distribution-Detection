@@ -5,6 +5,10 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/WEzyEx36)
 
+---
+## But what is OOD detection?
+
+OOD Detection is an emerging trend in deep learning research aiming to address one of the current deficiencies that limit the deployment of neural networks in practice. Despite the tremendous success, deep learning often rests on one important assumption, that whatever data the model sees during deployment should be 'similar' to what it was trained on (aka in-distribution). Unfortunately, the real world is not static and constantly evolving, and so is the data we feed into the model. Equipping the model with the ability to say 'no' when it is not familiar with the input is very important, especially when it comes to safety-critical applications.
 
 ---
 
