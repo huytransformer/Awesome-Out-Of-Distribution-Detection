@@ -6,7 +6,7 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/WEzyEx36)
 
 ---
-## But what is OOD detection?
+# Your Neural Network Doesn't Know What It Doesn't Know
 
 ![gif](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection/assets/110962703/f462693a-851a-41d6-9301-eba19446fcdc)
 
