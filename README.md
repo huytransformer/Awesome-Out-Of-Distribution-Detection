@@ -10,7 +10,7 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 ![gif](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection/assets/110962703/f462693a-851a-41d6-9301-eba19446fcdc)
 
-OOD Detection represents an emerging trend in deep learning research, focusing on a critical deficiency that often limits the deployment of neural networks in real-world scenarios. Despite the tremendous success, deep learning is usually founded on an important assumption: the data a model encounters during deployment must be 'similar' to what it was trained on, or in other words, in-distribution. Regrettably, our world is neither static nor predictable, and so is the data we feed into our models.
+OOD Detection represents an emerging trend in deep learning research, focusing on a critical deficiency that often limits the deployment of neural networks in real-world scenarios. Despite the tremendous success, deep learning is usually founded on an important assumption: the data a model encounters during deployment must be 'similar' to what it was trained on, or in other words, in-distribution. Regrettably, our world is neither static nor predictable, and so is the data we feed into our models. A static model that is not adaptive nor robust to changes can quickly become outdated or unreliable.
 
 Equipping a neural network with the ability to say 'no' when faced with unfamiliar input is not merely a convenience; it's an urgent necessity, particularly in safety-critical applications. Understanding and implementing OOD Detection not only strengthens the integrity of a model but also provides a layer of security, ensuring that the vast and unpredictable landscape of real-world data does not become an Achilles' heel for otherwise powerful and sophisticated deep learning systems.
 
@@ -43,6 +43,8 @@ Equipping a neural network with the ability to say 'no' when faced with unfamili
   
 
 # Articles
+
+[(2022) Data Distribution Shifts and Monitoring](https://huyenchip.com/2022/02/07/data-distribution-shifts-and-monitoring.html) by Chip Huyen
 
 [(2020) Out-of-Distribution Detection in Deep Neural Networks](https://medium.com/analytics-vidhya/out-of-distribution-detection-in-deep-neural-networks-450da9ed7044) by Neeraj Varshney
 
