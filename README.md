@@ -51,6 +51,8 @@ Equipping a neural network with the ability to say 'no' when faced with unfamili
 
 # Talks
 
+[(2023) How to detect Out-of-Distribution data in the wild?](https://www.youtube.com/watch?v=Ga09-9JItxs) by Sharon Yixuan Li
+
 [(2022) Anomaly detection for OOD and novel category detection](https://www.youtube.com/watch?v=jFQUW2n8gpA&t=888s) by Thomas G. Dietterich
 
 [(2022) Reliable Open-World Learning Against Out-of-distribution Data](https://www.youtube.com/watch?v=zaXiHljOl9Y&t=22s) by Sharon Yixuan Li
@@ -279,9 +281,9 @@ Equipping a neural network with the ability to say 'no' when faced with unfamili
 
 (ECCV 2021) [DICE: Leveraging Sparsification for Out-of-Distribution Detection](https://arxiv.org/pdf/2111.09805.pdf) [[Code]](https://github.com/deeplearning-wisc/dice) by Sun and Li
 
-(CVPR 2020) [Deep Residual Flow for Out of Distribution Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zisselman_Deep_Residual_Flow_for_Out_of_Distribution_Detection_CVPR_2020_paper.pdf) [[https://github.com/EvZissel/Residual-Flow]](Code) by Zisselman and Tamar
+(CVPR 2020) [Deep Residual Flow for Out of Distribution Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zisselman_Deep_Residual_Flow_for_Out_of_Distribution_Detection_CVPR_2020_paper.pdf) [[Code]](https://github.com/EvZissel/Residual-Flow) by Zisselman and Tamar
 
-(CVPR 2020) [Generalized ODIN: Detecting Out-of-Distribution Image Without Learning From Out-of-Distribution Data] [[Code]](https://github.com/sayakpaul/Generalized-ODIN-TF) (https://arxiv.org/pdf/2002.11297.pdf) by Hsu et al.
+(CVPR 2020) [Generalized ODIN: Detecting Out-of-Distribution Image Without Learning From Out-of-Distribution Data](https://arxiv.org/pdf/2002.11297.pdf) [[Code]](https://github.com/sayakpaul/Generalized-ODIN-TF)  by Hsu et al.
 
 (NeurIPS 2020) [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://arxiv.org/pdf/2007.08176.pdf) [[Code]](https://github.com/alinlab/CSI) by Tack et al.
 
