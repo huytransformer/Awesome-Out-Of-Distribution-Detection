@@ -3,7 +3,7 @@
 
 This repo aims to provide the most comprehensive, up-to-date, high-quality resource for **OOD detection, robustness, and generalization** in Deep Learning. Your one-stop shop for everything OOD is here. If you spot errors or omissions, please open an issue or contact me at continuousml@gmail.com.
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/G3MExt2yxB)
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/gdap3n9jZ2)
 
 ---
 # Primer: Your Neural Network Doesn't Know What It Doesn't Know
