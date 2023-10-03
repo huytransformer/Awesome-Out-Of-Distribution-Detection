@@ -101,11 +101,9 @@ Equipping a neural network with the ability to say 'no' when faced with unfamili
 
 (ArXiv 2023) [Neuron Activation Coverage: Rethinking Out-of-distribution Detection and Generalization](https://arxiv.org/pdf/2306.02879.pdf) by Liu et al.
 
-(ArXiv 2023) [Characterizing Out-of-Distribution Error via Optimal Transport](https://arxiv.org/pdf/2305.15640.pdf) by Lu et al.
+(NeurIPS 2023) [Dream the Impossible: Outlier Imagination with Diffusion Models](https://arxiv.org/pdf/2309.13415.pdf) by Zhu et al.
 
 (ICCV 2023) [Nearest Neighbor Guidance for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_Nearest_Neighbor_Guidance_for_Out-of-Distribution_Detection_ICCV_2023_paper.pdf) [[Code]](https://github.com/roomo7time/nnguide) by Park et al.
-
-(CVPR 2023) [Denoising diffusion models for out-of-distribution detection]()
 
 (CVPR 2023) [Distribution Shift Inversion for Out-of-Distribution Prediction](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Distribution_Shift_Inversion_for_Out-of-Distribution_Prediction_CVPR_2023_paper.pdf) [[Code]](https://github.com/yu-rp/Distribution-Shift-Iverson) by Yu et al.
 
@@ -448,6 +446,8 @@ Equipping a neural network with the ability to say 'no' when faced with unfamili
 (ICML 2023) [CLIPood: Generalizing CLIP to Out-of-Distributions](https://proceedings.mlr.press/v202/shu23a/shu23a.pdf) by Shu et al.
 
 (ICRA 2023) [Unsupervised Road Anomaly Detection with Language Anchors](https://ieeexplore.ieee.org/document/10160470) by Tian et al.
+
+(ArXiv 2023) [Characterizing Out-of-Distribution Error via Optimal Transport](https://arxiv.org/pdf/2305.15640.pdf) by Lu et al.
 
 (NeurIPS 2022) [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](https://arxiv.org/pdf/2205.07211.pdf) [[Code]](https://github.com/Rongjiehuang/GenerSpeech) by Huang et al.
 
