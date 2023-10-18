@@ -99,8 +99,6 @@ Equipping a neural network with the ability to say 'no' when faced with unfamili
 
 ## OOD Detection
 
-(ArXiv 2023) [Neuron Activation Coverage: Rethinking Out-of-distribution Detection and Generalization](https://arxiv.org/pdf/2306.02879.pdf) by Liu et al.
-
 (NeurIPS 2023) [Dream the Impossible: Outlier Imagination with Diffusion Models](https://arxiv.org/pdf/2309.13415.pdf) by Du et al.
 
 (ICCV 2023) [Nearest Neighbor Guidance for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_Nearest_Neighbor_Guidance_for_Out-of-Distribution_Detection_ICCV_2023_paper.pdf) [[Code]](https://github.com/roomo7time/nnguide) by Park et al.
@@ -160,6 +158,8 @@ Equipping a neural network with the ability to say 'no' when faced with unfamili
 (AAAI 2023) [READ: Aggregating Reconstruction Error into Out-of-Distribution Detection](https://arxiv.org/pdf/2206.07459.pdf) by Jiang et al.
 
 (AAAI 2023) [Towards In-Distribution Compatible Out-of-Distribution Detection](https://ojs.aaai.org/index.php/AAAI/article/view/26230/26002) by Wu et al.
+
+(AAAI 2023) [Robustness to Spurious Correlations Improves Semantic Out-of-Distribution Detection](https://ojs.aaai.org/index.php/AAAI/article/view/26785) by Zhang and Ranganath
 
 (MIDL 2023) [Know Your Space: Inlier and Outlier Construction for Calibrating Medical OOD Detectors](https://openreview.net/pdf?id=RU7fr0-M8N) [[Project Page]](https://software.llnl.gov/OODmedic/) by Narayanaswamy, Mubarka et al.
 
