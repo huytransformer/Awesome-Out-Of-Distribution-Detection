@@ -39,6 +39,8 @@ Equipping a neural network with the ability to say 'no' when faced with unfamili
 
 - Sharon Y. Li [[Twitter]](https://twitter.com/SharonYixuanLi) [[Scholar]](https://scholar.google.com/citations?user=QSTd1oUAAAAJ)
 
+- Bo Han [[Scholar]](https://scholar.google.com/citations?hl=en&user=nTNjqHwAAAAJ&view_op=list_works&sortby=pubdate)
+
 - Yiyou Sun [[Twitter]](https://twitter.com/YiyouSun) [[Scholar]](https://scholar.google.com/citations?user=IKqlQo4AAAAJ)
   
 
@@ -69,7 +71,11 @@ Equipping a neural network with the ability to say 'no' when faced with unfamili
 
 ## Benchmarks
 
-[OpenOOD: Benchmarking Generalized OOD Detection](https://github.com/Jingkang50/OpenOOD)
+[OpenOOD v1.5: Benchmarking Generalized OOD Detection](https://github.com/Jingkang50/OpenOOD)
+
+[RoboDepth: Robust Out-of-distribution Depth Estimation Under Corruptions](https://github.com/ldkong1205/RoboDepth)
+
+[OOD NLP: Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations](https://github.com/lifan-yuan/OOD_NLP) by Yuan et al.
 
 ## Libraries
 
@@ -87,6 +93,8 @@ Equipping a neural network with the ability to say 'no' when faced with unfamili
 
 [A Unified Survey on Anomaly, Novelty, Open-Set, and Out of-Distribution Detection: Solutions and Future Challenges](https://arxiv.org/pdf/2110.14051.pdf) by Salehi et al.
 
+(TMLR 2023) [A Survey on Out-of-distribution Detection in NLP](https://arxiv.org/pdf/2305.03236v2.pdf) by Lang et al.
+
 # Theses
 
 [Robust Out-of-Distribution Detection in Deep Classifiers](https://ub01.uni-tuebingen.de/xmlui/bitstream/handle/10900/141438/Dissertation.pdf?sequence=2&isAllowed=y) by Alexander Meinke
@@ -99,7 +107,44 @@ Equipping a neural network with the ability to say 'no' when faced with unfamili
 
 ## OOD Detection
 
+(ICLR 2024) [CONJNORM: Tractable Density Estimation for Out-of-distribution Detection](https://arxiv.org/pdf/2402.17888.pdf) by Peng and Luo et al.
+
+(EMNLP 2023) [CONJNORM: Tractable Density Estimation for Out-of-distribution Detection](https://arxiv.org/pdf/2402.17888.pdf) by Peng and Luo et al.
+
+
+(AAAI 2024) [How To Overcome Curse-of-Dimensionality for Out-of-distribution Detection?](https://arxiv.org/pdf/2312.14452v1.pdf) by Ghosal and Sun et al.
+
+(NeurIPS 2023) [GradOrth: A Simple Yet Efficient Out-of-distribution Detection with Orthogonal Projection of Gradients](https://proceedings.neurips.cc/paper_files/paper/2023/file/77cf940349218069bbc230fc2c9c8a21-Paper-Conference.pdf) by Behypour et al.
+
+(NeurIPS 2023) [Characterizing Out-of-distribution Error via Optimal Transport](https://proceedings.neurips.cc/paper_files/paper/2023/file/38fd51cf36f28566230a93a5fbeaabbf-Paper-Conference.pdf) [[Code]](https://github.com/luyuzhe111/COT) by Lu and Qin et al.
+
+(NeurIPS 2023) [On the Importancce of Feature Separability in Predicting Out-of-distribution Error](https://proceedings.neurips.cc/paper_files/paper/2023/file/585e9cf25585612ac27b535457116513-Paper-Conference.pdf) by Xie et al.
+
+(NeurIPS 2023) [ATTA: Anomaly-aware Test-Time Adaptation for Out-of-distribution Detection in Segmentation](https://proceedings.neurips.cc/paper_files/paper/2023/file/8dcc306a2522c60a78f047ab8739e631-Paper-Conference.pdf) [[Code]](https://github.com/gaozhitong/ATTA) by Gao et al.
+
+(NeurIPS 2023) [Diversified Outlier Exposure for Out-of-distribution Detection via Informative Extrapolation](https://proceedings.neurips.cc/paper_files/paper/2023/file/46d943bc6a15a57c923829efc0db7c7a-Paper-Conference.pdf) [[Code]](https://github.com/tmlr-group/DivOE) by Zhu et al.
+
+(NeurIPS 2023) [Optimal Parameter and Neuron Pruning for Out-of-distribution Detection](https://proceedings.neurips.cc/paper_files/paper/2023/file/a4316bb210a59fb7aafeca5dd21c2703-Paper-Conference.pdf) by Chen et al.
+
+(NeurIPS 2023) [VRA: Variational Rectified Activation for Out-of-distribution Detection](https://proceedings.neurips.cc/paper_files/paper/2023/file/5c20c00504e0c049ec2370d0cceaf3c4-Paper-Conference.pdf) by Chen and Li et al.
+
+(NeurIPS 2023) [GAIA: Delving into Gradient-based Attribution Abnormality for Out-of-distribution Detection](https://proceedings.neurips.cc/paper_files/paper/2023/file/fcdccd419c4dc471fa3b73ec97b53789-Paper-Conference.pdf) [[Code]](https://github.com/zeroQiaoba/VRA) by Xu et al.
+
+(NeurIPS 2023) [CADet: Fully Self-supervised Anomaly Detection With Contrastive Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/1700ad4e6252e8f2955909f96367b34d-Paper-Conference.pdf) [[Code]](https://github.com/charlesGE/OpenOOD-CADet) by Guille-Escuret et al.
+
+(NeurIPS 2023) [RoboDepth: Robust Out-of-distribution Depth Estimation Under Corruptions](https://proceedings.neurips.cc/paper_files/paper/2023/file/43119db5d59f07cc08fca7ba6820179a-Paper-Datasets_and_Benchmarks.pdf) by Kong et al.
+
+(NeurIPS 2023) [Diversify & Conquer: Outcome-directed Curriculum RL via Out-of-distribution Disagreement](https://proceedings.neurips.cc/paper_files/paper/2023/file/a815fe7cad6af20a6c118f2072a881d2-Paper-Conference.pdf) by Cho et al.
+
+(NeurIPS 2023) [LoCoOp: Few-Shot Out-of-distribution Detection via Prompt Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/f0606b882692637835e8ac981089eccd-Paper-Conference.pdf) [[Code]](https://github.com/AtsuMiyai/LoCoOp) by Miyai et al.
+
+(NeurIPS 2023) [Category-Extensible Out-of-distribution Detection via Hierarchical Context Descriptions](https://proceedings.neurips.cc/paper_files/paper/2023/file/695b6f9490d27d852e439e35c56e73e3-Paper-Conference.pdf) by Liu et al.
+
+(NeurIPS 2023) [Out-of-distribution Detection Learning With Unreliable Out-of-distribution Sources](https://proceedings.neurips.cc/paper_files/paper/2023/file/e43f900f571de6c96a70d5724a0fb565-Paper-Conference.pdf) [[Code]](https://github.com/tmlr-group/ATOL) by Zheng and Wang et al.
+
 (NeurIPS 2023) [Dream the Impossible: Outlier Imagination with Diffusion Models](https://arxiv.org/pdf/2309.13415.pdf) by Du et al.
+
+(NeurIPS 2023) [Learning To Augment Distributions For Out-of-distribution Detection](https://proceedings.neurips.cc/paper_files/paper/2023/file/e812af67a942c21dd0104bd929f99da1-Paper-Conference.pdf) [[Code]](https://github.com/tmlr-group/DAL) by Wang et al.
 
 (ICCV 2023) [Nearest Neighbor Guidance for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_Nearest_Neighbor_Guidance_for_Out-of-Distribution_Detection_ICCV_2023_paper.pdf) [[Code]](https://github.com/roomo7time/nnguide) by Park et al.
 
@@ -118,6 +163,8 @@ Equipping a neural network with the ability to say 'no' when faced with unfamili
 (CVPR 2023) [Rethinking Out-of-Distribution (OOD) Detection: Masked Image Modeling Is All You Need](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Rethinking_Out-of-Distribution_OOD_Detection_Masked_Image_Modeling_Is_All_You_CVPR_2023_paper.pdf) [[Code]](https://github.com/JulietLJY/MOOD) by Li et al.
 
 (CVPR 2023) [LINe: Out-of-Distribution Detection by Leveraging Important Neurons](https://openaccess.thecvf.com/content/CVPR2023/papers/Ahn_LINe_Out-of-Distribution_Detection_by_Leveraging_Important_Neurons_CVPR_2023_paper.pdf) [[Code]](https://github.com/YongHyun-Ahn/LINe-Out-of-Distribution-Detection-by-Leveraging-Important-Neurons) by Ahn et al.
+
+(EMNLP 2023) [A Critical Analysis of Out-of-distribution Detection for Document Understanding](https://openreview.net/pdf?id=IHGnybgLo1Z) by Gu et al.
 
 (ICLR 2023) ⭐⭐⭐⭐⭐ [A framework for benchmarking Class-out-of-distribution detection and its application to ImageNet](https://openreview.net/pdf?id=Iuubb9W6Jtk) [[Code]](https://github.com/mdabbah/COOD_benchmarking) by Galil et al.
 
@@ -160,6 +207,8 @@ Equipping a neural network with the ability to say 'no' when faced with unfamili
 (AAAI 2023) [Towards In-Distribution Compatible Out-of-Distribution Detection](https://ojs.aaai.org/index.php/AAAI/article/view/26230/26002) by Wu et al.
 
 (AAAI 2023) [Robustness to Spurious Correlations Improves Semantic Out-of-Distribution Detection](https://ojs.aaai.org/index.php/AAAI/article/view/26785) by Zhang and Ranganath
+
+(arXiv 2023)[OpenOOD v1.5: Enhanced Benchmark for Out-of-distribution Detection](https://arxiv.org/pdf/2306.09301.pdf) by Zhang et al.
 
 (MIDL 2023) [Know Your Space: Inlier and Outlier Construction for Calibrating Medical OOD Detectors](https://openreview.net/pdf?id=RU7fr0-M8N) [[Project Page]](https://software.llnl.gov/OODmedic/) by Narayanaswamy, Mubarka et al.
 
@@ -333,6 +382,10 @@ Equipping a neural network with the ability to say 'no' when faced with unfamili
 
 ## OOD Robustness
 
+(NeurIPS 2023) [Distilling Out-of-distribution Robustness from Vision-Language Foundation Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/67f30132d98e758f7b4e28c36091d86e-Paper-Conference.pdf) by Zhou et al.
+
+(NeurIPS 2023) [Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations](https://proceedings.neurips.cc/paper_files/paper/2023/file/b6b5f50a2001ad1cbccca96e693c4ab4-Paper-Datasets_and_Benchmarks.pdf) by Yuan et al.
+
 (ICLR 2023) [Diversify and Disambiguate: Out-of-Distribution Robustness via Disagreement](https://openreview.net/pdf?id=RVTOp3MwT3n) by Lee et al.
 
 (ICML 2023) [Learning Unforeseen Robustness from Out-of-distribution Data Using Equivariant Domain Translator](https://proceedings.mlr.press/v202/zhu23a/zhu23a.pdf) by Zhu et al.
@@ -354,6 +407,18 @@ Equipping a neural network with the ability to say 'no' when faced with unfamili
 (NeurIPS 2020) [Certifiably Adversarially Robust Detection of Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/file/b90c46963248e6d7aab1e0f429743ca0-Paper.pdf) [[Code]](https://github.com/j-cb/GOOD) by Bitterwolf et al.
 
 ## OOD Generalization
+
+(ICLR 2024) [HYPO: Hyperspherical Out-of-distribution Generalization](https://arxiv.org/pdf/2402.07785.pdf) Bai and Ming et al.
+
+(NeurIPS 2023) [On the Adversarial Robustness of Out-of-distribution Generalization Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/d9888cc7baa04c2e44e8115588133515-Paper-Conference.pdf) [[Code]](https://github.com/ZouXinn/OOD-Adv) by Zou and Liu
+
+(NeurIPS 2023) [Joint Learning of Label and Environment Causal Independence for Graph Out-of-distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2023/file/0c6c92a0c5237761168eafd4549f1584-Paper-Conference.pdf) [[Code]](https://github.com/divelab/LECI) by Gui et al.
+
+(NeurIPS 2023) [Environment-Aware Dynamic Graph Leaning for Out-of-distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2023/file/9bf12308ece130daa083fb21f7faf1b6-Paper-Conference.pdf) by Yuan et al.
+
+(NeurIPS 2023) [Secure Out-of-distribution Task Generalization with Energy-based Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/d39e3ae9a11b79691709a7a6e06a63d9-Paper-Conference.pdf) by Chen et al.
+
+(NeurIPS 2023) [Understanding and Improving Feature Learning for Out-of-distribution Generalization](https://proceedings.neurips.cc/paper_files/paper/2023/file/d73d5645ddbb9ada6c862116435574f6-Paper-Conference.pdf) [[Code]](https://github.com/LFhase/FeAT) by Chen, Huang, and Zhou et al.
 
 (ICLR 2023) [Improving Out-of-distribution Generalization with Indirection Representations](https://openreview.net/pdf?id=0f-0I6RFAch) by Pham et al.
 
@@ -430,6 +495,10 @@ Equipping a neural network with the ability to say 'no' when faced with unfamili
 (ICML 2021) [Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization](http://proceedings.mlr.press/v139/baranwal21a/baranwal21a.pdf) [[Code]](https://github.com/opallab/Graph-Convolution-for-Semi-Supervised-Classification-Improved-Linear-Separability-and-OoD-Gen.) by Baranwal et al.
 
 ## OOD Everything else
+
+(NeurIPS 2023) [Not All Out-of-distribution Data Are Harmful to Open-Set Active Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/2c8d9636f74d0207ff4f65956010f450-Paper-Conference.pdf) by Yang et al.
+
+(NeurIPS 2023) [AlberDICE: Addressing Out-of-distribution Joint Actions in Offline Multi-Agent RL via Alternating Stationary Distribution Correction Estimation](https://proceedings.neurips.cc/paper_files/paper/2023/file/e5b6eb1dbabff82838d5e99f62de37c8-Paper-Conference.pdf) by Matsunaga and Lee et al.
 
 (ICLR 2023) [Harnessing Out-Of-Distribution Examples via Augmenting Content and Style](https://openreview.net/pdf?id=boNyg20-JDm) by Huang et al.
 
