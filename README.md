@@ -1,18 +1,9 @@
 # OOD Detection, Robustness, and Generalization [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
 
 
-This repo aims to provide the most comprehensive, up-to-date, high-quality resource for **OOD detection, robustness, and generalization** in Deep Learning. Your one-stop shop for everything OOD is here. If you spot errors or omissions, please open an issue or contact me at continuousml@gmail.com.
+This repo aims to provide the most comprehensive, up-to-date, high-quality resource for **OOD detection, robustness, and generalization** in Deep Learning. Your one-stop shop for everything OOD is here.
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/gdap3n9jZ2)
-
----
-# Primer: Your Neural Network Doesn't Know What It Doesn't Know
-
-![gif](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection/assets/110962703/f462693a-851a-41d6-9301-eba19446fcdc)
-
-OOD Detection represents an emerging trend in deep learning research, focusing on a critical deficiency that often limits the deployment of neural networks in real-world scenarios. Despite the tremendous success, deep learning is usually founded on an important assumption: the data a model encounters during deployment must be 'similar' to what it was trained on, or in other words, in-distribution. Regrettably, our world is not static nor predictable, and neither is the data we feed into our models. A static model that is not adaptive nor robust to changes can quickly become outdated or unreliable.
-
-Equipping a neural network with the ability to say 'no' when faced with unfamiliar input is not merely a convenience; it's an urgent necessity, particularly in safety-critical applications. Understanding and implementing OOD Detection not only strengthens the integrity of a model but also provides a layer of security, ensuring that the vast and unpredictable landscape of real-world data does not become an Achilles' heel for otherwise powerful and sophisticated deep learning systems.
 
 ---
 
@@ -70,6 +61,8 @@ Equipping a neural network with the ability to say 'no' when faced with unfamili
 # Benchmarks, libraries, datasets, etc
 
 ## Benchmarks
+
+[2OOD: 2D Toy Datasets](https://github.com/continuousml/2ood)
 
 [OpenOOD v1.5: Benchmarking Generalized OOD Detection](https://github.com/Jingkang50/OpenOOD)
 
