@@ -99,6 +99,10 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 ## OOD Detection
 
+(UAI 2023)  [In- or Out-of-Distribution Detection via Dual Divergence Estimation](https://proceedings.mlr.press/v216/garg23b/garg23b.pdf) by Garg et al.
+
+(ICLR 2024 Reject) [Detecting Out-Of-Distribution Samples Via Conditional Distribution Entropy With Optimal Transport](https://openreview.net/pdf?id=YnaGcMJQ0M) by Feng et al.
+
 (ICLR 2024) [CONJNORM: Tractable Density Estimation for Out-of-distribution Detection](https://arxiv.org/pdf/2402.17888.pdf) by Peng and Luo et al.
 
 (ICLR 2024) [Learning With Mixture Of Prototypes For Out-Of-Distribution Detection](https://openreview.net/pdf?id=uNkKaD3MCs) by Lu et al.
@@ -424,6 +428,10 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 (NeurIPS 2020) [Certifiably Adversarially Robust Detection of Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/file/b90c46963248e6d7aab1e0f429743ca0-Paper.pdf) [[Code]](https://github.com/j-cb/GOOD) by Bitterwolf et al.
 
 ## OOD Generalization
+
+(ICLR 2024) [Unraveling The Key Components Of OOD Generalization Via Diversification](https://openreview.net/pdf?id=Lvf7GnaLru) by Benoit, Jiang, Atanov et al.
+
+(ICLR 2024) [Maxmimum Likelihood Estimation Is All You Need For Well-Specified Covariate Shift](https://openreview.net/pdf?id=eoTCKKOgIs) by Ge and Tang et al.
 
 (ICLR 2024) [Towards Robust Out-Of-Distribution Generalization Bounds via Sharpness](https://openreview.net/pdf?id=tPEwSYPtAC) by Zou et al.
 
