@@ -62,7 +62,7 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 ## Benchmarks
 
-[2OOD: 2D Toy Datasets](https://github.com/continuousml/2ood)
+[RoboDepth: Robust Out-Of-Distribution Depth Estimation under Corruptions](https://github.com/ldkong1205/RoboDepth)
 
 [OpenOOD v1.5: Benchmarking Generalized OOD Detection](https://github.com/Jingkang50/OpenOOD)
 
@@ -70,15 +70,14 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 [OOD NLP: Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations](https://github.com/lifan-yuan/OOD_NLP) by Yuan et al.
 
+[Photorealistic Unreal Graphics (PUG)](https://pug.metademolab.com/) by Meta AI
+
+> "Abstract: Synthetic image datasets offer unmatched advantages for designing and evaluating deep neural networks: they make it possible to (i) render as many data samples as needed, (ii) precisely control each scene and yield granular ground truth labels (and captions), (iii) precisely control distribution shifts between training and testing to isolate variables of interest for sound experimentation. Despite such promise, the use of synthetic image data is still limited -- and often played down -- mainly due to their lack of realism. Most works therefore rely on datasets of real images, which have often been scraped from public images on the internet, and may have issues with regards to privacy, bias, and copyright, while offering little control over how objects precisely appear. In this work, we present a path to democratize the use of photorealistic synthetic data: we develop a new generation of interactive environments for representation learning research, that offer both controllability and realism. We use the Unreal Engine, a powerful game engine well known in the entertainment industry, to produce PUG (Photorealistic Unreal Graphics) environments and datasets for representation learning. In this paper, we demonstrate the potential of PUG to enable more rigorous evaluations of vision models."
+
 ## Libraries
 
 [PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood)
 
-## Datasets
-
-[Photorealistic Unreal Graphics (PUG)](https://pug.metademolab.com/) by Meta AI
-
-> "Abstract: Synthetic image datasets offer unmatched advantages for designing and evaluating deep neural networks: they make it possible to (i) render as many data samples as needed, (ii) precisely control each scene and yield granular ground truth labels (and captions), (iii) precisely control distribution shifts between training and testing to isolate variables of interest for sound experimentation. Despite such promise, the use of synthetic image data is still limited -- and often played down -- mainly due to their lack of realism. Most works therefore rely on datasets of real images, which have often been scraped from public images on the internet, and may have issues with regards to privacy, bias, and copyright, while offering little control over how objects precisely appear. In this work, we present a path to democratize the use of photorealistic synthetic data: we develop a new generation of interactive environments for representation learning research, that offer both controllability and realism. We use the Unreal Engine, a powerful game engine well known in the entertainment industry, to produce PUG (Photorealistic Unreal Graphics) environments and datasets for representation learning. In this paper, we demonstrate the potential of PUG to enable more rigorous evaluations of vision models."
 
 # Surveys
 
@@ -102,10 +101,35 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 (ICLR 2024) [CONJNORM: Tractable Density Estimation for Out-of-distribution Detection](https://arxiv.org/pdf/2402.17888.pdf) by Peng and Luo et al.
 
-(EMNLP 2023) [CONJNORM: Tractable Density Estimation for Out-of-distribution Detection](https://arxiv.org/pdf/2402.17888.pdf) by Peng and Luo et al.
+(ICLR 2024) [Learning With Mixture Of Prototypes For Out-Of-Distribution Detection](https://openreview.net/pdf?id=uNkKaD3MCs) by Lu et al.
 
+(ICLR 2024) [How Does Unlabled Data Provably Help Out-Of-Distribution Detection?](https://openreview.net/pdf?id=jlEjB8MVGa) [[Code]](https://github.com/deeplearning-wisc/sal) by Du and Fang et al.
+
+(ICLR 2024) [HYPO: Hyperspherical Out-Of-Distribution Generalization](https://openreview.net/pdf?id=VXak3CZZGC) [[Code]](https://github.com/deeplearning-wisc/hypo) by Bai and Ming et al.
+
+(ICLR 2024) [ImageNet-OOD: Deciphering Modern Out-Of-Distribution Detection Algorithms](https://openreview.net/pdf?id=VTYg5ykEGS) by Yang and Zhang et al.
+
+(ICLR 2024) [Towards Optimal Feature-Shaping Methods For Out-Of-Distribution Detection](https://openreview.net/pdf?id=dm8e7gsH0d) by Zhao et al.
+
+(ICLR 2024) [Out-Of-Distribution Detection With Negative Prompts](https://openreview.net/pdf?id=nanyAujl6e) by Nie et al.
+
+(ICLR 2024) [DOS: Diverse Outlier Sampling For Out-Of-Distribution Detection](https://openreview.net/pdf?id=iriEqxFB4y) by Jiang et al.
+
+(ICLR 2024) [NECO: Neural Collapse Based Out-Of-Distribution Detection](https://openreview.net/pdf?id=9ROuKblmi7) [[Code]](https://gitlab.com/drti/neco) by Ammar et al.
+
+(ICLR 2024) [Plugin Estimators For Selective Classification With Out-Of-Distribution Detection](https://openreview.net/pdf?id=DASh78rJ7g) by Narasimhan et al.
+
+(ICLR 2024) [Image Background Servers As Good Proxy For Out-Of-Distribution Data](https://openreview.net/pdf?id=ym0ubZrsmm) by Sen Pei
+
+(ICLR 2024) [Out-Of-Distribution Detection By Leveraging Between-Layer Transformation Smoothness](https://openreview.net/pdf?id=AcRfzLS6se) by Jelenić et al.
+
+(ICLR 2024) [Scaling For Training-Time and Posthoc Out-Of-Distribution Detection Enhancement](https://openreview.net/pdf?id=RDSTjtnqCg) by Xu et al.
+
+(ICLR 2024) [Neuron Activation Coverage: Rethinking Out-Of-Distribution Detection and Generalization](https://openreview.net/pdf?id=SNGXbZtK6Q) by Liu et al.
 
 (AAAI 2024) [How To Overcome Curse-of-Dimensionality for Out-of-distribution Detection?](https://arxiv.org/pdf/2312.14452v1.pdf) by Ghosal and Sun et al.
+
+(NeurIPS 2023) [RoboDepth: Robust Out-Of-Distribution Depth Estimation under Corruptions](https://arxiv.org/pdf/2310.15171.pdf) by Kong et al.
 
 (NeurIPS 2023) [GradOrth: A Simple Yet Efficient Out-of-distribution Detection with Orthogonal Projection of Gradients](https://proceedings.neurips.cc/paper_files/paper/2023/file/77cf940349218069bbc230fc2c9c8a21-Paper-Conference.pdf) by Behypour et al.
 
@@ -400,6 +424,10 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 (NeurIPS 2020) [Certifiably Adversarially Robust Detection of Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/file/b90c46963248e6d7aab1e0f429743ca0-Paper.pdf) [[Code]](https://github.com/j-cb/GOOD) by Bitterwolf et al.
 
 ## OOD Generalization
+
+(ICLR 2024) [Towards Robust Out-Of-Distribution Generalization Bounds via Sharpness](https://openreview.net/pdf?id=tPEwSYPtAC) by Zou et al.
+
+(ICLR 2024) [Spurious Feature Diversification Improves Out-Of-Distribution Generalization](https://openreview.net/pdf?id=d6H4RBi7RH) by Yong and Tan et al.
 
 (ICLR 2024) [HYPO: Hyperspherical Out-of-distribution Generalization](https://arxiv.org/pdf/2402.07785.pdf) Bai and Ming et al.
 
