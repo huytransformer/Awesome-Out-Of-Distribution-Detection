@@ -8,9 +8,9 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 ---
 
 ## Table of Contents
-- [Researchers](#introduction)
-- [Articles](#installation)
-- [Talks](#usage)
+- [Researchers](#researchers)
+- [Articles](#articles)
+- [Talks](#talks)
 - [Benchmarks, libraries, datasets, etc](#benchmarks-libraries-datasets-etc)
 - [Surveys](#surveys)
 - [Theses](#theses)
@@ -203,6 +203,10 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 (ICLR 2023) [Out-of-distribution Detection with Implicit Outlier Transformation](https://arxiv.org/pdf/2303.05033.pdf) by Wang et al.
 
+(UAI 2023) [A Constrained Bayesian Approach to Out-of-Distribution Prediction](https://proceedings.mlr.press/v216/wang23f/wang23f.pdf) by Wang and Yuan et al.
+
+(UAI 2023) [Why Out-of-Distribution Detection Experiments Are Not Reliable - Subtle Experimental Details Muddle the OOD Detector Rankings](https://proceedings.mlr.press/v216/szyc23a/szyc23a.pdf) by Szyc et al.
+
 (ICML 2023) [Unsupervised Out-of-Distribution Detection with Diffusion Inpainting](https://openreview.net/pdf?id=HiX1ybkFMl) by Liu et al.
 
 (ICML 2023) [Generative Causal Representation Learning for Out-of-Distribution Motion Forecasting](https://openreview.net/pdf?id=Kw90j2pNSt) by Bagi et al.
@@ -305,6 +309,8 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 (ICLR 2022) [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/pdf/2202.01197.pdf) [[Code]](https://github.com/deeplearning-wisc/vos) by Du et al.
 
+(UAI 2022) [Variational- and Metric-based Deep Latent Space for Out-Of-Distribution Detection](https://openreview.net/pdf?id=ScLeuUUi9gq) [[Code]](https://github.com/BGU-CS-VIL/vmdls) by Dinari and Freifeld
+
 (AAAI 2022) [On the Impact of Spurious Correlation for Out-of-distribution Detection](https://arxiv.org/pdf/2109.05642.pdf) [[Code]](https://github.com/deeplearning-wisc/Spurious_OOD) by Ming et al.
 
 (AAAI 2022) [iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection](https://www.aaai.org/AAAI22Papers/AAAI-12912.KaurR.pdf) by Kaur et al.
@@ -346,6 +352,10 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 (ICLR 2021) [SSD: A Unified Framework for Self-Supervised Outlier Detection](https://arxiv.org/pdf/2103.12051.pdf) [[Code]](https://github.com/inspire-group/SSD) by Sehwag et al.
 
 (ICLR 2021) [Multiscale Score Matching for Out-of-Distribution Detection](https://openreview.net/pdf?id=xoHdgbQJohv) [[Code]](https://github.com/ahsanMah/msma) by Mahmood et al.
+
+(UAI 2021) [Sketching Curvature for Efficient Out-of-Distribution Detection for Deep Neural Networks](https://proceedings.mlr.press/v161/sharma21a/sharma21a.pdf) [[Code]](https://github.com/StanfordASL/SCOD) by Sharma et al.
+
+(UAI 2021) [Know Your Limits: Uncertainty Estimation with ReLU Classifiers Fails at Reliable OOD Detection](https://proceedings.mlr.press/v161/ulmer21a/ulmer21a.pdf) [[Code]](https://github.com/Kaleidophon/know-your-limits) by Ulmer and Cinà
 
 (ICML 2021) [Understanding Failures in Out-of-Distribution Detection with Deep Generative Models](http://proceedings.mlr.press/v139/zhang21g/zhang21g.pdf) by Zhang et al.
 
