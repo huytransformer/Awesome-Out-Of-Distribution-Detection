@@ -1,5 +1,7 @@
 # OOD Detection, Robustness, and Generalization [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
 
+![image](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection/assets/110962703/61e68bd3-5c8d-46d2-b9f2-07607b3e0ead)
+
 
 This repo aims to provide the most comprehensive, up-to-date, high-quality resource for **OOD detection, robustness, and generalization** in Deep Learning. Your one-stop shop for everything OOD is here.
 
@@ -68,7 +70,9 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 [RoboDepth: Robust Out-of-distribution Depth Estimation Under Corruptions](https://github.com/ldkong1205/RoboDepth)
 
-[OOD NLP: Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations](https://github.com/lifan-yuan/OOD_NLP) by Yuan et al.
+[OOD NLP: Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations](https://github.com/lifan-yuan/OOD_NLP) 
+
+[OOD-CV : A Benchmark for Robustness to Out-of-Distribution Shifts of Individual Nuisances in Natural Images](https://www.ood-cv.org/)
 
 [Photorealistic Unreal Graphics (PUG)](https://pug.metademolab.com/) by Meta AI
 
@@ -77,6 +81,8 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 ## Libraries
 
 [PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood)
+
+[FrOoDo: Framework for Out-of-Distribution Detection](https://github.com/MECLabTUDA/FrOoDo?tab=readme-ov-file)
 
 
 # Surveys
@@ -98,8 +104,6 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 > "Know thy literature"
 
 ## OOD Detection
-
-(UAI 2023)  [In- or Out-of-Distribution Detection via Dual Divergence Estimation](https://proceedings.mlr.press/v216/garg23b/garg23b.pdf) by Garg et al.
 
 (ICLR 2024 Reject) [Detecting Out-Of-Distribution Samples Via Conditional Distribution Entropy With Optimal Transport](https://openreview.net/pdf?id=YnaGcMJQ0M) by Feng et al.
 
@@ -167,7 +171,33 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 (NeurIPS 2023) [Learning To Augment Distributions For Out-of-distribution Detection](https://proceedings.neurips.cc/paper_files/paper/2023/file/e812af67a942c21dd0104bd929f99da1-Paper-Conference.pdf) [[Code]](https://github.com/tmlr-group/DAL) by Wang et al.
 
+(UAI 2023)  [In- or Out-of-Distribution Detection via Dual Divergence Estimation](https://proceedings.mlr.press/v216/garg23b/garg23b.pdf) by Garg et al.
+
 (ICCV 2023) [Nearest Neighbor Guidance for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_Nearest_Neighbor_Guidance_for_Out-of-Distribution_Detection_ICCV_2023_paper.pdf) [[Code]](https://github.com/roomo7time/nnguide) by Park et al.
+
+(ICCV 2023) [DIFFGUARD: Semantic Mismatch-Guided Out-of-Distribution Detection using Pre-trained Diffusion Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Gao_DIFFGUARD_Semantic_Mismatch-Guided_Out-of-Distribution_Detection_Using_Pre-Trained_Diffusion_Models_ICCV_2023_paper.pdf) [[Code]](https://github.com/cure-lab/DiffGuard) by Gao et al.
+
+(ICCV 2023) [Understanding the Feature Norm for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_Understanding_the_Feature_Norm_for_Out-of-Distribution_Detection_ICCV_2023_paper.pdf) by Park et al.
+
+(ICCV 2023) [SAFE: Sensitivity-Aware Features for Out-of-Distribution Object Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Wilson_SAFE_Sensitivity-Aware_Features_for_Out-of-Distribution_Object_Detection_ICCV_2023_paper.pdf) [[Code]](https://github.com/SamWilso/SAFE_Official) by Wilson et al.
+
+(ICCV 2023) [Residual Pattern Learning for Pixel-wise Out-of-Distribution Detection in Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Residual_Pattern_Learning_for_Pixel-Wise_Out-of-Distribution_Detection_in_Semantic_Segmentation_ICCV_2023_paper.pdf) [[Code]](https://github.com/yyliu01/RPL) by Liu et al.
+
+(ICCV 2023) [Simple and Effective Out-of-Distribution Detection via Cosine-based Softmax Loss](https://openaccess.thecvf.com/content/ICCV2023/papers/Noh_Simple_and_Effective_Out-of-Distribution_Detection_via_Cosine-based_Softmax_Loss_ICCV_2023_paper.pdf) by Noh et al.
+
+(ICCV 2023) [Deep Feature Deblurring Diffusion for Detecting Out-of-Distribution Objects](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Deep_Feature_Deblurring_Diffusion_for_Detecting_Out-of-Distribution_Objects_ICCV_2023_paper.pdf) [[Code]](https://github.com/AmingWu/DFDD-OOD) by Wu et al.
+
+(ICCV 2023) [Revisit PCA-based technique for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Guan_Revisit_PCA-based_Technique_for_Out-of-Distribution_Detection_ICCV_2023_paper.pdf) [[Code]](ttps://github.com/SYSUMIA-GROUP/pca-based-out-of-distribution-detection) by Guan and Liu et al.
+
+(ICCV 2023) [WDiscOOD: Out-of-Distribution Detection via Whitened Linear Discriminant Analysis](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_WDiscOOD_Out-of-Distribution_Detection_via_Whitened_Linear_Discriminant_Analysis_ICCV_2023_paper.pdf) [[Code]](https://github.com/ivalab/WDiscOOD) by Chen et al.
+
+(ICCV 2023) [Anomaly Detection under Distribution Shift](https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Anomaly_Detection_Under_Distribution_Shift_ICCV_2023_paper.pdf) [[Code]](https://github.com/mala-lab/ADShift) by Cao et al.
+
+(ICCV 2023) [Out-of-Distribution Detection for Monocular Depth Estimation](https://openaccess.thecvf.com/content/ICCV2023/papers/Hornauer_Out-of-Distribution_Detection_for_Monocular_Depth_Estimation_ICCV_2023_paper.pdf) [[Code]](https://github.com/jhornauer/mde_ood) by Hornauer et al.
+
+(ICCV 2023) [Unified Out-Of-Distribution Detection: A Model-Specific Perspective](https://openaccess.thecvf.com/content/ICCV2023/papers/Averly_Unified_Out-Of-Distribution_Detection_A_Model-Specific_Perspective_ICCV_2023_paper.pdf) by Averly et al.
+
+(ICCV 2023) [CLIPN for Zero-Shot OOD Detection: Teaching CLIP to Say No](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_CLIPN_for_Zero-Shot_OOD_Detection_Teaching_CLIP_to_Say_No_ICCV_2023_paper.pdf) [[Code]](https://github.com/xmed-lab/CLIPN) by Wang et al.
 
 (CVPR 2023) [Distribution Shift Inversion for Out-of-Distribution Prediction](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Distribution_Shift_Inversion_for_Out-of-Distribution_Prediction_CVPR_2023_paper.pdf) [[Code]](https://github.com/yu-rp/Distribution-Shift-Iverson) by Yu et al.
 
@@ -295,6 +325,8 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 (ICML 2022) [Training OOD Detectors in their Natural Habitats](https://proceedings.mlr.press/v162/katz-samuels22a/katz-samuels22a.pdf) by Katz-Samuels et al.
 
+(ICLR 2022) [A Statistical Framework For Efficient Out-of-distribution Detection in Deep Neural Networks](https://arxiv.org/pdf/2102.12967) by Haroush and Frostig et al.
+
 (ICLR 2022) [Extremely Simple Activation Shaping for Out-of-Distribution Detection](https://arxiv.org/pdf/2209.09858.pdf) [[Code]](https://github.com/andrijazz/ash) by Djurisic et al.
 
 (ICLR 2022) [Revisiting flow generative models for Out-of-distribution detection](https://openreview.net/pdf?id=6y2KBh-0Fd9) by Jiang et al.
@@ -310,6 +342,18 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 (ICLR 2022) [VOS: Learning What You Don't Know by Virtual Outlier Synthesis](https://arxiv.org/pdf/2202.01197.pdf) [[Code]](https://github.com/deeplearning-wisc/vos) by Du et al.
 
 (UAI 2022) [Variational- and Metric-based Deep Latent Space for Out-Of-Distribution Detection](https://openreview.net/pdf?id=ScLeuUUi9gq) [[Code]](https://github.com/BGU-CS-VIL/vmdls) by Dinari and Freifeld
+
+(ECCV 2022) [ Out-of-Distribution Identification: Let Detector Tell Which I Am Not Sure](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700631.pdf) by Li et al.
+
+(ECCV 2022) [Out-of-distribution Detection with Boundary Aware Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840232.pdf) [[Code]](https://github.com/ForeverPs/BAL) by Pei et al.
+
+(ECCV 2022) [ Out-of-Distribution Detection with Semantic Mismatch under Masking](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840369.pdf) [[Code]](https://github.com/cure-lab/MOODCat) by Yang et al.
+
+(ECCV 2022) [Data Invariants to Understand Unsupervised Out-of-Distribution Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910129.pdf) [[Code]](https://github.com/LarsDoorenbos/Data-invariants) by Doorenbos et al.
+
+(ECCV 2022) [Embedding contrastive unsupervised features to cluster in- and out-of-distribution noise in corrupted image datasets](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910389.pdf) [[Code]](github.com/PaulAlbert31/SNCF) by Albert et al.
+
+(ECCV 2022) [DICE: Leveraging Sparsification for Out-of-Distribution Detection](https://arxiv.org/pdf/2111.09805.pdf) [[Code]](https://github.com/deeplearning-wisc/dice) by Sun and Li
 
 (AAAI 2022) [On the Impact of Spurious Correlation for Out-of-distribution Detection](https://arxiv.org/pdf/2109.05642.pdf) [[Code]](https://github.com/deeplearning-wisc/Spurious_OOD) by Ming et al.
 
@@ -359,11 +403,11 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 (ICML 2021) [Understanding Failures in Out-of-Distribution Detection with Deep Generative Models](http://proceedings.mlr.press/v139/zhang21g/zhang21g.pdf) by Zhang et al.
 
+(AISTATS 2021) [Density of States Estimation for Out of Distribution Detection](https://proceedings.mlr.press/v130/morningstar21a/morningstar21a.pdf) by Morningstar et al.
+
 (ICCV 2021) [Semantically Coherent Out-of-Distribution Detection](https://arxiv.org/pdf/2108.11941.pdf) [[Project Page]](https://jingkang50.github.io/projects/scood) [[Code]](https://github.com/jingkang50/ICCV21_SCOOD) by Yang et al.
 
 (ICCV 2021) [CODEs: Chamfer Out-of-Distribution Examples against Overconfidence Issue](https://arxiv.org/pdf/2108.06024.pdf) by Tang et al.
-
-(ECCV 2021) [DICE: Leveraging Sparsification for Out-of-Distribution Detection](https://arxiv.org/pdf/2111.09805.pdf) [[Code]](https://github.com/deeplearning-wisc/dice) by Sun and Li
 
 (CVPR 2020) [Deep Residual Flow for Out of Distribution Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zisselman_Deep_Residual_Flow_for_Out_of_Distribution_Detection_CVPR_2020_paper.pdf) [[Code]](https://github.com/EvZissel/Residual-Flow) by Zisselman and Tamar
 
@@ -390,6 +434,8 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 (NeurIPS 2019) [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/pdf/1906.02845.pdf) [[Video]](https://www.youtube.com/watch?v=-FduW9ZWAR4) by Ren et al.
 
 (ICCV 2019) [Unsupervised Out-of-Distribution Detection by Maximum Classifier Discrepancy](https://arxiv.org/pdf/1908.04951.pdf) [[Code]](https://github.com/Mephisto405/Unsupervised-Out-of-Distribution-Detection-by-Maximum-Classifier-Discrepancy) by Yu and Aizawa
+
+(arXiv 2019) [WAIC, but Why? Generative Ensembles for Robust Anomaly Detection](https://arxiv.org/pdf/1810.01392) by Choi and Jang et al.
 
 (NeurIPS 2018) ⭐⭐⭐⭐⭐ [(Mahalanobis) A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://arxiv.org/pdf/1807.03888.pdf) [[Code]](https://github.com/pokaxpoka/deep_Mahalanobis_detector) by Lee et al.
 
@@ -465,6 +511,8 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 (ICLR 2023) ⭐⭐⭐⭐⭐[Modeling the Data-Generating Process is Necessary for Out-of-Distribution Generalization](https://openreview.net/pdf?id=uyqks-LILZX) by Kaur et al.
 
+(ICCV 2023) [Distilling Large Vision-Language Model with Out-of-Distribution Generalizability](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Distilling_Large_Vision-Language_Model_with_Out-of-Distribution_Generalizability_ICCV_2023_paper.pdf) [[Code]](https://github.com/xuanlinli17/large_vlm_distillation_ood) by Li and Fang et al.
+
 (ICML 2023) [Feed Two Birds with One Scone: Exploiting Wild Data for Both Out-of-Distribution Generalization and Detection](https://arxiv.org/pdf/2306.09158.pdf) [[Video]](https://www.youtube.com/watch?v=4qMY-pLe638) by Bai et al.
 
 (AAAI 2023) [On the Connection between Invariant Learning and Adversarial Training for Out-of-Distribution Generalization](https://ojs.aaai.org/index.php/AAAI/article/view/26250/26022) by Xin et al.
@@ -507,6 +555,10 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 (ICLR 2022) [Invariant Causal Representation Learning for Out-of-Distribution Generalization](https://openreview.net/pdf?id=-e4EXDWXnSn) by Lu et al.
 
+(ECCV 2022) [Out-of-Distribution Detection Using an Ensemble of Self Supervised Leave-out Classifiers](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850089.pdf) [[Code]](https://github.com/simpleshinobu/IRMCon) by Qi et al.
+
+(ECCV 2022) [Learning to Balance Specificity and Invariance for In and Out of Domain Generalization](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540290.pdf) [[Code]](https://github.com/prithv1/DMG) by Chattopadhyay et al.
+
 (AAAI 2022) [VITA: A Multi-Source Vicinal Transfer Augmentation Method for Out-of-Distribution Generalization](https://www.aaai.org/AAAI22Papers/AAAI-733.ChenM.pdf) by Chen et al.
 
 (CVPR 2021) [Deep Stable Learning for Out-of-Distribution Generalization](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Deep_Stable_Learning_for_Out-of-Distribution_Generalization_CVPR_2021_paper.pdf) by Zhang et al.
@@ -535,6 +587,8 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 ## OOD Everything else
 
+(ICCV 2023) [Adaptive Calibrator Ensemble: Navigating Test Set Difficulty in Out-of-Distribution Scenarios](https://openaccess.thecvf.com/content/ICCV2023/papers/Zou_Adaptive_Calibrator_Ensemble_Navigating_Test_Set_Difficulty_in_Out-of-Distribution_Scenarios_ICCV_2023_paper.pdf) [[Code]](https://github.com/insysgroup/Adaptive-Calibrator-Ensemble) by Zou and Deng et al.
+
 (NeurIPS 2023) [Not All Out-of-distribution Data Are Harmful to Open-Set Active Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/2c8d9636f74d0207ff4f65956010f450-Paper-Conference.pdf) by Yang et al.
 
 (NeurIPS 2023) [AlberDICE: Addressing Out-of-distribution Joint Actions in Offline Multi-Agent RL via Alternating Stationary Distribution Correction Estimation](https://proceedings.neurips.cc/paper_files/paper/2023/file/e5b6eb1dbabff82838d5e99f62de37c8-Paper-Conference.pdf) by Matsunaga and Lee et al.
@@ -555,8 +609,6 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 (ICRA 2023) [Unsupervised Road Anomaly Detection with Language Anchors](https://ieeexplore.ieee.org/document/10160470) by Tian et al.
 
-(ArXiv 2023) [Characterizing Out-of-Distribution Error via Optimal Transport](https://arxiv.org/pdf/2305.15640.pdf) by Lu et al.
-
 (NeurIPS 2022) [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](https://arxiv.org/pdf/2205.07211.pdf) [[Code]](https://github.com/Rongjiehuang/GenerSpeech) by Huang et al.
 
 (NeurIPS 2022) [Learning Substructure Invariance for Out-of-Distribution Molecular Representations](https://openreview.net/pdf?id=2nWUNTnFijm) [[Code]](https://github.com/yangnianzu0515/MoleOOD) by Yang et al.
@@ -576,3 +628,5 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 (NeurIPS 2021) [Task-Agnostic Undesirable Feature Deactivation Using Out-of-Distribution Data](https://proceedings.neurips.cc/paper_files/paper/2021/file/21186d7b1482412ab14f0332b8aee119-Paper.pdf) [[Code]](https://github.com/kaist-dmlab/TAUFE) by Park et al.
 
 (ICLR 2021) [Removing Undesirable Feature Contributions Using Out-of-Distribution Data](https://openreview.net/pdf?id=eIHYL6fpbkA) by Lee et al.
+
+(ECCV 2020) [A Boundary Based Out-of-Distribution Classifier for Generalized Zero-Shot Learning](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690562.pdf) [[Code]](https://github.com/Chenxingyu1990/A-Boundary-Based-Out-of-Distribution-Classifier-for-Generalized-Zero-Shot-Learning) by Chen et al.
