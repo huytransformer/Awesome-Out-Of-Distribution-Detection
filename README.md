@@ -78,6 +78,8 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 > "Abstract: Synthetic image datasets offer unmatched advantages for designing and evaluating deep neural networks: they make it possible to (i) render as many data samples as needed, (ii) precisely control each scene and yield granular ground truth labels (and captions), (iii) precisely control distribution shifts between training and testing to isolate variables of interest for sound experimentation. Despite such promise, the use of synthetic image data is still limited -- and often played down -- mainly due to their lack of realism. Most works therefore rely on datasets of real images, which have often been scraped from public images on the internet, and may have issues with regards to privacy, bias, and copyright, while offering little control over how objects precisely appear. In this work, we present a path to democratize the use of photorealistic synthetic data: we develop a new generation of interactive environments for representation learning research, that offer both controllability and realism. We use the Unreal Engine, a powerful game engine well known in the entertainment industry, to produce PUG (Photorealistic Unreal Graphics) environments and datasets for representation learning. In this paper, we demonstrate the potential of PUG to enable more rigorous evaluations of vision models."
 
+[OODRobustBench: a Benchmark and Large-Scale Analysis of Adversarial Robustness under Distribution Shift](https://arxiv.org/pdf/2310.12793)
+
 ## Libraries
 
 [PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood)
@@ -104,6 +106,52 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 > "Know thy literature"
 
 ## OOD Detection
+
+(AISTATS 2024) [Taming False Positives in Out-of-Distribution Detection with Human Feedback]()
+
+(ICML 2024) [OODRobustBench: a Benchmark and Large-Scale Analysis of Adversarial Robustness under Distribution Shift](https://arxiv.org/pdf/2310.12793)
+
+(ICML 2024) [A Geometric Explanation of the Likelihood OOD Detection Paradox]()
+
+(ICML 2024) [ODIM: Outlier Detection via Likelihood of Under-Fitted Generative Models]()
+
+(ICML 2024) [A Provable Decision Rule for Out-of-Distribution Detection]()
+
+(ICML 2024) [When and How Does In-Distribution Label Help Out-of-Distribution Detection?]()
+
+(ICML 2024) [Graph Out-of-Distribution Detection Goes Neighborhood Shaping]()
+
+(ICML 2024) [Out-of-Distribution Detection via Deep Multi-Comprehension Ensemble]()
+
+(ICML 2024) [Bounded and Uniform Energy-based Out-of-distribution Detection for Graphs]()
+
+(ICML 2024) [Fast Decision Boundary based Out-of-Distribution Detector]()
+
+(ICML 2024) [DeCoOp: Robust Prompt Tuning with Out-of-Distribution Detection]()
+
+(ICML 2024) [Envisioning Outlier Exposure by Large Language Models for Out-of-Distribution Detection]()
+
+(ICML 2024) [Prometheus: Out-of-distribution Fluid Dynamics Modeling with Disentangled Graph ODE]()
+
+(ICML 2024) [Optimal Ridge Regularization for Out-of-Distribution Prediction]()
+
+(CVPR 2024) [Long-Tailed Anomaly Detection with Learnable Class Names]()
+
+(CVPR 2024) [Enhancing the Power of OOD Detection via Sample-Aware Model Selection]()
+
+(CVPR 2024) [Test-Time Linear Out-of-Distribution Detection]()
+
+(CVPR 2024) [ID-like Prompt Learning for Few-Shot Out-of-Distribution Detection]()
+
+(CVPR 2024) [YolOOD: Utilizing Object Detection Concepts for Multi-Label Out-of-Distribution Detection]()
+
+(CVPR 2024) [Learning Transferable Negative Prompts for Out-of-Distribution Detection]()
+
+(CVPR 2024) [A Noisy Elephant in the Room: Is Your Out-of-Distribution Detector Robust to Label Noise?]()
+
+(CVPR 2024) [Discriminability-Driven Channel Selection for Out-of-Distribution Detection]()
+
+(CVPR 2024) [CORES: Convolutional Response-based Score for Out-of-distribution Detection]()
 
 (ICLR 2024 Reject) [Detecting Out-Of-Distribution Samples Via Conditional Distribution Entropy With Optimal Transport](https://openreview.net/pdf?id=YnaGcMJQ0M) by Feng et al.
 
@@ -459,6 +507,8 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 ## OOD Robustness
 
+(CVPR 2024) [A Bayesian Approach to OOD Robustness in Image Classification]()
+
 (NeurIPS 2023) [Distilling Out-of-distribution Robustness from Vision-Language Foundation Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/67f30132d98e758f7b4e28c36091d86e-Paper-Conference.pdf) by Zhou et al.
 
 (NeurIPS 2023) [Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations](https://proceedings.neurips.cc/paper_files/paper/2023/file/b6b5f50a2001ad1cbccca96e693c4ab4-Paper-Datasets_and_Benchmarks.pdf) by Yuan et al.
@@ -484,6 +534,12 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 (NeurIPS 2020) [Certifiably Adversarially Robust Detection of Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/file/b90c46963248e6d7aab1e0f429743ca0-Paper.pdf) [[Code]](https://github.com/j-cb/GOOD) by Bitterwolf et al.
 
 ## OOD Generalization
+
+(ICML 2024) [CRoFT: Robust Fine-Tuning with Concurrent Optimization for OOD Generalization and Open-Set OOD Detection]()
+
+(ICML 2024) [Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning]()
+
+(CVPR 2024) [Improving Out-of-Distribution Generalization in Graphs via Hierarchical Semantic Environments]()
 
 (ICLR 2024) [Unraveling The Key Components Of OOD Generalization Via Diversification](https://openreview.net/pdf?id=Lvf7GnaLru) by Benoit, Jiang, Atanov et al.
 
@@ -586,6 +642,20 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 (ICML 2021) [Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization](http://proceedings.mlr.press/v139/baranwal21a/baranwal21a.pdf) [[Code]](https://github.com/opallab/Graph-Convolution-for-Semi-Supervised-Classification-Improved-Linear-Separability-and-OoD-Gen.) by Baranwal et al.
 
 ## OOD Everything else
+
+(ICML 2024) [Split-Ensemble: Efficient OOD-aware Ensemble via Task and Model Splitting]()
+
+(ICML 2024) [Domain-Aware Guidance for Out-of-Distribution Molecular Design]()
+
+(ICML 2024) [A Generative Approach for Treatment Effect Estimation under Collider Bias: From an Out-of-Distribution Perspective]()
+
+(CVPR 2024) [Unexplored Faces of Robustness and Out-of-Distribution: Covariate Shifts in Environment and Sensor Domains]()
+
+(CVPR 2024) [Label-Efficient Group Robustness via Out-of-Distribution Concept Curation]()
+
+(CVPR 2024) [Descriptor and Word Soups: Overcoming the Parameter Efficiency Accuracy Tradeoff for Out-of-Distribution Few-shot Learning]()
+
+(CVPR 2024) [Segment Every Out-of-Distribution Object]()
 
 (ICCV 2023) [Adaptive Calibrator Ensemble: Navigating Test Set Difficulty in Out-of-Distribution Scenarios](https://openaccess.thecvf.com/content/ICCV2023/papers/Zou_Adaptive_Calibrator_Ensemble_Navigating_Test_Set_Difficulty_in_Out-of-Distribution_Scenarios_ICCV_2023_paper.pdf) [[Code]](https://github.com/insysgroup/Adaptive-Calibrator-Ensemble) by Zou and Deng et al.
 
