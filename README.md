@@ -64,8 +64,6 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 ## Benchmarks
 
-[RoboDepth: Robust Out-Of-Distribution Depth Estimation under Corruptions](https://github.com/ldkong1205/RoboDepth)
-
 [OpenOOD v1.5: Benchmarking Generalized OOD Detection](https://github.com/Jingkang50/OpenOOD)
 
 [RoboDepth: Robust Out-of-distribution Depth Estimation Under Corruptions](https://github.com/ldkong1205/RoboDepth)
@@ -184,8 +182,6 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 (ICLR 2024) [Neuron Activation Coverage: Rethinking Out-Of-Distribution Detection and Generalization](https://openreview.net/pdf?id=SNGXbZtK6Q) by Liu et al.
 
 (AAAI 2024) [How To Overcome Curse-of-Dimensionality for Out-of-distribution Detection?](https://arxiv.org/pdf/2312.14452v1.pdf) by Ghosal and Sun et al.
-
-(NeurIPS 2023) [RoboDepth: Robust Out-Of-Distribution Depth Estimation under Corruptions](https://arxiv.org/pdf/2310.15171.pdf) by Kong et al.
 
 (NeurIPS 2023) [GradOrth: A Simple Yet Efficient Out-of-distribution Detection with Orthogonal Projection of Gradients](https://proceedings.neurips.cc/paper_files/paper/2023/file/77cf940349218069bbc230fc2c9c8a21-Paper-Conference.pdf) by Behypour et al.
 
