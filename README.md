@@ -89,6 +89,8 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 # Surveys
 
+[Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey](https://arxiv.org/pdf/2407.21794) by Miyai et al.
+
 [Generalized Out-of-Distribution Detection: A Survey](https://arxiv.org/pdf/2110.11334.pdf) by Yang et al
 
 [A Unified Survey on Anomaly, Novelty, Open-Set, and Out of-Distribution Detection: Solutions and Future Challenges](https://arxiv.org/pdf/2110.14051.pdf) by Salehi et al.
