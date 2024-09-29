@@ -109,6 +109,8 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 ## OOD Detection
 
+(NeurIPS 2024) [MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities](https://arxiv.org/pdf/2405.17419) [Code](https://github.com/donghao51/MultiOOD) by Dong et al.
+
 (ECCV 2024) [Gradient-Regularized Out-of-Distribution Detection](https://arxiv.org/pdf/2404.12368) by Sharifi, Entesari, and Safaei et al.
 
 (AISTATS 2024) [Taming False Positives in Out-of-Distribution Detection with Human Feedback](https://arxiv.org/pdf/2404.16954) [[Code]](https://github.com/2454511550Lin/TameFalsePositives-OOD) by Vishwakarma et al.
