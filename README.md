@@ -1,10 +1,18 @@
-# OOD Detection, Robustness, and Generalization [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
+# OOD Machine Learning: Detection, Robustness, and Generalization
 
 <img width="1665" alt="image" src="https://github.com/user-attachments/assets/ebb0d89c-e929-4c7f-af5e-d7e39547c487">
 
-This repo aims to provide the most comprehensive, up-to-date, high-quality resource for **OOD detection, robustness, and generalization** in Deep Learning. Your one-stop shop for everything OOD is here.
+<p align="center">
+    <a href="https://discord.gg/gdap3n9jZ2">
+        <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord">
+    </a>
+    <a href="https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection">
+        <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge" alt="Maintenance">
+    </a>
+</p>
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/gdap3n9jZ2)
+This repo aims to provide the most comprehensive, up-to-date, high-quality resource for **OOD detection, robustness, and generalization** in Machine Learning/Deep Learning. Your one-stop shop for everything OOD is here.
+
 
 ---
 
@@ -25,16 +33,7 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 # Researchers
 
-- Dan Hendrycks [[Twitter]](https://twitter.com/DanHendrycks) [[Scholar]](https://scholar.google.com/citations?user=czyretsAAAAJ&hl=en)
-
-- Mathias Hein [[Scholar]](https://scholar.google.de/citations?user=0ZAb3tsAAAAJ&hl=en)
-
-- Sharon Y. Li [[Twitter]](https://twitter.com/SharonYixuanLi) [[Scholar]](https://scholar.google.com/citations?user=QSTd1oUAAAAJ)
-
-- Bo Han [[Scholar]](https://scholar.google.com/citations?hl=en&user=nTNjqHwAAAAJ&view_op=list_works&sortby=pubdate)
-
-- Yiyou Sun [[Twitter]](https://twitter.com/YiyouSun) [[Scholar]](https://scholar.google.com/citations?user=IKqlQo4AAAAJ)
-  
+TODO: Update list of researcher
 
 # Articles
 
@@ -582,6 +581,7 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 ## OOD Generalization
 
+
 (NeurIPS 2024) [Bridging Multicalibration and Out-of-distribution Generalization Beyond Covariate Shift]() by Wu et al.
 
 (NeurIPS 2024) [Human-Assisted Out-of-Distribution Generalization and Detection]() by Bai et al.
@@ -599,6 +599,8 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 (NeurIPS 2024) [Benchmarking Out-of-Distribution Generalization and Adaptation for Electromyography]() by Yang et al.
 
 (NeurIPS 2024) [WikiDO: Evaluating Out-of-Distribution Generalization of Vision-Language Models in Cross-Modal Retrieval]() by Tankala et al.
+
+(Nature) [Out-of-distribution generalization for learning quantum dynamics](https://www.nature.com/articles/s41467-023-39381-w) by Caro et al.
 
 (ICML 2024) [CRoFT: Robust Fine-Tuning with Concurrent Optimization for OOD Generalization and Open-Set OOD Detection](https://openreview.net/pdf?id=xFDJBzPhci) [[Code]](https://github.com/LinLLLL/CRoFT) by Zhu et al.
 
