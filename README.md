@@ -1,7 +1,6 @@
 # OOD Detection, Robustness, and Generalization [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
 
-![image](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection/assets/110962703/61e68bd3-5c8d-46d2-b9f2-07607b3e0ead)
-
+<img width="1665" alt="image" src="https://github.com/user-attachments/assets/ebb0d89c-e929-4c7f-af5e-d7e39547c487">
 
 This repo aims to provide the most comprehensive, up-to-date, high-quality resource for **OOD detection, robustness, and generalization** in Deep Learning. Your one-stop shop for everything OOD is here.
 
@@ -80,6 +79,12 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 [A Noisy Elephant in the Room: Is Your Out-of-Distribution Detector Robust to Label Noise?](https://github.com/glhr/ood-labelnoise)
 
+[Benchmarking Out-of-Distribution Generalization and Adaptation for Electromyography]()
+
+[Benchmarking Out-of-Distribution Generalization Capabilities of DNN-based Encoding Models for the Ventral Visual Cortex]()
+
+[Vision Transformer Neural Architecture Search for Out-of-Distribution Generalization: Benchmark and Insights]()
+
 ## Libraries
 
 [PyTorch Out-of-Distribution Detection](https://github.com/kkirchheim/pytorch-ood)
@@ -108,6 +113,42 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 > "Know thy literature"
 
 ## OOD Detection
+
+(NeurIPS 2024) [Revisiting Score Propagation in Graph Out-of-Distribution Detection]() by Ma et al.
+
+(NeurIPS 2024) [Human-Assisted Out-of-Distribution Generalization and Detection]() by Bai et al.
+
+(NeurIPS 2024) [Long-Tailed Out-of-Distribution Detection via Normalized Outlier Distribution Adaptation]() by Miao et al.
+
+(NeurIPS 2024) [Trajectory Volatility for Out-of-Distribution Detection in Mathematical Reasoning]() by Wang et al.
+
+(NeurIPS 2024) [Rethinking Out-of-Distribution Detection on Imbalanced Data Distribution]() by Liu et al.
+
+(NeurIPS 2024) [Learning to Shape In-distribution Feature Space for Out-of-distribution Detection]() by Zhang et al.
+
+(NeurIPS 2024) [Self-Calibrated Tuning of Vision-Language Models for Out-of-Distribution Detection]() by Yu et al.
+
+(NeurIPS 2024) [FOOGD: Federated Collaboration for Both Out-of-distribution Generalization and Detection]() by Liao et al.
+
+(NeurIPS 2024) [Diffusion-based Layer-wise Semantic Reconstruction for Unsupervised Out-of-Distribution Detection]() by Yang et al.
+
+(NeurIPS 2024) [Out-of-Distribution Detection with a Single Unconditional Diffusion Model]() by Heng et al.
+
+(NeurIPS 2024) [Expecting The Unexpected: Towards Broad Out-Of-Distribution Detection]() by Guille-Escuret et al.
+
+(NeurIPS 2024) [Kernel PCA for Out-of-Distribution Detection]() by Fang et al.
+
+(NeurIPS 2024) [SeTAR: Out-of-Distribution Detection with Selective Low-Rank Approximation]() by Li et al.
+
+(NeurIPS 2024) [Rethinking the Evaluation of Out-of-Distribution Detection: A Sorites Paradox]() by Long et al.
+
+(NeurIPS 2024) [Energy-based Hopfield Boosting for Out-of-Distribution Detection]() by Hofmann et al.
+
+(NeurIPS 2024) [The Best of Both Worlds: On the Dilemma of Out-of-distribution Detection]() by Zhang et al.
+
+(NeurIPS 2024) [Out-Of-Distribution Detection with Diversification (Provably)]() by Yao et al.
+
+(NeurIPS 2024) [Hyper-opinion Evidential Deep Learning for Out-of-Distribution Detection]() by Qu et al.
 
 (NeurIPS 2024) [MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities](https://arxiv.org/pdf/2405.17419) [Code](https://github.com/donghao51/MultiOOD) by Dong et al.
 
@@ -511,6 +552,8 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 ## OOD Robustness
 
+(NeurIPS 2024) [Reconstruct and Match: Out-of-Distribution Robustness via Topological Homogeneity]() by Chen et al.
+
 (CVPR 2024) [A Bayesian Approach to OOD Robustness in Image Classification](https://openaccess.thecvf.com/content/CVPR2024/papers/Kaushik_A_Bayesian_Approach_to_OOD_Robustness_in_Image_Classification_CVPR_2024_paper.pdf) by Kaushik et al.
 
 (NeurIPS 2023) [Distilling Out-of-distribution Robustness from Vision-Language Foundation Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/67f30132d98e758f7b4e28c36091d86e-Paper-Conference.pdf) by Zhou et al.
@@ -538,6 +581,24 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 (NeurIPS 2020) [Certifiably Adversarially Robust Detection of Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/file/b90c46963248e6d7aab1e0f429743ca0-Paper.pdf) [[Code]](https://github.com/j-cb/GOOD) by Bitterwolf et al.
 
 ## OOD Generalization
+
+(NeurIPS 2024) [Bridging Multicalibration and Out-of-distribution Generalization Beyond Covariate Shift]() by Wu et al.
+
+(NeurIPS 2024) [Human-Assisted Out-of-Distribution Generalization and Detection]() by Bai et al.
+
+(NeurIPS 2024) [Vision Transformer Neural Architecture Search for Out-of-Distribution Generalization: Benchmark and Insights]() by Ho et al.
+
+(NeurIPS 2024) [What Variables Affect Out-Of-Distribution Generalization in Pretrained Models?]() by Harun et al.
+
+(NeurIPS 2024) [FOOGD: Federated Collaboration for Both Out-of-distribution Generalization and Detection]() by Liao et al.
+
+(NeurIPS 2024) [Benchmarking Out-of-Distribution Generalization Capabilities of DNN-based Encoding Models for the Ventral Visual Cortex]() by Madan et al.
+
+(NeurIPS 2024) [Neural Collapse Inspired Feature Alignment for Out-of-Distribution Generalization]() by Chen et al.
+
+(NeurIPS 2024) [Benchmarking Out-of-Distribution Generalization and Adaptation for Electromyography]() by Yang et al.
+
+(NeurIPS 2024) [WikiDO: Evaluating Out-of-Distribution Generalization of Vision-Language Models in Cross-Modal Retrieval]() by Tankala et al.
 
 (ICML 2024) [CRoFT: Robust Fine-Tuning with Concurrent Optimization for OOD Generalization and Open-Set OOD Detection](https://openreview.net/pdf?id=xFDJBzPhci) [[Code]](https://github.com/LinLLLL/CRoFT) by Zhu et al.
 
@@ -646,6 +707,14 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 (ICML 2021) [Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization](http://proceedings.mlr.press/v139/baranwal21a/baranwal21a.pdf) [[Code]](https://github.com/opallab/Graph-Convolution-for-Semi-Supervised-Classification-Improved-Linear-Separability-and-OoD-Gen.) by Baranwal et al.
 
 ## OOD Everything else
+
+(NeurIPS 2024) [Adaptive Labeling for Efficient Out-of-distribution Model Evaluation]() by Mittal et al.
+
+(NeurIPS 2024) [TAIA: Large Language Models are Out-of-Distribution Data Learners]() by Jiang et al.
+
+(NeurIPS 2024) [PURE: Prompt Evolution with Graph ODE for Out-of-distribution Fluid Dynamics Modeling]() by Wu et al.
+
+(NeurIPS 2024) [Scanning Trojaned Models Using Out-of-Distribution Samples]() by Mirzaei et al.
 
 (ICML 2024 Reject) [Split-Ensemble: Efficient OOD-aware Ensemble via Task and Model Splitting](https://openreview.net/pdf?id=SLA7VOqwwT) by Chen et al.
 
