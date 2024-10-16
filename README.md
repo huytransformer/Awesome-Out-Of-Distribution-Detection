@@ -11,8 +11,19 @@
     </a>
 </p>
 
-This repo aims to provide the most comprehensive, up-to-date, high-quality resource for **OOD detection, robustness, and generalization** in Machine Learning/Deep Learning. Your one-stop shop for everything OOD is here.
+This repository aims to provide the most comprehensive, up-to-date, high-quality resource for **OOD detection, robustness, and generalization** in Machine Learning/Deep Learning. Your one-stop shop for everything OOD is here.
 
+---
+
+# Primer🌟
+
+Out-of-distribution (OOD) problems present critical challenges in modern machine learning systems. 🤖 As AI models are increasingly deployed in real-world applications, they often encounter data that differs significantly from what they were trained on. This can lead to unexpected and potentially dangerous failures ⚠️. The field of OOD research encompasses several key areas:
+
+- 🔍 ***OOD detection*** aims to identify when a model is presented with inputs that deviate from its training distribution. This allows systems to flag unusual cases for human review or fallback strategies.
+- 💪 ***OOD robustness*** focuses on maintaining reliable performance even when test data differs from training data in important ways.
+- 🌐 ***OOD generalization*** seeks to develop models and techniques that can successfully extrapolate to novel domains and tasks without requiring retraining.
+
+Together, these interconnected areas of research are crucial for building AI systems that are safe, reliable, and adaptable in open-world environments. 🌍 Recent work has made significant progress, but major challenges remain in areas such as handling complex input spaces, scaling to large models, and providing theoretical guarantees, among others. Advancing the state-of-the-art in OOD machine learning is essential as AI becomes more pervasive in high-stakes domains like healthcare 🏥, autonomous vehicles 🚗, and critical infrastructure 🏙️.
 
 ---
 
@@ -33,7 +44,7 @@ This repo aims to provide the most comprehensive, up-to-date, high-quality resou
 
 # Researchers
 
-TODO: Update list of researcher
+TODO: Update list of researchers
 
 # Articles
 
