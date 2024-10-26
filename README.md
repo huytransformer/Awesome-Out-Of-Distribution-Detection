@@ -89,6 +89,8 @@ TODO: Update list of researchers
 
 [A Noisy Elephant in the Room: Is Your Out-of-Distribution Detector Robust to Label Noise?](https://github.com/glhr/ood-labelnoise)
 
+[On the Need for a Language Describing Distribution Shifts: Illustrations on Tabular Datasets](https://github.com/namkoong-lab/whyshift?tab=readme-ov-file)
+
 [Benchmarking Out-of-Distribution Generalization and Adaptation for Electromyography]()
 
 [Benchmarking Out-of-Distribution Generalization Capabilities of DNN-based Encoding Models for the Ventral Visual Cortex]()
