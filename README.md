@@ -25,6 +25,11 @@ Out-of-distribution (OOD) problems present critical challenges in modern machine
 
 Together, these interconnected areas of research are crucial for building AI systems that are safe, reliable, and adaptable in open-world environments. 🌍 Recent work has made significant progress, but major challenges remain in areas such as handling complex input spaces, scaling to large models, and providing theoretical guarantees, among others. Advancing the state-of-the-art in OOD machine learning is essential as AI becomes more pervasive in high-stakes domains like healthcare 🏥, autonomous vehicles 🚗, and critical infrastructure 🏙️.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3797dd2e-2587-4898-b2da-3fa8208a4d6c" alt="image" width="400px">
+</p>
+
+
 ---
 
 ## Table of Contents
@@ -163,6 +168,8 @@ TODO: Update list of researchers
 (NeurIPS 2024) [Hyper-opinion Evidential Deep Learning for Out-of-Distribution Detection]() by Qu et al.
 
 (NeurIPS 2024) [MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities](https://arxiv.org/pdf/2405.17419) [Code](https://github.com/donghao51/MultiOOD) by Dong et al.
+
+(ECCV 2024) [GalLoP: Learning Global and Local Prompts for Vision-Language Models](https://arxiv.org/pdf/2407.01400) by Lafon et al.
 
 (ECCV 2024) [Gradient-Regularized Out-of-Distribution Detection](https://arxiv.org/pdf/2404.12368) by Sharifi, Entesari, and Safaei et al.
 
