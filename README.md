@@ -131,6 +131,9 @@ TODO: Update list of researchers
 
 ## OOD Detection
 
+
+(NeurIPS 2024) [AdaNeg: Adaptive Negative Proxy Guided OOD Detection with Vision-Language Models](https://openreview.net/pdf?id=vS5NC7jtCI) by Zhang et al.
+
 (NeurIPS 2024) [Revisiting Score Propagation in Graph Out-of-Distribution Detection]() by Ma et al.
 
 (NeurIPS 2024) [Human-Assisted Out-of-Distribution Generalization and Detection]() by Bai et al.
