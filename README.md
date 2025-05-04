@@ -131,6 +131,8 @@ TODO: Update list of researchers
 
 ## OOD Detection
 
+(NeurIPS 2024) [Learning Structured Representations with Hyperbolic Embeddings](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a5d2da376bab7624b3caeb9f78fcaa2f-Abstract-Conference.html) [[Code]](https://github.com/uiuctml/HypStructure) by Sinha et al.
+
 (NeurIPS 2024) [What If the Input is Expanded in OOD Detection?](https://proceedings.neurips.cc/paper_files/paper/2024/file/25cc3adf8c85f7c70989cb8a97a691a7-Paper-Conference.pdf) [[Code]](https://github.com/tmlr-group/CoVer) by Zhang et al.
 
 (NeurIPS 2024) [AdaNeg: Adaptive Negative Proxy Guided OOD Detection with Vision-Language Models](https://openreview.net/pdf?id=vS5NC7jtCI) by Zhang et al.
