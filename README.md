@@ -108,6 +108,8 @@ TODO: Update list of researchers
 
 [FrOoDo: Framework for Out-of-Distribution Detection](https://github.com/MECLabTUDA/FrOoDo?tab=readme-ov-file)
 
+[**`scio`**: Confidence scores for Neural Networks, made easy!](https://github.com/ThalesGroup/scio#readme)
+
 
 # Surveys
 
