@@ -9,9 +9,29 @@
     <a href="https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection">
         <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge" alt="Maintenance">
     </a>
+    <a href="https://doi.org/10.5281/zenodo.17527926">
+        <img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17527926-blue.svg?style=for-the-badge" alt="DOI">
+    </a>
 </p>
 
 This repository aims to provide the most comprehensive, up-to-date, high-quality resource for **OOD detection, robustness, and generalization** in Machine Learning/Deep Learning. Your one-stop shop for everything OOD is here.
+
+---
+
+# Citation
+
+If you use this repository, please consider citing:
+
+```bibtex
+@software{tran2023ood,
+  author       = {Huy Tran},
+  title        = {OOD Machine Learning: Detection, Robustness, and Generalization},
+  year         = {2023},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17527926},
+  url          = {https://github.com/huytransformer/Awesome-Out-Of-Distribution-Detection}
+}
+```
 
 ---
 
@@ -28,7 +48,6 @@ Together, these interconnected areas of research are crucial for building AI sys
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3797dd2e-2587-4898-b2da-3fa8208a4d6c" alt="image" width="400px">
 </p>
-
 
 ---
 
