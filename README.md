@@ -221,6 +221,20 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (TMLR 2026) [A Bayesian Nonparametric Perspective on Mahalanobis Distance for Out of Distribution Detection](https://openreview.net/forum?id=w3bMXPMDW1) [[Code]](https://github.com/rwl93/bnp4ood) by Linderman et al.
 
+(ICCV 2025) [A Unified Interpretation of Training-Time Out-of-Distribution Detection](https://openaccess.thecvf.com/content/ICCV2025/html/Cheng_A_Unified_Interpretation_of_Training-Time_Out-of-Distribution_Detection_ICCV_2025_paper.html) by Cheng et al.
+
+(TMLR 2025) [LEGO-Learn: Label-Efficient Graph Open-Set Learning](https://openreview.net/forum?id=J6oxTJPOyN) by Xu et al.
+
+
+(AISTATS 2025) [Your Finetuned Large Language Model is Already a Powerful Out-of-distribution Detector](https://proceedings.mlr.press/v258/zhang25h.html) by Zhang et al.
+
+(AAAI 2025) [HYBOOD: a hybrid generative model for out-of-distribution detection with corruption estimation](https://aaai.org/wp-content/uploads/2025/02/AAAI-25-Main-Track-Poster-Schedule.pdf) by Lee et al.
+
+(AAAI 2025) [Diffusion-Based Semantic Outlier Generation via Nuisance Awareness for Out-of-Distribution Detection](https://aaai.org/wp-content/uploads/2025/01/AAAI-25-Poster-Schedule.pdf) by Yoon et al.
+
+(AAAI 2025) [Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection](https://aaai.org/wp-content/uploads/2025/02/AAAI-25-Main-Track-Poster-Schedule.pdf) by Chen et al.
+
+
 (NeurIPS 2025) [ΔEnergy: Optimizing Energy Change During Vision-Language Alignment Improves both OOD Detection and OOD Generalization](https://neurips.cc/virtual/2025/poster/116579) [[Code]](https://github.com/LinLLLL/DeltaEnergy) by Zhu et al.
 
 (NeurIPS 2025) [An Information-theoretical Framework for Understanding Out-of-distribution Detection with Pretrained Vision-Language Models](https://neurips.cc/virtual/2025/poster/116939) by Peng et al.
@@ -302,6 +316,60 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 (TMLR 2025) [GROOD: GRadient-Aware Out-of-Distribution Detection](https://openreview.net/forum?id=2V7itvvMVJ) [[Code]](https://github.com/mostafaelaraby/Gradient-Aware-OOD-Detection) by ElAraby et al.
 
 (JMLR 2025) [Deep Out-of-Distribution Uncertainty Quantification via Weight Entropy Maximization](https://jmlr.org/papers/v26/23-1359.html) by de Mathelin et al.
+
+(NeurIPS 2025) [Mysteries of the Deep: Role of Intermediate Representations in Out of Distribution Detection](https://neurips.cc/virtual/2025/poster/118891) by Meza de la Jara et al.
+
+(NeurIPS 2025) [Extremely Simple Multimodal Outlier Synthesis for Out-of-Distribution Detection and Segmentation](https://neurips.cc/virtual/2025/poster/116022) by Liu et al.
+
+(CVPR 2025) [Beyond Clean Training Data: A Versatile and Model-Agnostic Framework for Out-of-Distribution Detection with Contaminated Training Data](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Beyond_Clean_Training_Data_A_Versatile_and_Model-Agnostic_Framework_for_CVPR_2025_paper.html) by Li et al.
+
+(CVPR 2025) [H2ST: Hierarchical Two-Sample Tests for Continual Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_H2ST_Hierarchical_Two-Sample_Tests_for_Continual_Out-of-Distribution_Detection_CVPR_2025_paper.html) by Liu et al.
+
+(CVPR 2025) [Enhanced OoD Detection through Cross-Modal Alignment of Multi-Modal Representations](https://openaccess.thecvf.com/content/CVPR2025/html/Kim_Enhanced_OoD_Detection_through_Cross-Modal_Alignment_of_Multi-Modal_Representations_CVPR_2025_paper.html) by Kim et al.
+
+(CVPR 2025) [Overcoming Shortcut Problem in VLM for Robust Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Overcoming_Shortcut_Problem_in_VLM_for_Robust_Out-of-Distribution_Detection_CVPR_2025_paper.html) by Xu et al.
+
+(CVPR 2025) [OODD: Test-time Out-of-Distribution Detection with Dynamic Dictionary](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_OODD_Test-time_Out-of-Distribution_Detection_with_Dynamic_Dictionary_CVPR_2025_paper.html) by Yang et al.
+
+(CVPR 2025) [Simplification Is All You Need against Out-of-Distribution Overconfidence](https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Simplification_Is_All_You_Need_against_Out-of-Distribution_Overconfidence_CVPR_2025_paper.html) by Tang et al.
+
+(ICML 2025) [A Closer Look at Generalized BH Algorithm for Out-of-Distribution Detection](https://proceedings.mlr.press/v267/ma25t.html) by Ma et al.
+
+(ICML 2025) [Mahalanobis++: Improving OOD Detection via Feature Normalization](https://proceedings.mlr.press/v267/muller25a.html) by Müller and Hein
+
+(ICML 2025) [Strengthen Out-of-Distribution Detection Capability with Progressive Self-Knowledge Distillation](https://proceedings.mlr.press/v267/yang25ap.html) by Yang and Xu
+
+(UAI 2025) [Optimal Zero-shot Regret Minimization for Selective Classification with Out-of-Distribution Detection](https://proceedings.mlr.press/v286/dadalto-camara-gomes25a.html) by Gomes and Romanelli
+
+(UAI 2024) [Latent Representation Entropy Density for Distribution Shift Detection](https://proceedings.mlr.press/v244/arnez24a.html) by Arnez et al.
+
+(UAI 2024) [Mitigating Overconfidence in Out-of-Distribution Detection by Capturing Extreme Activations](https://proceedings.mlr.press/v244/azizmalayeri24a.html) by Azizmalayeri et al.
+
+(ICML 2024) [RODEO: Robust Outlier Detection via Exposing Adaptive Out-of-Distribution Samples](https://proceedings.mlr.press/v235/mirzaei24a.html) by Mirzaei et al.
+
+(JMLR 2024) [On the Learnability of Out-of-distribution Detection](https://jmlr.org/papers/v25/23-1257.html) by Fang et al.
+
+(ECCV 2024) [Vision-Language Dual-Pattern Matching for Out-of-Distribution Detection](https://eccv2024.ecva.net/virtual/2024/poster/2615) by Zhang et al.
+
+(ECCV 2024) [ProSub: Probabilistic Open-Set Semi-Supervised Learning with Subspace-Based Out-of-Distribution Detection](https://eccv2024.ecva.net/virtual/2024/poster/1192) by Li et al.
+
+(ECCV 2024) [PixOOD: Pixel-Level Out-of-Distribution Detection](https://eccv2024.ecva.net/virtual/2024/poster/828) by Bansal et al.
+
+(ECCV 2024) [Gradient-based Out-of-Distribution Detection](https://eccv2024.ecva.net/virtual/2024/poster/1930) by Yoo et al.
+
+(ECCV 2024) [LAPT: Label-driven Automated Prompt Tuning for OOD Detection with Vision-Language Models](https://eccv2024.ecva.net/virtual/2024/poster/1567) by Wang et al.
+
+(ECCV 2024) [TAG: Text Prompt Augmentation for Zero-Shot Out-of-Distribution Detection](https://eccv2024.ecva.net/virtual/2024/poster/772) by Chen et al.
+
+(ECCV 2024) [Diffusion for Out-of-Distribution Detection on Road Scenes and Beyond](https://eccv2024.ecva.net/virtual/2024/poster/1152) by Xie et al.
+
+(ECCV 2024) [Placing Objects in Context via Inpainting for Out-of-distribution Segmentation](https://eccv2024.ecva.net/virtual/2024/poster/1910) by Sakaridis et al.
+
+(AAAI 2024) [Out-of-Distribution Detection in Long-Tailed Recognition with Calibrated Outlier Class Learning](https://aaai.org/wp-content/uploads/2024/01/AAAI_Main-Track_2024-01-04.pdf) by Miao et al.
+
+(AAAI 2024) [TagFog: Textual Anchor Guidance and Fake Outlier Generation for Visual Out-of-Distribution Detection](https://aaai.org/wp-content/uploads/2024/02/AAAI-24-Saturday-Poster-Sessions-2.pdf) by Chen et al.
+
+(AAAI 2024) [Exploiting Discrepancy in Feature Statistic for Out-of-Distribution Detection](https://aaai.org/wp-content/uploads/2024/02/AAAI-24-Saturday-Poster-Sessions-1.pdf) by Guan et al.
 
 (NeurIPS 2024) [Learning Structured Representations with Hyperbolic Embeddings](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a5d2da376bab7624b3caeb9f78fcaa2f-Abstract-Conference.html) [[Code]](https://github.com/uiuctml/HypStructure) by Sinha et al.
 
@@ -396,8 +464,6 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 (CVPR 2024) [Discriminability-Driven Channel Selection for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_Discriminability-Driven_Channel_Selection_for_Out-of-Distribution_Detection_CVPR_2024_paper.pdf) by Yuan et al.
 
 (CVPR 2024) [CORES: Convolutional Response-based Score for Out-of-distribution Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_CORES_Convolutional_Response-based_Score_for_Out-of-distribution_Detection_CVPR_2024_paper.pdf) by Tang and Hou et al.
-
-(ICLR 2024 Reject) [Detecting Out-Of-Distribution Samples Via Conditional Distribution Entropy With Optimal Transport](https://openreview.net/pdf?id=YnaGcMJQ0M) by Feng et al.
 
 (ICLR 2024) [CONJNORM: Tractable Density Estimation for Out-of-distribution Detection](https://arxiv.org/pdf/2402.17888.pdf) by Peng and Luo et al.
 
@@ -647,13 +713,13 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (AAAI 2022) [On the Impact of Spurious Correlation for Out-of-distribution Detection](https://arxiv.org/pdf/2109.05642.pdf) [[Code]](https://github.com/deeplearning-wisc/Spurious_OOD) by Ming et al.
 
-(AAAI 2022) [iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection](https://www.aaai.org/AAAI22Papers/AAAI-12912.KaurR.pdf) by Kaur et al.
+(AAAI 2022) [iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection](https://cdn.aaai.org/ojs/20670/20670-13-24683-1-2-20220628.pdf) by Kaur et al.
 
 (AAAI 2022) [Provable Guarantees for Understanding Out-of-distribution Detection](https://arxiv.org/pdf/2112.00787.pdf) [[Code]](https://github.com/AlexMeinke/Provable-OOD-Detection) by Morteza and Li
 
-(AAAI 2022) [Learning Modular Structures That Generalize Out-of-Distribution (Student Abstract)](https://www.aaai.org/AAAI22Papers/SA-00398-AshokA.pdf) by Ashok et al.
+(AAAI 2022) [Learning Modular Structures That Generalize Out-of-Distribution (Student Abstract)](https://cdn.aaai.org/ojs/21589/21589-13-25602-1-2-20220628.pdf) by Ashok et al.
 
-(AAAI 2022) [Exploiting Mixed Unlabeled Data for Detecting Samples of Seen and Unseen Out-of-Distribution Classes](https://www.aaai.org/AAAI22Papers/AAAI-6640.SunY.pdf) by Sun and Wang
+(AAAI 2022) [Exploiting Mixed Unlabeled Data for Detecting Samples of Seen and Unseen Out-of-Distribution Classes](https://cdn.aaai.org/ojs/20814/20814-13-24827-1-2-20220628.pdf) by Sun and Wang
 
 (CVPR 2021) [Out-of-Distribution Detection Using Union of 1-Dimensional Subspaces](https://openaccess.thecvf.com/content/CVPR2021/papers/Zaeemzadeh_Out-of-Distribution_Detection_Using_Union_of_1-Dimensional_Subspaces_CVPR_2021_paper.pdf) [[Code]](https://github.com/zaeemzadeh/OOD) by Zaeemzadeh et al.
 
@@ -749,6 +815,32 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ## OOD Robustness
 
+(ICLR 2026) [CoFact: Conformal Factuality Guarantees for Language Models under Covariate Shift](https://openreview.net/forum?id=eiBp7rsc3K) by Hu et al.
+
+(ICCV 2025) [The Devil is in the Spurious Correlations: Boosting Moment Retrieval with Dynamic Learning](https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_The_Devil_is_in_the_Spurious_Correlations_Boosting_Moment_Retrieval_ICCV_2025_paper.html) by Zhou et al.
+
+(ICCV 2025) [Bias in Gender Bias Benchmarks: How Spurious Features Distort Evaluation](https://openaccess.thecvf.com/content/ICCV2025/html/Hirota_Bias_in_Gender_Bias_Benchmarks_How_Spurious_Features_Distort_Evaluation_ICCV_2025_paper.html) by Hirota et al.
+
+(AISTATS 2025) [Elastic Representation: Mitigating Spurious Correlations for Group Robustness](https://proceedings.mlr.press/v258/wen25a.html) by Wen et al.
+
+(AISTATS 2025) [Out-of-distribution robustness for multivariate analysis via causal regularisation](https://proceedings.mlr.press/v258/durand25a.html) by Durand et al.
+
+(AISTATS 2025) [Scalable Out-of-Distribution Robustness in the Presence of Unobserved Confounders](https://proceedings.mlr.press/v258/prashant25a.html) by Prashant et al.
+
+(AISTATS 2025) [Mixed-Feature Logistic Regression Robust to Distribution Shifts](https://proceedings.mlr.press/v258/sun25e.html) by Sun et al.
+
+(ICLR 2025) [Learning Neural Networks with Distribution Shift: Efficiently Certifiable Guarantees](https://openreview.net/forum?id=ed7zI29lRF) by Chandrasekaran et al.
+
+(ICLR 2025) [Wasserstein-Regularized Conformal Prediction under General Distribution Shift](https://openreview.net/forum?id=aJ3tiX1Tu4) by Xu et al.
+
+(TMLR 2025) [A Unified View of Double-Weighting for Marginal Distribution Shift](https://openreview.net/forum?id=aPyJilTiIb) by Segovia-Martin et al.
+
+(TMLR 2025) [Distributionally Robust Coreset Selection under Covariate Shift](https://openreview.net/forum?id=Eu7XMLJqsC) by Tanaka et al.
+
+(TMLR 2025) [An Analysis of Model Robustness across Concurrent Distribution Shifts](https://openreview.net/forum?id=nxQtoHHcj9) by Jeon et al.
+
+
+
 (TMLR 2025) [Out of Spuriousity: Improving Robustness to Spurious Correlations without Group Annotations](https://openreview.net/forum?id=EEeVYfXor5) [[Code]](https://github.com/aix-group/prusc) by Le et al.
 
 (TMLR 2025) [Making Self-supervised Learning Robust to Spurious Correlation via Learning-speed Aware Sampling](https://openreview.net/forum?id=8mgX3Uw2Ea) [[Code]](https://github.com/jackzhu727/LA-SSL) by Zhu et al.
@@ -762,6 +854,24 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 (ICML 2025) [FOCoOp: Enhancing Out-of-Distribution Robustness in Federated Prompt Learning for Vision-Language Models](https://proceedings.mlr.press/v267/liao25e.html) by Liao et al.
 
 (ICLR 2025) [Adversarially Robust Out-of-Distribution Detection Using Lyapunov-Stabilized Embeddings](https://openreview.net/forum?id=GrDne4055L) by Mirzaei and Mathis
+
+(AAAI 2024) [MaxEnt Loss: Constrained Maximum Entropy for Calibration under Out-of-Distribution Shift](https://aaai.org/wp-content/uploads/2024/01/AAAI_SRRAI_2024-01-04.pdf) by Ladner and Althoff
+
+(AISTATS 2024) [Mind the GAP: Improving Robustness to Subpopulation Shifts with Group-Aware Priors](https://proceedings.mlr.press/v238/rudner24a.html) by Rudner et al.
+
+(AISTATS 2024) [TransFusion: Covariate-Shift Robust Transfer Learning for High-Dimensional Regression](https://proceedings.mlr.press/v238/he24a.html) by He et al.
+
+(AISTATS 2024) [Density-Regression: Efficient and Distance-aware Deep Regressor for Uncertainty Estimation under Distribution Shifts](https://proceedings.mlr.press/v238/manh-bui24a.html) by Bui and Liu
+
+(ICLR 2024) [Adapting to Distribution Shift by Visual Domain Prompt Generation](https://openreview.net/forum?id=sSaN4gxuEf) by Chi et al.
+
+(ICLR 2024) [Understanding the Robustness of Multi-modal Contrastive Learning to Distribution Shift](https://openreview.net/forum?id=rtl4XnJYBh) by Xue et al.
+
+(ECCV 2024) [Robust Nearest Neighbors for Source-Free Domain Adaptation under Class Distribution Shift](https://eccv2024.ecva.net/virtual/2024/poster/833) by Tejero-de-Pablos et al.
+
+(ECCV 2024) [TTT-MIM: Test-Time Training with Masked Image Modeling for Denoising Distribution Shifts](https://eccv2024.ecva.net/virtual/2024/poster/1788) by Mansour et al.
+
+(ECCV 2024) [Human Motion Forecasting in Dynamic Domain Shifts: A Homeostatic Continual Test-time Adaptation Framework](https://eccv2024.ecva.net/virtual/2024/poster/2485) by Mansour et al.
 
 (NeurIPS 2024) [Reconstruct and Match: Out-of-Distribution Robustness via Topological Homogeneity](https://neurips.cc/virtual/2024/poster/94189) by Chen et al.
 
@@ -802,6 +912,80 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 (ICLR 2026) [Diverse and Sparse Mixture-of-Experts for Causal Subgraph-Based Out-of-Distribution Graph Learning](https://openreview.net/forum?id=4XVczusV2K) by Sun et al.
 
 (ICLR 2026) [Towards Generalizable PDE Dynamics Forecasting via Physics-Guided Invariant Learning](https://openreview.net/forum?id=zrQkWSecMR) by Li et al.
+
+(ICLR 2026) [Reasoning-Driven Multimodal LLM for Domain Generalization](https://openreview.net/forum?id=psJiUopUt7) by Xu et al.
+
+(ICLR 2026) [Noise-Aware Generalization: Robustness to In-Domain Noise and Out-of-Domain Generalization](https://openreview.net/forum?id=wb83wO41QT) by Wang et al.
+
+(ICLR 2026) [Does Weak-to-strong Generalization Happen under Spurious Correlations?](https://openreview.net/forum?id=5hfa2itwGz) by Liu et al.
+
+(ICLR 2026) [Mitigating Spurious Correlation via Distributionally Robust Learning with Hierarchical Ambiguity Sets](https://openreview.net/forum?id=mruL1LDjzV) by Jo et al.
+
+(ICLR 2026) [LABEL-FREE MITIGATION OF SPURIOUS CORRELATIONS IN VLMS USING SPARSE AUTOENCODERS](https://openreview.net/forum?id=NHOLsaHuFv) by Yalavarthi et al.
+
+(ICLR 2026) [Bridging Explainability and Embeddings: BEE Aware of Spuriousness](https://openreview.net/forum?id=9jYpHmI8ot) by Paduraru et al.
+
+(ICLR 2026) [Spurious Correlation-Aware Embedding Regularization for Worst-Group Robustness](https://openreview.net/forum?id=Grb5AOs7WC) by Park et al.
+
+(ICLR 2026) [Federated Learning with Profile Mapping under Distribution Shifts and Drifts](https://openreview.net/forum?id=thoPskdIcE) by Li et al.
+
+(TMLR 2026) [Diversity Sampling Regularization for Multi-Domain Generalization](https://openreview.net/forum?id=nXqMt7X2RX) by Tamang et al.
+
+(TMLR 2025) [Disentangled Embedding through Style and Mutual Information for Domain Generalization](https://openreview.net/forum?id=552tedTByb) by Mehmood and Barner
+
+(TMLR 2025) [Domain Generalization for Time Series: Enhancing Drilling Regression Models for Stick-Slip Index Prediction](https://openreview.net/forum?id=nNN1pPJRVL) by Yahia et al.
+
+(TMLR 2025) [Latent Covariate Shift: Unlocking Partial Identifiability for Multi-Source Domain Adaptation](https://openreview.net/forum?id=9kFlOyLwyf) by Liu et al.
+
+(TMLR 2025) [Prompt Tuning Vision Language Models with Margin Regularizer for Few-Shot Learning under Distribution Shifts](https://openreview.net/forum?id=ZnWqtPhHM7) by Brahma et al.
+
+(TMLR 2024) [Domain-Generalizable Multiple-Domain Clustering](https://openreview.net/forum?id=O9RUANpPmb) by Rozner et al.
+
+(TMLR 2024) [Weighted Risk Invariance: Domain Generalization under Invariant Feature Shift](https://openreview.net/forum?id=WyPKLWPYsr) by Wong et al.
+
+
+(ICCV 2025) [ASGS: Single-Domain Generalizable Open-Set Object Detection via Adaptive Subgraph Searching](https://openaccess.thecvf.com/content/ICCV2025/html/Yuan_ASGS_Single-Domain_Generalizable_Open-Set_Object_Detection_via_Adaptive_Subgraph_Searching_ICCV_2025_paper.html) by Yuan et al.
+
+(ICCV 2025) [Open-set Cross Modal Generalization via Multimodal Unified Representation](https://openaccess.thecvf.com/content/ICCV2025/html/Huang_Open-set_Cross_Modal_Generalization_via_Multimodal_Unified_Representation_ICCV_2025_paper.html) by Huang et al.
+
+(ICCV 2025) [Bridging Domain Generalization to Multimodal Domain Generalization via Unified Representations](https://openaccess.thecvf.com/content/ICCV2025/html/Huang_Bridging_Domain_Generalization_to_Multimodal_Domain_Generalization_via_Unified_Representations_ICCV_2025_paper.html) by Huang et al.
+
+(ICCV 2025) [Domain Generalizable Portrait Style Transfer](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Domain_Generalizable_Portrait_Style_Transfer_ICCV_2025_paper.html) by Wang et al.
+
+(AISTATS 2025) [Accuracy on the wrong line: On the pitfalls of noisy data for out-of-distribution generalisation](https://proceedings.mlr.press/v258/sanyal25a.html) by Sanyal et al.
+
+(AISTATS 2025) [Adapting to Online Distribution Shifts in Deep Learning: A Black-Box Approach](https://proceedings.mlr.press/v258/baby25a.html) by Baby et al.
+
+(AISTATS 2025) [Harnessing the Power of Vicinity-Informed Analysis for Classification under Covariate Shift](https://proceedings.mlr.press/v258/fujikawa25a.html) by Fujikawa et al.
+
+(AISTATS 2025) [Conformal Prediction Under Generalized Covariate Shift with Posterior Drift](https://proceedings.mlr.press/v258/wang25l.html) by Wang and Qiao
+
+(AISTATS 2025) [Importance-weighted Positive-unlabeled Learning for Distribution Shift Adaptation](https://proceedings.mlr.press/v258/kumagai25a.html) by Kumagai et al.
+
+(AISTATS 2025) [Invariant Link Selector for Spatial-Temporal Out-of-Distribution Problem](https://proceedings.mlr.press/v258/tieu25a.html) by Tieu et al.
+
+(AISTATS 2025) [DeCaf: A Causal Decoupling Framework for OOD Generalization on Node Classification](https://proceedings.mlr.press/v258/han25b.html) by Han et al.
+
+(ICLR 2025) [EvA: Erasing Spurious Correlations with Activations](https://openreview.net/forum?id=zKvrOOBouT) by He et al.
+
+(ICLR 2025) [Minimax Optimal Two-Stage Algorithm For Moment Estimation Under Covariate Shift](https://openreview.net/forum?id=oc4yw7zX9T) by Zhang et al.
+
+(ICLR 2025) [Group-robust Sample Reweighting for Subpopulation Shifts via Influence Functions](https://openreview.net/forum?id=aQj9Ifxrl6) by Qiao et al.
+
+(ICLR 2025) [Multimodal Unsupervised Domain Generalization by Retrieving Across the Modality Gap](https://openreview.net/forum?id=bqoHdVMIbt) by Liao et al.
+
+(ICLR 2025) [Federated Domain Generalization with Data-free On-server Matching Gradient](https://openreview.net/forum?id=8TERgu1Lb2) by Nguyen et al.
+
+(AAAI 2025) [Partial Label Causal Representation Learning for Instance-Dependent Supervision and Domain Generalization](https://aaai.org/wp-content/uploads/2025/02/AAAI-25-Main-Track-Poster-Schedule.pdf) by Wang et al.
+
+(AAAI 2025) [Federated Unsupervised Domain Generalization using Global and Local Alignment of Gradients](https://aaai.org/wp-content/uploads/2025/01/AAAI-25-Poster-Schedule.pdf) by Pourpanah et al.
+
+(AAAI 2025) [TTA-FedDG: Leveraging Test-Time Adaptation to Address Federated Domain Generalization](https://aaai.org/wp-content/uploads/2025/01/AAAI-25-Poster-Schedule.pdf) by Liang et al.
+
+(AAAI 2025) [PointDGMamba: Domain Generalization of Point Cloud Classification via Generalized State Space Model](https://aaai.org/wp-content/uploads/2025/02/AAAI-25-Main-Track-Poster-Schedule.pdf) by Yang et al.
+
+(AAAI 2025) [DomCLP: Domain-wise Contrastive Learning with Prototype Mixup for Unsupervised Domain Generalization](https://aaai.org/wp-content/uploads/2025/01/AAAI-25-Poster-Schedule.pdf) by Lee et al.
+
 
 (NeurIPS 2025) [Aggregation Hides Out-of-Distribution Generalization Failures from Spurious Correlations](https://neurips.cc/virtual/2025/poster/115351) by Salaudeen et al.
 
@@ -853,8 +1037,106 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (JMLR 2026) [Boosted Control Functions: Distribution Generalization and Invariance in Confounded Models](https://jmlr.org/papers/v27/24-2207.html) by Gnecco et al.
 
+(NeurIPS 2025) [Continuous Domain Generalization](https://neurips.cc/virtual/2025/poster/118589) by Cai et al.
+
+(NeurIPS 2025) [How Many Domains Suffice for Domain Generalization? A Tight Characterization via the Domain Shattering Dimension](https://neurips.cc/virtual/2025/poster/116527) by Dwork et al.
+
+(CVPR 2025) [Balanced Direction from Multifarious Choices: Arithmetic Meta-Learning for Domain Generalization](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Balanced_Direction_from_Multifarious_Choices_Arithmetic_Meta-Learning_for_Domain_Generalization_CVPR_2025_paper.html) by Wang et al.
+
+(CVPR 2025) [Adversarial Domain Prompt Tuning and Generation for Single Domain Generalization](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_Adversarial_Domain_Prompt_Tuning_and_Generation_for_Single_Domain_Generalization_CVPR_2025_paper.html) by Xu et al.
+
+(CVPR 2025) [Gradient-Guided Annealing for Domain Generalization](https://openaccess.thecvf.com/content/CVPR2025/html/Ballas_Gradient-Guided_Annealing_for_Domain_Generalization_CVPR_2025_paper.html) by Ballas et al.
+
+(CVPR 2025) [Seeking Consistent Flat Minima for Better Domain Generalization via Refining Loss Landscapes](https://openaccess.thecvf.com/content/CVPR2025/html/Li_Seeking_Consistent_Flat_Minima_for_Better_Domain_Generalization_via_Refining_CVPR_2025_paper.html) by Li et al.
+
+(CVPR 2025) [OSLoPrompt: Bridging Low-Supervision Challenges and Open-Set Domain Generalization in CLIP](https://openaccess.thecvf.com/content/CVPR2025/html/C_OSLoPrompt_Bridging_Low-Supervision_Challenges_and_Open-Set_Domain_Generalization_in_CLIP_CVPR_2025_paper.html) by Mohamad Hassan N C et al.
+
+(CVPR 2025) [Domain Generalization in CLIP via Learning with Diverse Text Prompts](https://openaccess.thecvf.com/content/CVPR2025/html/Wen_Domain_Generalization_in_CLIP_via_Learning_with_Diverse_Text_Prompts_CVPR_2025_paper.html) by Wen et al.
+
+(CVPR 2025) [Unlocking the Potential of Unlabeled Data in Semi-Supervised Domain Generalization](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Unlocking_the_Potential_of_Unlabeled_Data_in_Semi-Supervised_Domain_Generalization_CVPR_2025_paper.html) by Lee et al.
+
+(CVPR 2025) [Single Domain Generalization for Few-Shot Counting via Universal Representation Matching](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Single_Domain_Generalization_for_Few-Shot_Counting_via_Universal_Representation_Matching_CVPR_2025_paper.html) by Chen et al.
+
+(CVPR 2025) [Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2025/html/Lv_Test-Time_Domain_Generalization_via_Universe_Learning_A_Multi-Graph_Matching_Approach_CVPR_2025_paper.html) by Lv et al.
+
+(CVPR 2025) [TIDE: Training Locally Interpretable Domain Generalization Models Enables Test-time Correction](https://openaccess.thecvf.com/content/CVPR2025/html/Agarwal_TIDE_Training_Locally_Interpretable_Domain_Generalization_Models_Enables_Test-time_Correction_CVPR_2025_paper.html) by Agarwal et al.
+
+(CVPR 2025) [When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach](https://openaccess.thecvf.com/content/CVPR2025/html/Rathore_When_Domain_Generalization_meets_Generalized_Category_Discovery_An_Adaptive_Task-Arithmetic_CVPR_2025_paper.html) by Rathore et al.
+
+(ICML 2025) [OOD-Chameleon: Is Algorithm Selection for OOD Generalization Learnable?](https://proceedings.mlr.press/v267/jiang25g.html) by Jiang and Teney
+
+(ICML 2025) [LangDAug: Langevin Data Augmentation for Multi-Source Domain Generalization in Medical Image Segmentation](https://proceedings.mlr.press/v267/tiwary25a.html) by Tiwary et al.
+
+(ICML 2025) [Set Valued Predictions For Robust Domain Generalization](https://proceedings.mlr.press/v267/tsibulsky25a.html) by Tsibulsky et al.
+
+(ICML 2025) [Causality Inspired Federated Learning for OOD Generalization](https://proceedings.mlr.press/v267/zhang25ba.html) by Zhang et al.
+
+(UAI 2025) [Moment Alignment: Unifying Gradient and Hessian Matching for Domain Generalization](https://proceedings.mlr.press/v286/chen25f.html) by Chen et al.
+
+(UAI 2024) [Consistency Regularization for Domain Generalization with Logit Attribution Matching](https://proceedings.mlr.press/v244/gao24a.html) by Gao et al.
+
+(UAI 2024) [Non-stationary Domain Generalization: Theory and Algorithm](https://proceedings.mlr.press/v244/pham24a.html) by Pham et al.
+
+
+(ECCV 2024) [Disentangling Masked Autoencoders for Unsupervised Domain Generalization](https://eccv2024.ecva.net/virtual/2024/poster/836) by Zhao et al.
+
+(ECCV 2024) [Improving Domain Generalization in Self-Supervised Monocular Depth Estimation via Stabilized Adversarial Training](https://eccv2024.ecva.net/virtual/2024/poster/625) by Kim et al.
+
+(ECCV 2024) [Rethinking LiDAR Domain Generalization: Single Source as Multiple Density Domains](https://eccv2024.ecva.net/virtual/2024/poster/2073) by Li et al.
+
+(ECCV 2024) [From Fake to Real: Pretraining on Balanced Synthetic Images to Prevent Spurious Correlations in Image Recognition](https://eccv2024.ecva.net/virtual/2024/poster/497) by Qraitem et al.
+
+(ECCV 2024) [Constructing Concept-based Models to Mitigate Spurious Correlations with Minimal Human Effort](https://eccv2024.ecva.net/virtual/2024/poster/1563) by Mendez et al.
+
+(ECCV 2024) [Benchmarking Spurious Bias in Few-Shot Image Classifiers](https://eccv2024.ecva.net/virtual/2024/poster/1190) by Zhang et al.
+
+(ECCV 2024) [Feature Diversification and Adaptation for Federated Domain Generalization](https://eccv2024.ecva.net/virtual/2024/poster/1207) by Park et al.
+
+(ECCV 2024) [Local and Global Flatness for Federated Domain Generalization](https://eccv2024.ecva.net/virtual/2024/poster/1581) by Zhang et al.
+
+(ECCV 2024) [DG-PIC: Domain Generalized Point-In-Context Learning for Point Cloud Understanding](https://eccv2024.ecva.net/virtual/2024/poster/2434) by Jiang et al.
+
+(ECCV 2024) [Face Reconstruction Transfer Attack as Out-of-Distribution Generalization](https://eccv2024.ecva.net/virtual/2024/poster/1810) by Jung et al.
+
+(ECCV 2024) [SAFT: Towards Out-of-Distribution Generalization in Fine-Tuning](https://eccv2024.ecva.net/virtual/2024/poster/1561) by Nguyen et al.
+
+(ECCV 2024) [Learn to Preserve and Diversify: Parameter-Efficient Group with Orthogonal Regularization for Domain Generalization](https://eccv2024.ecva.net/virtual/2024/poster/444) by Wang et al.
+
+(ECCV 2024) [Domain Shifting: A Generalized Solution for Heterogeneous Cross-Modality Person Re-Identification](https://eccv2024.ecva.net/virtual/2024/poster/1482) by Zhang et al.
+
+(ECCV 2024) [Towards Multimodal Open-Set Domain Generalization and Adaptation through Self-supervision](https://eccv2024.ecva.net/virtual/2024/poster/2313) by Liu et al.
+
+(AISTATS 2024) [Learning Under Random Distributional Shifts](https://proceedings.mlr.press/v238/bansak24a.html) by Bansak et al.
+
+(AISTATS 2024) [Approximate Bayesian Class-Conditional Models under Continuous Representation Shift](https://proceedings.mlr.press/v238/lee24c.html) by Lee and Storkey
+
+(ICLR 2024) [Improving Domain Generalization with Domain Relations](https://openreview.net/forum?id=Dc4rXq3HIA) by Yao et al.
+
+(ICLR 2024) [Understanding Domain Generalization: A Noise Robustness Perspective](https://openreview.net/forum?id=I2mIxuXA72) by Qiao and Low
+
+(ICLR 2024) [Unknown Domain Inconsistency Minimization for Domain Generalization](https://openreview.net/forum?id=eNoiRal5xi) by Shin et al.
+
+(ICLR 2024) [Continual Learning in the Presence of Spurious Correlations: Analyses and a Simple Baseline](https://openreview.net/forum?id=3Y7r6xueJJ) by Lee et al.
+
+(ICLR 2024) [Out-of-Variable Generalisation for Discriminative Models](https://openreview.net/forum?id=zwMfg9PfPs) by Guo et al.
+
+(ICLR 2024) [Domain-Inspired Sharpness-Aware Minimization Under Domain Shifts](https://openreview.net/forum?id=I4wB3HA3dJ) by Zhang et al.
+
+(ICLR 2024) [Towards domain-invariant Self-Supervised Learning with Batch Styles Standardization](https://openreview.net/forum?id=qtE9K23ISq) by Scalbert et al.
+
+(ICLR 2024) [Pooling Image Datasets with Multiple Covariate Shift and Imbalance](https://openreview.net/forum?id=2Mo7v69otj) by Chytas et al.
+
+(AAAI 2024) [Sharpness-Aware Model-Agnostic Long-Tailed Domain Generalization](https://aaai.org/wp-content/uploads/2024/01/AAAI_Main-Track_2024-01-04.pdf) by Su et al.
+
+(AAAI 2024) [Learning Content-Enhanced Mask Transformer for Domain Generalized Urban-Scene Segmentation](https://aaai.org/wp-content/uploads/2024/01/AAAI_Main-Track_2024-01-04.pdf) by Bi et al.
+
+(AAAI 2024) [Object-Aware Domain Generalization for Object Detection](https://aaai.org/wp-content/uploads/2024/01/AAAI-24-Oral-Papers-Schedule-3.pdf) by Lee et al.
+
+(AAAI 2024) [Enhancing Evolving Domain Generalization through Dynamic Latent Representations](https://aaai.org/wp-content/uploads/2024/01/AAAI-24-Oral-Papers-Schedule-3.pdf) by Xie et al.
 
 (NeurIPS 2024) [Bridging Multicalibration and Out-of-distribution Generalization Beyond Covariate Shift](https://neurips.cc/virtual/2024/poster/94486) by Wu et al.
+
+(NeurIPS 2024) [Advancing Open-Set Domain Generalization Using Evidential Bi-Level Hardest Domain Scheduler](https://neurips.cc/virtual/2024/poster/96166) by Peng et al.
 
 (NeurIPS 2024) [AHA: Human-Assisted Out-of-Distribution Generalization and Detection](https://neurips.cc/virtual/2024/poster/96691) by Bai et al.
 
@@ -879,6 +1161,43 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 (ICML 2024) [Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning](https://openreview.net/pdf?id=SMUXPVKUBg) [[Code]](https://github.com/AdityaLab/FOIL) by Liu et al.
 
 (CVPR 2024) [Improving Out-of-Distribution Generalization in Graphs via Hierarchical Semantic Environments](https://openaccess.thecvf.com/content/CVPR2024/papers/Piao_Improving_Out-of-Distribution_Generalization_in_Graphs_via_Hierarchical_Semantic_Environments_CVPR_2024_paper.pdf) by Piao et al.
+
+(CVPR 2024) [PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.html) by Chen et al.
+
+(CVPR 2024) [Rethinking the Evaluation Protocol of Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Rethinking_the_Evaluation_Protocol_of_Domain_Generalization_CVPR_2024_paper.html) by Yu et al.
+
+(CVPR 2024) [Single Domain Generalization for Crowd Counting](https://openaccess.thecvf.com/content/CVPR2024/html/Peng_Single_Domain_Generalization_for_Crowd_Counting_CVPR_2024_paper.html) by Peng et al.
+
+(CVPR 2024) [DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning](https://openaccess.thecvf.com/content/CVPR2024/html/Bai_DiPrompT_Disentangled_Prompt_Tuning_for_Multiple_Latent_Domain_Generalization_in_CVPR_2024_paper.html) by Bai et al.
+
+(CVPR 2024) [A2XP: Towards Private Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_A2XP_Towards_Private_Domain_Generalization_CVPR_2024_paper.html) by Yu et al.
+
+(CVPR 2024) [Test-Time Domain Generalization for Face Anti-Spoofing](https://openaccess.thecvf.com/content/CVPR2024/html/Zhou_Test-Time_Domain_Generalization_for_Face_Anti-Spoofing_CVPR_2024_paper.html) by Zhou et al.
+
+(CVPR 2024) [Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Prompt-Driven_Dynamic_Object-Centric_Learning_for_Single_Domain_Generalization_CVPR_2024_paper.html) by Li et al.
+
+(CVPR 2024) [Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/html/Le_Efficiently_Assemble_Normalization_Layers_and_Regularization_for_Federated_Domain_Generalization_CVPR_2024_paper.html) by Le et al.
+
+(CVPR 2024) [Leveraging Vision-Language Models for Improving Domain Generalization in Image Classification](https://openaccess.thecvf.com/content/CVPR2024/html/Addepalli_Leveraging_Vision-Language_Models_for_Improving_Domain_Generalization_in_Image_Classification_CVPR_2024_paper.html) by Addepalli et al.
+
+(CVPR 2024) [Rethinking Multi-domain Generalization with A General Learning Objective](https://openaccess.thecvf.com/content/CVPR2024/html/Tan_Rethinking_Multi-domain_Generalization_with_A_General_Learning_Objective_CVPR_2024_paper.html) by Tan et al.
+
+(CVPR 2024) [Disentangled Prompt Representation for Domain Generalization](https://openaccess.thecvf.com/content/CVPR2024/html/Cheng_Disentangled_Prompt_Representation_for_Domain_Generalization_CVPR_2024_paper.html) by Cheng et al.
+
+(CVPR 2024) [A Dual-Augmentor Framework for Domain Generalization in 3D Human Pose Estimation](https://openaccess.thecvf.com/content/CVPR2024/html/Peng_A_Dual-Augmentor_Framework_for_Domain_Generalization_in_3D_Human_Pose_CVPR_2024_paper.html) by Peng et al.
+
+(ICML 2024) [Out-of-Domain Generalization in Dynamical Systems Reconstruction](https://proceedings.mlr.press/v235/goring24a.html) by Goring et al.
+
+(ICML 2024) [Graph Structure Extrapolation for Out-of-Distribution Generalization](https://proceedings.mlr.press/v235/li24y.html) by Li et al.
+
+(ICML 2024) [Disentangled Graph Self-supervised Learning for Out-of-Distribution Generalization](https://proceedings.mlr.press/v235/li24br.html) by Li et al.
+
+(ICML 2024) [Using Uncertainty Quantification to Characterize and Improve Out-of-Domain Learning for PDEs](https://proceedings.mlr.press/v235/mouli24a.html) by Mouli et al.
+
+(ICML 2024) [Ensemble Pruning for Out-of-distribution Generalization](https://proceedings.mlr.press/v235/qiao24a.html) by Qiao and Peng
+
+(ICML 2024) [LCA-on-the-Line: Benchmarking Out of Distribution Generalization with Class Taxonomies](https://proceedings.mlr.press/v235/shi24c.html) by Shi et al.
+
 
 (ICLR 2024) [Unraveling The Key Components Of OOD Generalization Via Diversification](https://openreview.net/pdf?id=Lvf7GnaLru) by Benoit, Jiang, Atanov et al.
 
@@ -954,7 +1273,7 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 (ECCV 2022) [Learning to Balance Specificity and Invariance for In and Out of Domain Generalization](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540290.pdf) [[Code]](https://github.com/prithv1/DMG) by Chattopadhyay et al.
 
-(AAAI 2022) [VITA: A Multi-Source Vicinal Transfer Augmentation Method for Out-of-Distribution Generalization](https://www.aaai.org/AAAI22Papers/AAAI-733.ChenM.pdf) by Chen et al.
+(AAAI 2022) [VITA: A Multi-Source Vicinal Transfer Augmentation Method for Out-of-Distribution Generalization](https://cdn.aaai.org/ojs/19908/19908-13-23921-1-2-20220628.pdf) by Chen et al.
 
 (CVPR 2021) [Deep Stable Learning for Out-of-Distribution Generalization](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Deep_Stable_Learning_for_Out-of-Distribution_Generalization_CVPR_2021_paper.pdf) by Zhang et al.
 
@@ -982,19 +1301,56 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 ## OOD Everything else
 
+(ICLR 2026) [Privacy-Protected Causal Survival Analysis Under Distribution Shift](https://openreview.net/forum?id=aTxnsFFO7t) by Liu et al.
+
+(ICCV 2025) [MPBR: Multimodal Progressive Bidirectional Reasoning for Open-Set Fine-Grained Recognition](https://openaccess.thecvf.com/content/ICCV2025/html/Tan_MPBR_Multimodal_Progressive_Bidirectional_Reasoning_for_Open-Set_Fine-Grained_Recognition_ICCV_2025_paper.html) by Tan et al.
+
+(TMLR 2026) [Training-Conditional Coverage Bounds under Covariate Shift](https://openreview.net/forum?id=F6hHT3qWxT) by Pournaderi and Xiang
+
+(TMLR 2025) [Leveraging Gradients for Unsupervised Accuracy Estimation under Distribution Shift](https://openreview.net/forum?id=FIWHRSuoos) by Xie et al.
+
+(TMLR 2025) [Importance Weighting for Aligning Language Models under Deployment Distribution Shift](https://openreview.net/forum?id=C7QWN4AXvp) by Lodkaew et al.
+
+(TMLR 2024) [Selective Classification Under Distribution Shifts](https://openreview.net/forum?id=dmxMGW6J7N) by Liang et al.
+
+(TMLR 2024) [Distributionally Robust Policy Evaluation under General Covariate Shift in Contextual Bandits](https://openreview.net/forum?id=R7PReNELww) by Guo et al.
+
+
+
 (NeurIPS 2025) [Rethinking Out-of-Distribution Detection and Generalization with Collective Behavior Dynamics](https://neurips.cc/virtual/2025/poster/117703) by Wang et al.
 
 (NeurIPS 2025) [Human Texts Are Outliers: Detecting LLM-generated Texts via Out-of-distribution Detection](https://neurips.cc/virtual/2025/poster/120309) [[Code]](https://github.com/cong-zeng/ood-llm-detect) by Zeng et al.
 
 (NeurIPS 2025) [Reinforcement Learning for Out-of-Distribution Reasoning in LLMs: An Empirical Study on Diagnosis-Related Group Coding](https://neurips.cc/virtual/2025/poster/120291) [[Code]](https://github.com/hanyin88/DRG-Sapphire) by Wang et al.
 
-(CVPR 2025) [COUNTS: Benchmarking Object Detectors and Multimodal Large Language Models under Distribution Shifts](https://www.openaccess.thecvf.com/content/CVPR2025/html/Li_COUNTS_Benchmarking_Object_Detectors_and_Multimodal_Large_Language_Models_under_CVPR_2025_paper.html) by Li et al.
+(CVPR 2025) [COUNTS: Benchmarking Object Detectors and Multimodal Large Language Models under Distribution Shifts](https://openaccess.thecvf.com/content/CVPR2025/html/Li_COUNTS_Benchmarking_Object_Detectors_and_Multimodal_Large_Language_Models_under_CVPR_2025_paper.html) by Li et al.
 
 (ICCV 2025) [ODP-Bench: Benchmarking Out-of-Distribution Performance Prediction](https://openaccess.thecvf.com/content/ICCV2025/html/Yu_ODP-Bench_Benchmarking_Out-of-Distribution_Performance_Prediction_ICCV_2025_paper.html) by Yu et al.
 
 (TMLR 2025) [A Unified Approach Towards Active Learning and Out-of-Distribution Detection](https://openreview.net/forum?id=HL75La10FN) [[Code]](https://github.com/TUM-DAML/SISOM) by Schmidt et al.
 
 (TMLR 2025) [Out-of-Distribution Learning with Human Feedback](https://openreview.net/forum?id=5qo8MF3QU1) [[Code]](https://github.com/HaoyueBaiZJU/ood-hf) by Bai et al.
+
+(CVPR 2025) [Open Set Label Shift with Test Time Out-of-Distribution Reference](https://openaccess.thecvf.com/content/CVPR2025/html/Ye_Open_Set_Label_Shift_with_Test_Time_Out-of-Distribution_Reference_CVPR_2025_paper.html) by Ye et al.
+
+(CVPR 2025) [Joint Out-of-Distribution Filtering and Data Discovery Active Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Schmidt_Joint_Out-of-Distribution_Filtering_and_Data_Discovery_Active_Learning_CVPR_2025_paper.html) by Schmidt et al.
+
+(CVPR 2025) [Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy](https://openaccess.thecvf.com/content/CVPR2025/html/Jeong_Playing_the_Fool_Jailbreaking_LLMs_and_Multimodal_LLMs_with_Out-of-Distribution_CVPR_2025_paper.html) by Jeong et al.
+
+(ICML 2025) [LAION-C: An Out-of-Distribution Benchmark for Web-Scale Vision Models](https://proceedings.mlr.press/v267/li25aw.html) by Li et al.
+
+(UAI 2025) [Out-of-distribution Robust Optimization](https://proceedings.mlr.press/v286/cai25c.html) by Cai et al.
+
+(UAI 2025) [Adapting Prediction Sets to Distribution Shifts Without Labels](https://proceedings.mlr.press/v286/kasa25a.html) by Kasa et al.
+
+(UAI 2025) [ODD: Overlap-aware Estimation of Model Performance under Distribution Shift](https://proceedings.mlr.press/v286/mishra25a.html) by Mishra and Liu
+
+(UAI 2025) [Stochastic Embeddings : A Probabilistic and Geometric Analysis of Out-of-Distribution Behavior](https://proceedings.mlr.press/v286/nguyen25b.html) by Nguyen et al.
+
+
+(ECCV 2024) [Bidirectional Uncertainty-Based Active Learning for Open-Set Annotation](https://eccv2024.ecva.net/virtual/2024/poster/458) by Zheng et al.
+
+(AISTATS 2024) [Identifying Confounding from Causal Mechanism Shifts](https://proceedings.mlr.press/v238/mameche24a.html) by Mameche et al.
 
 (NeurIPS 2024) [Adaptive Labeling for Efficient Out-of-distribution Model Evaluation](https://neurips.cc/virtual/2024/poster/93241) by Mittal et al.
 
@@ -1003,8 +1359,6 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 (NeurIPS 2024) [PURE: Prompt Evolution with Graph ODE for Out-of-distribution Fluid Dynamics Modeling](https://neurips.cc/virtual/2024/poster/92971) by Wu et al.
 
 (NeurIPS 2024) [Scanning Trojaned Models Using Out-of-Distribution Samples](https://neurips.cc/virtual/2024/poster/93781) by Mirzaei et al.
-
-(ICML 2024 Reject) [Split-Ensemble: Efficient OOD-aware Ensemble via Task and Model Splitting](https://openreview.net/pdf?id=SLA7VOqwwT) by Chen et al.
 
 (ICML 2024) [Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design](https://openreview.net/pdf/b7a45cf1733be5651f5bddabeece506fb72a174c.pdf) [[Code]](https://github.com/leojklarner/context-guided-diffusion) by Klarner et al.
 
