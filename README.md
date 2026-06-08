@@ -160,6 +160,8 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [OODEEL](https://github.com/deel-ai/oodeel): compact post-hoc OOD toolkit for TensorFlow and PyTorch image classifiers
 
+[TWZRD Agent Intel](https://intel.twzrd.xyz): trust scoring for AI agents on Solana. Detects anomalous/untrustworthy agent identities before x402 micropayments. Free MCP tools for identity verification and preflight checks.
+
 [TorchUncertainty](https://github.com/ENSTA-U2IS-AI/torch-uncertainty): broader uncertainty framework with strong support for OOD metrics, evaluation, and tutorials
 
 [Alibi Detect](https://github.com/SeldonIO/alibi-detect): high-quality toolkit for outlier, adversarial, and drift detection across modalities
