@@ -99,6 +99,8 @@ Selected researchers with sustained contributions to OOD detection, open-world l
 
 [(2021) Machine Learning Under Distributional Shifts](https://ai.stanford.edu/?courses=machine-learning-under-distributional-shifts) by Stanford AI Lab
 
+[(2026) Out-of-distribution failure, worked with five numbers](https://davidmashiah.com/notes/out-of-distribution-by-hand) by David Mashiah
+
 
 # Talks
 
